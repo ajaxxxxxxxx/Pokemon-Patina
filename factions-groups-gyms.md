@@ -64,6 +64,9 @@ Illustrative sets (legality and availability TBD):
 
 Candidate singles leader: Toxapex (Regenerator/Black Sludge), Rotom-Heat (Levitate/Heavy-Duty Boots), Appletun (Thick Fat/Leftovers), Snorlax (Gluttony/Figy Berry), industrial waste barrel Pokemon (Levitate/Rocky Helmet), regional Shuckle (replaces prior generic mono-Acid stall slot). Leader use of Shuckle versus subordinate-only use is TBD. Avoid giving every Pokemon Protect and reliable recovery; include offensive pressure. Ensure counters are accessible before the gym.
 
+### Mega Patinian Beedrill — candidate gym leader ace
+User-proposed special technical set: Ancient Power / Silver Wind / Ominous Wind / Electroweb, with bulk, Speed and SpA investment. Bug/Acid, Precision Sting (Technician + Serene Grace), confirmed HP/Atk/Def/SpA/SpD/Spe 65/90/65/90/60/125 (495). The first three attacks each have a 20% chance of an omniboost, Electroweb provides Speed control. Exact gym assignment, EVs and nature TBD. Physical alternate set can exploit prior attrition/hazards/weather with Fell Stinger and Caustic Rush; not the proposed special gym set.
+
 ### Candidate gym rewards (draft)
 Discovery: U-turn; Eden: Substitute; Pedigree: Trick Room; Bountiful: Giga Drain; Victory: Protect; PokeWonder: Metronome; Catalyst: Weather Ball; Heritage: Ancient Power. TM availability and compatibility TBD.
 
