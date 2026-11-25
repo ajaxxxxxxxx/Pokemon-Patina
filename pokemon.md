@@ -71,23 +71,23 @@ Porygon-C draft: alternate Porygon2 evolution using Chemical Disc; 85/60/80/125/
 ## Acid roster priorities (latest direction)
 | Typing | Selected concept or open slot |
 |---|---|
-| Acid | Selected regional forms, Acid Eeveelution and earlier original mono-Acid concepts |
+| Acid | Selected regional forms including Dunsparce, Acid Eeveelution and earlier original mono-Acid concepts |
 | Normal/Acid | Porygon-C |
 | Fire/Acid | Earlier volcanic sulfur salamander concept carried forward |
 | Water/Acid | Tentacool; prior original sea cucumber concept retained |
 | Electric/Acid | Lead-acid battery Pokemon (revised from Electric/Poison) |
-| Grass/Acid | Bellsprout line; prior pitcher plant retained |
+| Grass/Acid | Bellsprout line; corrupted Celebi; prior pitcher plant retained |
 | Ice/Acid | Cloyster; earlier brine concept retained |
 | Fighting/Acid | TBD |
 | Poison/Acid | TBD |
 | Ground/Acid | Gastrodon |
 | Flying/Acid | Acid rain / caustic cloud Pokemon; one ability sets Acid Rain |
-| Psychic/Acid | Starmie |
+| Psychic/Acid | Regional Starmie and Girafarig |
 | Bug/Acid | Shuckle and Beedrill |
-| Rock/Acid | Nuclear material Pokemon (revised from Electric/Rock) |
+| Rock/Acid | Nuclear material Pokemon (revised from Electric/Rock); regional Corsola |
 | Ghost/Acid | TBD |
-| Dragon/Acid | Inchid (mono-Acid) / Acidcoil / Corrosaur |
-| Dark/Acid | TBD; corrupted photosynthesis legendary is Dark/Electric, not Acid |
+| Dragon/Acid | Inchid (mono-Acid) / Acidcoil / Corrosaur; regional Kingdra |
+| Dark/Acid | Regional Sneasel and Houndoom; corrupted photosynthesis legendary remains Dark/Electric |
 | Steel/Acid | Chemical waste barrel Pokemon (revised from Poison/Steel) |
 | Fairy/Acid | Togecidic / Togechymic (alternate Togepi branch) |
 
@@ -136,6 +136,20 @@ Proposed user-originated first evolution requirement: level up at high friendshi
 Satire: NPCs and commercial culture claim the existing Togetic/Togekiss evolutions were ugly mistakes and the acid-induced alternative is aesthetically superior. Parody of nostalgia-driven redesigns: instead of using Eviolite to preserve a beloved mascot's appearance, trainers are encouraged to expose their trusted companion to Acid. Heritage Revival and PokeWonder are proposed promoters. The alternative is genuinely cute; do not make Acid intrinsically evil or present conventional forms as objectively inferior. Candidate NPC dialogue: "The brochure says it only works if your Togepi really trusts you. Isn't that sweet?" / "I've had my Togetic for eighteen years. Apparently it's unfashionable now."
 
 Draft stats (HP/Atk/Def/SpA/SpD/Spe): Togecidic 65/40/85/80/100/35 (405); Togechymic 95/50/100/120/120/60 (545). Candidate abilities Hustle, Serene Grace, HA Liquid Ooze. Special attacker/disruption role: Erosion, Caustic Spit, Moonblast, Corrosive Jet; Serene Grace doubles standard secondary-effect chances. All numerical parameters, abilities, exact moves and marketing implementation provisional.
+
+## Additional selected regional forms and corrupted mythical
+User-selected additions; supplement all existing concepts. Typings below apply to the named species only; related evolutionary stages, abilities, stats and acquisition methods are TBD.
+| Species | Typing | Candidate design direction (provisional) |
+|---|---|---|
+| Dunsparce | Acid | Chemical excavation |
+| Girafarig | Acid/Psychic | Corrosive secondary head secretions |
+| Sneasel | Dark/Acid | Corrosive claws |
+| Corsola | Acid/Rock | Acid-adapted mineral structures |
+| Houndoom | Dark/Acid | Corrosive secretions instead of fire |
+| Kingdra | Acid/Dragon | Acidic deep-water habitats |
+| Corrupted Celebi | Grass/Acid | Forest guardian altered by environmental destruction; story and form mechanics TBD |
+
+Dudunsparce, Farigiraf, Weavile, Houndour, Horsea and Seadra are possible related forms, not automatically selected or retyped. Corrupted Celebi is a distinct form, not a change to ordinary Celebi. Keep the Dark/Electric solar legendary separate. Acid/Dark is now represented by Sneasel and Houndoom; Acid/Fighting, Acid/Poison and Acid/Ghost remain without selected designs.
 
 ## Regional variants (brainstorm)
 These are new regional forms, not replacements for existing forms.
