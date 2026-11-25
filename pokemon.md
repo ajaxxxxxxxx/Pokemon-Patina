@@ -9,7 +9,7 @@ Preserve each original species' base HP and total BST (modern baseline), redistr
 
 | Concept | Typing | Design notes |
 |---|---|---|
-| Industrial waste barrel | Acid/Steel | Grimer/Muk-like sludge inhabiting industrial drums. Poison Point or Magnet Pull; hidden Levitate. Working names Drumuck / Barrotten. Defensive tank. |
+| Industrial waste barrel | Acid/Steel | Grimer/Muk-like sludge inhabiting industrial drums. Poison Point or Magnet Pull; hidden Levitate. Working names Drumuck / Barrotten; final evolution Vatoxic (confirmed). Defensive tank. |
 | Lead-acid battery | Electric/Acid | Energy storage and electrochemical organism. Working names Voltacid / Plumbolt; proposed Volt Absorb, Battery, hidden Corrosion. |
 | Will-o'-the-wisp | Fire/Fairy | Folkloric luminous spirit; natural marsh/forest creature. Working names Wisplet / Faeflare; proposed Flash Fire, Illuminate; confirmed HA Burning Brightly. |
 | Light/heat source | Electric/Fire | Incandescent filament organism. Working names Filamite / Incandent; confirmed Flame Body / Flash Fire / HA Burning Brightly. |
@@ -245,19 +245,19 @@ Confirmed stage counts and visual progression; names and stats below are draft u
 | Filamite / Incandent | Electric/Fire | 2; Litwick-like individual candle to group of candles; Flame Body / Flash Fire / HA Burning Brightly (user-directed) |
 | Wispy / Wispur / Wispful | Fire/Fairy | 3; mote to orb to differently colored orb surrounded by smaller original motes; names confirmed; HA Burning Brightly confirmed |
 | Voltacid / Plumbolt / Accumulacid | Electric/Acid | 3; leaking single battery to two batteries sharing pool to stack of batteries with rising caustic body |
-| Drumuck / Barrotten / Contamalgam | Steel/Acid | 3; overturned rusty barrel to upright steel barrel with distinct fluid shape to multiple barrels feeding one powerful body; Poison Point / Magnet Pull / HA Levitate retained |
+| Drumuck / Barrotten / Vatoxic | Steel/Acid | 3; overturned rusty barrel to upright steel barrel with distinct fluid shape to multiple barrels feeding one powerful body; Poison Point / Magnet Pull / HA Levitate retained |
 | Inchid / Acidcoil / Corrosaur | Acid then Acid/Dragon | 3; previous design retained |
 | Solar legendary | Dark/Electric | 1 minimum; previous design retained |
 | New Acid legendary | Acid | 1; 600 BST confirmed, culminating environmental destruction plotline; potential Team Gilt capture/exploitation to induce localized ecological collapse and profit from desperate victims; name/design/stats distribution TBD |
 
 Burning Brightly: immunity to accuracy-reducing effects and 10% improved accuracy (user-directed). Proposed implementation uses 1.1x accuracy multiplier and blocks accuracy-stage reductions; interaction with evasion and other accuracy modifiers TBD.
 
-Draft spreads: Caustloom 55/30/45/65/65/50 (310), Corrostorm 90/45/85/100/115/65 (500); Sulflet 45/45/40/65/50/65 (310), Sulfurmander 75/75/70/115/80/100 (515); Radion 80/50/80/60/45/25 (340), Isotore 80/65/110/130/85/55 (525); Filamite 45/30/45/75/55/50 (300), Incandent 75/45/75/125/95/85 (500); Wispy 35/20/35/65/55/70 (280), Wispur 55/35/50/90/80/95 (405), Wispful 75/45/65/115/105/120 (525); Voltacid 45/35/55/65/55/30 (285), Plumbolt 65/45/75/95/75/40 (395), Accumulacid 95/65/95/125/100/50 (530); Drumuck 50/55/65/30/60/20 (280), Barrotten 75/75/90/45/85/30 (400), Contamalgam 105/95/120/60/110/40 (530). Earlier ability suggestions superseded where user specified new ones. All draft spreads subject to balancing.
+Draft spreads: Caustloom 55/30/45/65/65/50 (310), Corrostorm 90/45/85/100/115/65 (500); Sulflet 45/45/40/65/50/65 (310), Sulfurmander 75/75/70/115/80/100 (515); Radion 80/50/80/60/45/25 (340), Isotore 80/65/110/130/85/55 (525); Filamite 45/30/45/75/55/50 (300), Incandent 75/45/75/125/95/85 (500); Wispy 35/20/35/65/55/70 (280), Wispur 55/35/50/90/80/95 (405), Wispful 75/45/65/115/105/120 (525); Voltacid 45/35/55/65/55/30 (285), Plumbolt 65/45/75/95/75/40 (395), Accumulacid 95/65/95/125/100/50 (530); Drumuck 50/55/65/30/60/20 (280), Barrotten 75/75/90/45/85/30 (400), Vatoxic 105/95/120/60/110/40 (530). Earlier ability suggestions superseded where user specified new ones. All draft spreads subject to balancing.
 
 Roster count: 1025 official Gen IX species + 22 original species + 15 new evolutions (including Caustola) + 34 Patina regional/corrupted forms (Sneasler replaces Weavile) = 1096 playable species/forms minimum, excluding official alternate forms, Megas and unselected original brainstorms. Unique National Dex species count 1062.
 
 ## Latest naming and regional evolution notes
-Final waste barrel name Contamalgam is not accepted. User requires another storage container word combined with waste/hazard, following Drumuck and Barrotten. Candidates Vatrocity (vat/atrocity), Caskustic (cask/caustic), Vatriol (vat/vitriol), Toxistern (toxic/cistern); selection TBD. Existing final-stage design and draft stats retained.
+Final waste barrel name Vatoxic (vat + toxic) is user-selected. Existing final-stage design and draft stats retained.
 Caustola draft HP/Atk/Def/SpA/SpD/Spe 85/45/135/65/135/45 (510); candidate Regenerator, Natural Cure, HA Solid Rock. New species, not regional Cursola. Design candidate: living chemically adapted reef. Existing regional HP/BST preservation rule applies to Sneasel and Sneasler, not new species Caustola.
 
 ## Production notes
