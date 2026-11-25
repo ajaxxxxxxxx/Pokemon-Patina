@@ -76,3 +76,6 @@ User-directed: Togepi and Eevee can evolve into their Acid branches by leveling 
 
 ## Implementation notes
 Prefer existing pokeemerald-expansion effects, animations and battle logic. New type chart, UI assets, AI awareness, move data and species data required. Physical vs SpD and Corroded require custom work; audit status storage, save compatibility, cures, ability interactions and AI. Avoid universal access to recovery plus Corroded on bulky species. No implementation or playtesting yet.
+
+## Move compatibility across existing types
+User direction: many Water, Grass, Fire and Poison Pokemon should have access to suitable Acid-type moves without acquiring Acid typing. Select learnsets by anatomy, chemical ecology and battle role; do not retroactively retype existing species or moves. Exact move distributions TBD.
