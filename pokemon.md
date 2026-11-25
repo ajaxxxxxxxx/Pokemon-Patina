@@ -1,17 +1,17 @@
 # Pokemon roster: new species, regional variants and Mega Evolutions
 
-Status: design notes, not implemented. User-specified concepts and stats are distinguished from brainstorms. Existing species and moves are not retroactively retyped. Acid is the only new type; no Normal dual-type concepts are currently prioritized. See [Acid mechanics](acid-type.md).
+Status: design notes, not implemented. User-specified concepts and stats are distinguished from brainstorms. Existing species and moves are not retroactively retyped. Acid is the only new type; Porygon-C is the explicit Normal/Acid concept. See [Acid mechanics](acid-type.md).
 
 ## User-originated new Pokemon and Mega concepts
 
 | Concept | Typing | Design notes |
 |---|---|---|
-| Industrial waste barrel | Poison/Steel | Grimer/Muk-like sludge inhabiting industrial drums. Poison Point or Magnet Pull; hidden Levitate. Working names Drumuck / Barrotten. Defensive tank. |
-| Lead-acid battery | Electric/Poison | Energy storage and electrochemical organism. Working names Voltacid / Plumbolt; proposed Volt Absorb, Battery, hidden Corrosion. |
+| Industrial waste barrel | Acid/Steel | Grimer/Muk-like sludge inhabiting industrial drums. Poison Point or Magnet Pull; hidden Levitate. Working names Drumuck / Barrotten. Defensive tank. |
+| Lead-acid battery | Electric/Acid | Energy storage and electrochemical organism. Working names Voltacid / Plumbolt; proposed Volt Absorb, Battery, hidden Corrosion. |
 | Will-o'-the-wisp | Fire/Fairy | Folkloric luminous spirit; natural marsh/forest creature. Working names Wisplet / Faeflare; proposed Flash Fire, Illuminate, hidden Prankster. |
 | Light/heat source | Electric/Fire | Incandescent filament organism. Working names Filamite / Incandent; proposed Flash Fire, Volt Absorb, hidden Drought. |
-| Parasitic solar collector | Electric/Dark | Selfish/corrupted solar technology, monopolizes sunlight and deprives surrounding plants. Working names Solarceny / Heliovore; proposed Solar Power, Opportunist, hidden Lightning Rod. |
-| Radioactive mineral | Electric/Rock | Radioactivity represented by individual Pokemon, not a new type. Working names Radion / Isotore; proposed Static, Power Spot, hidden Aftermath. |
+| Parasitic solar collector / corrupted photosynthesis legendary | Acid/Dark (latest direction; formerly Electric/Dark) | Selfish/corrupted solar technology, monopolizes sunlight and deprives surrounding plants. Working names Solarceny / Heliovore; proposed Solar Power, Opportunist, hidden Lightning Rod. |
+| Radioactive mineral | Acid/Rock | Radioactivity represented by individual Pokemon, not a new type. Working names Radion / Isotore; proposed Static, Power Spot, hidden Aftermath. |
 | Mega Butterfree | Bug/Dragon | Draconic wing tails and horns; counterpart to Mega Beedrill. |
 
 Proposed solar signature move Light Levy: Electric special, 75 BP, 100 accuracy, 10 PP, restores 50% of damage. Radioactive mineral could have a special Rock move that poisons under ordinary immunity rules. All names and abilities other than the user's barrel ability concept are tentative.
@@ -39,7 +39,7 @@ Base 60/45/50/90/80/70 (395); Mega 60/45/65/135/95/95 (495). Compound Eyes or Ti
 | Fighting | Chemical boxer, terrestrial mantis shrimp inspiration | Iron Fist / Tough Claws |
 | Poison | Toxic nudibranch | Poison Point / Corrosion |
 | Ground | Mineral-dissolving burrower | Sand Rush / Sand Force |
-| Flying | Acid rain cloud | Cloud Nine / Drizzle |
+| Flying | Acid rain cloud (selected) | Acid Rain-setting ability; other slots TBD (earlier Cloud Nine / Drizzle concepts provisional) |
 | Psychic | Alchemical familiar | Synchronize / Magic Guard |
 | Bug | Bombardier beetle | Swarm / Skill Link |
 | Rock | Karst golem | Sturdy / Weak Armor |
@@ -48,6 +48,50 @@ Base 60/45/50/90/80/70 (395); Mega 60/45/65/135/95/95 (495). Compound Eyes or Ti
 | Dark | Corrosive cobra | Intimidate / Merciless |
 | Steel | Refinery automaton | Heatproof / Heavy Metal |
 | Fairy | Color-changing alchemical sprite | Cute Charm / Serene Grace |
+
+## User-selected Acid regional forms and additional evolution
+These supplement, rather than replace, all previous original and regional concepts. Exact unspecified evolutionary stages, stats and abilities remain open.
+
+| Species | Typing | Notes |
+|---|---|---|
+| Staryu | Acid | Confirmed mono-type first stage; caustic sludge habitat |
+| Starmie | Psychic/Acid | Lives in caustic sludge instead of ocean |
+| Bellsprout / Weepinbell / Victreebel | Grass/Acid | Confirmed entire line |
+| Gastrodon | Acid/Ground | Shellos form is a candidate; exact typing TBD |
+| Porygon-C | Normal/Acid | Failed chemical experiment; new evolution, not necessarily a regional form |
+| Beedrill | Bug/Acid | Earlier stages and regional Mega form TBD |
+| Ekans | Acid | Arbok continuation proposed |
+| Tentacool | Water/Acid | Tentacruel continuation proposed |
+| Grimer | Acid | Muk continuation proposed |
+| Shellder | Acid | Confirmed mono-type first stage |
+| Cloyster | Acid/Ice | Confirmed evolved typing |
+
+Porygon-C draft: alternate Porygon2 evolution using Chemical Disc; 85/60/80/125/100/85 (535 BST); candidate Download, Adaptability, HA Contrary. Chemical experiment origin is user-directed; evolution item and stats provisional. Cloyster candidate Skill Link with Chemical Barrage, Icicle Spear, Rock Blast and Shell Smash. Regional Gastrodon candidate Storm Drain or Water Absorb; its natural Water weakness is 4x, Ice 2x, Grass neutral, Ground 2x. Electric and Acid immunities.
+
+## Acid roster priorities (latest direction)
+| Typing | Selected concept or open slot |
+|---|---|
+| Acid | Selected regional forms, Acid Eeveelution and earlier original mono-Acid concepts |
+| Normal/Acid | Porygon-C |
+| Fire/Acid | Earlier volcanic sulfur salamander concept carried forward |
+| Water/Acid | Tentacool; prior original sea cucumber concept retained |
+| Electric/Acid | Lead-acid battery Pokemon (revised from Electric/Poison) |
+| Grass/Acid | Bellsprout line; prior pitcher plant retained |
+| Ice/Acid | Cloyster; earlier brine concept retained |
+| Fighting/Acid | TBD |
+| Poison/Acid | TBD |
+| Ground/Acid | Gastrodon |
+| Flying/Acid | Acid rain / caustic cloud Pokemon; one ability sets Acid Rain |
+| Psychic/Acid | Starmie |
+| Bug/Acid | Shuckle and Beedrill |
+| Rock/Acid | Nuclear material Pokemon (revised from Electric/Rock) |
+| Ghost/Acid | TBD |
+| Dragon/Acid | TBD |
+| Dark/Acid | Corrupted, selfishly hostile photosynthesis legendary; ordinary species TBD |
+| Steel/Acid | Chemical waste barrel Pokemon (revised from Poison/Steel) |
+| Fairy/Acid | TBD |
+
+Earlier brainstorms below and above remain candidates, not deleted or automatically selected for TBD slots. Existing abilities for retyped concepts are provisional and should be reviewed for the revised typing. Acid Rain rules are in [acid-type.md](acid-type.md). Legendary name, exact prior/uncorrupted form, origin and story role remain open.
 
 ## Regional variants (brainstorm)
 These are new regional forms, not replacements for existing forms.
