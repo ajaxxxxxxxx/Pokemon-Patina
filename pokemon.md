@@ -86,12 +86,25 @@ Porygon-C draft: alternate Porygon2 evolution using Chemical Disc; 85/60/80/125/
 | Bug/Acid | Shuckle and Beedrill |
 | Rock/Acid | Nuclear material Pokemon (revised from Electric/Rock) |
 | Ghost/Acid | TBD |
-| Dragon/Acid | TBD |
+| Dragon/Acid | Inchid (mono-Acid) / Acidcoil / Corrosaur |
 | Dark/Acid | TBD; corrupted photosynthesis legendary is Dark/Electric, not Acid |
 | Steel/Acid | Chemical waste barrel Pokemon (revised from Poison/Steel) |
 | Fairy/Acid | TBD |
 
 Earlier brainstorms below and above remain candidates, not deleted or automatically selected for TBD slots. Existing abilities for retyped concepts are provisional and should be reviewed for the revised typing. Acid Rain rules are in [acid-type.md](acid-type.md). Legendary name, exact prior/uncorrupted form, origin and story role remain open.
+
+## Inchid / Acidcoil / Corrosaur — selected original evolutionary family
+User-selected names and concept: a three-stage inchworm-like family progressing from a small Diglett-like burrower through a Dratini-like elongated creature to an enormous segmented tube worm. Inchid is common in wild grass, considered a cute pet in some regions but despised in industrial and agricultural areas. Acidcoil is temperamental, unsuitable for children and requires trust to handle reliably. Most people do not know Corrosaur is its final evolution. NPCs hint at a particular held evolution item.
+
+| Species | Type | Encounter distribution |
+|---|---|---|
+| Inchid | Acid | Common wild grass encounters |
+| Acidcoil | Acid/Dragon | Ordinary trainer teams |
+| Corrosaur | Acid/Dragon | Ace Trainers, gym leaders, Elite Four, bosses and other significant opponents |
+
+Evolution interpretation: Inchid levels up at high friendship to become Acidcoil; Acidcoil levels up holding a particular item to become Corrosaur. Exact item, trigger and availability TBD. No regular wild encounter for evolved stages is currently planned. Do not make Inchid rare simply because of its final evolution.
+
+Draft stats (HP/Atk/Def/SpA/SpD/Spe): Inchid 45/40/50/50/45/40 (270); Acidcoil 70/65/80/85/70/50 (420); Corrosaur 105/100/120/125/100/50 (600). Pseudo-legendary classification and slow mixed tank role are proposals, not approved. Pedigree Trick Room roster is a possible placement. Abilities, moves, item name and sprites TBD.
 
 ## Regional variants (brainstorm)
 These are new regional forms, not replacements for existing forms.
