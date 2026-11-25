@@ -36,6 +36,7 @@ User requirements: equivalents of Flamethrower, elemental punches, Rock Blast an
 
 | Move | Category | BP | Accuracy | PP | Effect |
 |---|---|---:|---:|---:|---|
+| Caustic Spit (working name) | Special | 30 | 100 | 25 | 20% burn; proposed level-1 attack for Inchid |
 | Corrosive Spit | Special | 40 | 100 | 25 | 10% poison |
 | Erosion (working name) | Special | 40 | 100 | 25 | 30% chance to lower one random combat stat by one stage |
 | Caustic Spray | Special | 65 | 100 | 20 | 10% burn |
