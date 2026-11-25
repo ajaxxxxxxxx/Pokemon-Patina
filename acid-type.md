@@ -65,5 +65,10 @@ User requirements: equivalents of Flamethrower, elemental punches, Rock Blast an
 ## Erosion and regional Shuckle
 User-directed concept: a low-power Acid attack (40 BP target) with a 30% chance to lower a random stat, for regional Shuckle's disruption set. Proposed name Erosion, special category, 100 accuracy, 25 PP, noncontact. Candidate stats: Attack, Defense, Sp. Attack, Sp. Defense and Speed; exclude accuracy/evasion and stats already at -6 (selection rules provisional). This is a direct stat change, not an additional major status, so it can coexist with Corroded. Test standard secondary-effect interactions (e.g. Serene Grace raises chance to 60%), stat-drop protection and Acid immunity. See [regional Shuckle](pokemon.md#regional-shuckle--corroded-disruption-specialist).
 
+## Acid Rain (new weather)
+User-directed weather: behaves like Sandstorm in inflicting residual damage, except Acid, Poison, Ground and Water types are immune. The Acid/Flying caustic cloud Pokemon has an ability that establishes Acid Rain.
+
+Proposed Sandstorm-style baseline: 1/16 maximum HP residual damage at end of turn; five-turn duration for normal ability activation; immunity if either defensive type is listed. No automatic type damage boost, defense bonus, accuracy modification or extra status effect specified. Do not assume Sandstorm's Rock SpD bonus carries over. Ability name, weather-setting move, duration extender, interaction with weather immunity abilities/items and field visuals remain TBD. Acid Rain is a distinct weather, not ordinary rain or a terrain; normal weather replacement rules are proposed. Consider as a candidate for Catalyst's weather gym, not a confirmed encounter.
+
 ## Implementation notes
 Prefer existing pokeemerald-expansion effects, animations and battle logic. New type chart, UI assets, AI awareness, move data and species data required. Physical vs SpD and Corroded require custom work; audit status storage, save compatibility, cures, ability interactions and AI. Avoid universal access to recovery plus Corroded on bulky species. No implementation or playtesting yet.
