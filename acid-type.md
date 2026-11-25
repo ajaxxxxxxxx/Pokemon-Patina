@@ -1,7 +1,9 @@
 # Acid type
 
 ## Confirmed design
-Acid is the sole proposed new elemental type (19 total). Do not retroactively retype existing species or moves, including Acid and Acid Spray. Introduce original species, regional variants and new moves. Acid does not bypass normal burn or poison immunities.
+Acid is the sole proposed new elemental type (19 total). No retroactive retype classification will happen (as happened with fairy types), although this will leave some confusion with existing moves/abilities like Acid Spray remaining poison type. 
+
+Acid will come with a new status condition, corrosion, which reduces a random stat each turn (excluding accuracy/evasion); and a new weather type: acid rain.
 
 ## Type chart
 | Existing type | Acid attacks | Attacks against Acid |
