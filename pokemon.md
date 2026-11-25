@@ -2,6 +2,9 @@
 
 Status: design notes, not implemented. User-specified concepts and stats are distinguished from brainstorms. Existing species and moves are not retroactively retyped. Acid is the only new type; Porygon-C is the explicit Normal/Acid concept. See [Acid mechanics](acid-type.md).
 
+## Regional variant balancing — established rule
+Preserve each original species' base HP and total BST (modern baseline), redistributing other stats as appropriate. Improve competitive viability of neglected species through coherent stat allocation, better moves and abilities, without blanket BST increases. Original forms remain unchanged. Draft recent spreads (HP/Atk/Def/SpA/SpD/Spe): Dunsparce 100/45/90/75/90/15 (415); Girafarig 70/45/65/110/65/100 (455); Sneasel 55/110/60/15/75/115 (430); Corsola 65/35/115/45/115/35 (410); Houndoom 75/50/60/125/80/110 (500); Kingdra 75/65/100/110/100/90 (540); corrupted Celebi 100/60/120/110/120/90 (600). These are proposed, not finalized. Candidate niches respectively: Serene Grace disruption, Armor Tail special support, Tough Claws physical offense, Regenerator/Solid Rock wall, Competitive special offense, Sniper/Adaptability weather offense, Regenerator defensive pivot. Mewtwo engineers the solar legendary's corruption and places Celebi in conditions that break its spirit; see narrative outline.
+
 ## User-originated new Pokemon and Mega concepts
 
 | Concept | Typing | Design notes |
