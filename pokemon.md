@@ -131,7 +131,7 @@ Exact move selection and early levels are provisional; the four late Fairy move 
 ## Togepi alternative evolutionary branch — Togecidic / Togechymic
 User-selected names and concept: Togepi gains an alternative Fairy/Acid evolutionary branch, Togecidic followed by Togechymic. Double down on cuteness, not corruption or horror. Retain eggshell motifs, rounded features and approachable appearance as candidate visual directions. The original Togepi, Togetic and Togekiss are unchanged except for evolution branching logic.
 
-Proposed user-originated first evolution requirement: level up at high friendship while Corroded. This should take priority over ordinary friendship evolution into Togetic. Proposed cure of Corroded upon evolution because of new Acid typing; exact status and evolution implementation TBD. Togecidic evolves into Togechymic using a Shiny Stone (confirmed), paralleling Togetic's evolution into Togekiss.
+Proposed user-originated first evolution requirement: level up at high friendship while Corroded OR while exposed to Acid Rain, including a known overworld location with Acid Rain. This should take priority over ordinary friendship evolution into Togetic. Proposed cure of Corroded upon evolution because of new Acid typing; exact status and evolution implementation TBD. Togecidic evolves into Togechymic using a Shiny Stone (confirmed), paralleling Togetic's evolution into Togekiss.
 
 Satire: NPCs and commercial culture claim the existing Togetic/Togekiss evolutions were ugly mistakes and the acid-induced alternative is aesthetically superior. Parody of nostalgia-driven redesigns: instead of using Eviolite to preserve a beloved mascot's appearance, trainers are encouraged to expose their trusted companion to Acid. Heritage Revival and PokeWonder are proposed promoters. The alternative is genuinely cute; do not make Acid intrinsically evil or present conventional forms as objectively inferior. Candidate NPC dialogue: "The brochure says it only works if your Togepi really trusts you. Isn't that sweet?" / "I've had my Togetic for eighteen years. Apparently it's unfashionable now."
 
@@ -184,7 +184,7 @@ User direction: expand the Eeveelution roster to all 19 types as nostalgia-bait 
 | Ghost | Spectreon | Dusk Stone-based evolution |
 | Steel | Ferreon | Level up holding Metal Coat |
 | Dragon | Drakeon | Level up knowing Dragon move |
-| Acid | Vitrioleon | Caustic Stone |
+| Acid | Vitrioleon | Level up with high friendship while Corroded OR in Acid Rain |
 
 Evolution methods need conflict/priority rules, names and sprites not final.
 
