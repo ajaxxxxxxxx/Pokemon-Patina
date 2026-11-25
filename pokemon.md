@@ -57,7 +57,7 @@ These are new regional forms, not replacements for existing forms.
 | Gulpin / Swalot | Acid | Digestive rather than poisonous |
 | Bellsprout line | Grass/Acid | Strong digestive fluids |
 | Sandshrew line | Ground/Acid | Chemical excavation |
-| Shuckle | Bug/Acid | Acidic fermented berries |
+| Shuckle | Bug/Acid | Acidic fermented berries; selected for Corroded stall/disruption (see below) |
 | Slugma line | Fire/Acid | Geothermal acid pools |
 | Koffing line | Poison/Acid | Atmospheric pollutants |
 | Gastly line | Ghost/Acid | Corrosive vapors |
@@ -66,6 +66,20 @@ These are new regional forms, not replacements for existing forms.
 | Nosepass line | Rock/Acid | Mineral extraction |
 | Bounsweet line | Grass/Acid | Citrus fruit |
 | Vanillite line | Ice/Acid | Frozen citrus/brine |
+
+### Regional Shuckle — Corroded disruption specialist
+User-selected regional form: Bug/Acid Shuckle, intended as the unique Acid-type stall Pokemon in a late-game gym. Ferments berries into corrosive fluids; chemically resistant shell coating is a proposed visual/ecological detail.
+
+**User-directed encounter set:** Power Split / Corrode (status move inflicting Corroded) / U-turn / Erosion (working name; low-power Acid attack, approximately 40 BP, with 30% chance to lower a random combat stat).
+
+| Proposed parameter | Value |
+|---|---|
+| Base stats (HP/Atk/Def/SpA/SpD/Spe) | 20/10/230/10/230/5 (unchanged; 505 BST) |
+| Standard abilities | Sturdy / Gluttony |
+| Hidden ability | Regenerator (replacing Contrary in this proposed form) |
+| Gym ability / item | Sturdy / Leftovers (draft) |
+
+Defensive profile using the current Patina chart: weak to Fire, Water and Flying (2x); resists Fighting, Poison, Bug, Steel (0.5x); doubly resists Grass (0.25x); immune to Acid; all other types neutral. Rock and Ground are neutral. Power Split averages actual offensive stats (not stat stages); Corroded and Erosion erode stages; slow U-turn pivots into a teammate. No Protect or reliable recovery in this encounter set. Switching the affected opponent clears stat stages and Power Split but retains Corroded under proposed status rules. Ability, held item, stats and exact Erosion parameters are provisional. See [Acid moves](acid-type.md) and [gym design](factions-groups-gyms.md).
 
 ## Eevee project
 User direction: expand the Eeveelution roster to all 19 types as nostalgia-bait parody. Eight existing evolutions plus eleven new evolved forms (including Normal and Acid). Each uses the traditional 525 BST permutation of 130,110,95,65,65,60. Eevee itself remains the pre-evolution. Collect one of each to acquire Eeveeite. User proposes one stone compatible with all Mega forms. Full 19-Mega roster and universal Wonder Guard are exploratory, not settled. Prefer distinctive specialist abilities if selected; normal Mega remains the generalist.
