@@ -11,8 +11,8 @@ Preserve each original species' base HP and total BST (modern baseline), redistr
 |---|---|---|
 | Industrial waste barrel | Acid/Steel | Grimer/Muk-like sludge inhabiting industrial drums. Poison Point or Magnet Pull; hidden Levitate. Working names Drumuck / Barrotten. Defensive tank. |
 | Lead-acid battery | Electric/Acid | Energy storage and electrochemical organism. Working names Voltacid / Plumbolt; proposed Volt Absorb, Battery, hidden Corrosion. |
-| Will-o'-the-wisp | Fire/Fairy | Folkloric luminous spirit; natural marsh/forest creature. Working names Wisplet / Faeflare; proposed Flash Fire, Illuminate, hidden Prankster. |
-| Light/heat source | Electric/Fire | Incandescent filament organism. Working names Filamite / Incandent; proposed Flash Fire, Volt Absorb, hidden Drought. |
+| Will-o'-the-wisp | Fire/Fairy | Folkloric luminous spirit; natural marsh/forest creature. Working names Wisplet / Faeflare; proposed Flash Fire, Illuminate; confirmed HA Burning Brightly. |
+| Light/heat source | Electric/Fire | Incandescent filament organism. Working names Filamite / Incandent; confirmed Flame Body / Flash Fire / HA Burning Brightly. |
 | Parasitic solar collector / corrupted photosynthesis legendary | Dark/Electric | Selfish/corrupted solar technology, monopolizes sunlight and deprives surrounding plants. Working names Solarceny / Heliovore; proposed Solar Power, Opportunist, hidden Lightning Rod. |
 | Radioactive mineral | Acid/Rock | Radioactivity represented by individual Pokemon, not a new type. Working names Radion / Isotore; proposed Static, Power Spot, hidden Aftermath. |
 | Mega Butterfree | Bug/Dragon | Draconic wing tails and horns; counterpart to Mega Beedrill. |
@@ -53,7 +53,7 @@ Base 60/45/50/90/80/70 (395); Mega 60/45/65/135/95/95 (495). Compound Eyes or Ti
 | Fairy | Color-changing alchemical sprite | Cute Charm / Serene Grace |
 
 ## User-selected Acid regional forms and additional evolution
-These supplement, rather than replace, all previous original and regional concepts. Exact unspecified evolutionary stages, stats and abilities remain open.
+These supplement, rather than replace, all previous original and regional concepts. Entire selected regional evolutionary families are now included; unspecified stage typings, stats and abilities remain open.
 
 | Species | Typing | Notes |
 |---|---|---|
@@ -74,7 +74,7 @@ Porygon-C draft: alternate Porygon2 evolution using Chemical Disc; 85/60/80/125/
 ## Acid roster priorities (latest direction)
 | Typing | Selected concept or open slot |
 |---|---|
-| Acid | Selected regional forms including Dunsparce, Acid Eeveelution and earlier original mono-Acid concepts |
+| Acid | Selected regional forms including Dunsparce, Acid Eeveelution, Inchid, and new mono-Acid 600 BST legendary |
 | Normal/Acid | Porygon-C |
 | Fire/Acid | Earlier volcanic sulfur salamander concept carried forward |
 | Water/Acid | Tentacool; prior original sea cucumber concept retained |
@@ -83,7 +83,7 @@ Porygon-C draft: alternate Porygon2 evolution using Chemical Disc; 85/60/80/125/
 | Ice/Acid | Cloyster; earlier brine concept retained |
 | Fighting/Acid | TBD |
 | Poison/Acid | TBD |
-| Ground/Acid | Gastrodon |
+| Ground/Acid | Gastrodon family; Sandshrew and Sandslash |
 | Flying/Acid | Acid rain / caustic cloud Pokemon; one ability sets Acid Rain |
 | Psychic/Acid | Regional Starmie and Girafarig |
 | Bug/Acid | Shuckle and Beedrill |
@@ -94,7 +94,7 @@ Porygon-C draft: alternate Porygon2 evolution using Chemical Disc; 85/60/80/125/
 | Steel/Acid | Chemical waste barrel Pokemon (revised from Poison/Steel) |
 | Fairy/Acid | Togecidic / Togechymic (alternate Togepi branch) |
 
-Earlier brainstorms below and above remain candidates, not deleted or automatically selected for TBD slots. Existing abilities for retyped concepts are provisional and should be reviewed for the revised typing. Acid Rain rules are in [acid-type.md](acid-type.md). Legendary name, exact prior/uncorrupted form, origin and story role remain open.
+Earlier original-species brainstorms remain candidates; unselected regional brainstorms are retired except Sandshrew. Existing abilities for retyped concepts are provisional and should be reviewed for the revised typing. Acid Rain rules are in [acid-type.md](acid-type.md). Legendary name, exact prior/uncorrupted form, origin and story role remain open.
 
 ## Inchid / Acidcoil / Corrosaur — selected original evolutionary family
 User-selected names and concept: a three-stage inchworm-like family progressing from a small Diglett-like burrower through a Dratini-like elongated creature to an enormous segmented tube worm. Inchid is common in wild grass, considered a cute pet in some regions but despised in industrial and agricultural areas. Acidcoil is temperamental, unsuitable for children and requires trust to handle reliably. Most people do not know Corrosaur is its final evolution. NPCs hint at a particular held evolution item.
@@ -141,7 +141,7 @@ Satire: NPCs and commercial culture claim the existing Togetic/Togekiss evolutio
 Draft stats (HP/Atk/Def/SpA/SpD/Spe): Togecidic 65/40/85/80/100/35 (405); Togechymic 95/50/100/120/120/60 (545). Candidate abilities Hustle, Serene Grace, HA Liquid Ooze. Special attacker/disruption role: Erosion, Caustic Spit, Moonblast, Corrosive Jet; Serene Grace doubles standard secondary-effect chances. All numerical parameters, abilities, exact moves and marketing implementation provisional.
 
 ## Additional selected regional forms and corrupted mythical
-User-selected additions; supplement all existing concepts. Typings below apply to the named species only; related evolutionary stages, abilities, stats and acquisition methods are TBD.
+User-selected additions; supplement all existing concepts. Named species typings are established; related stages are included under the full-family rule, with exact typings, abilities, stats and acquisition methods TBD.
 | Species | Typing | Candidate design direction (provisional) |
 |---|---|---|
 | Dunsparce | Acid | Chemical excavation |
@@ -152,25 +152,10 @@ User-selected additions; supplement all existing concepts. Typings below apply t
 | Kingdra | Acid/Dragon | Acidic deep-water habitats |
 | Corrupted Celebi | Grass/Acid | Forest guardian altered by environmental destruction; story and form mechanics TBD |
 
-Dudunsparce, Farigiraf, Weavile, Houndour, Horsea and Seadra are possible related forms, not automatically selected or retyped. Corrupted Celebi is a distinct form, not a change to ordinary Celebi. Keep the Dark/Electric solar legendary separate. Acid/Dark is now represented by Sneasel and Houndoom; Acid/Fighting, Acid/Poison and Acid/Ghost remain without selected designs.
+Dudunsparce, Farigiraf, Weavile, Houndour, Horsea and Seadra are included under the full-family rule; their exact typings remain TBD. Sneasler and Cursola are form-exclusive branches whose inclusion is TBD. Corrupted Celebi is a distinct form, not a change to ordinary Celebi. Keep the Dark/Electric solar legendary separate. Acid/Dark is now represented by Sneasel and Houndoom; Acid/Fighting, Acid/Poison and Acid/Ghost remain without selected designs.
 
-## Regional variants (brainstorm)
-These are new regional forms, not replacements for existing forms.
-
-| Family | Typing | Adaptation |
-|---|---|---|
-| Gulpin / Swalot | Acid | Digestive rather than poisonous |
-| Bellsprout line | Grass/Acid | Strong digestive fluids |
-| Sandshrew line | Ground/Acid | Chemical excavation |
-| Shuckle | Bug/Acid | Acidic fermented berries; selected for Corroded stall/disruption (see below) |
-| Slugma line | Fire/Acid | Geothermal acid pools |
-| Koffing line | Poison/Acid | Atmospheric pollutants |
-| Gastly line | Ghost/Acid | Corrosive vapors |
-| Goomy line | Dragon/Acid | Digestive secretions |
-| Dwebble line | Bug/Acid | Chemically shaped shell |
-| Nosepass line | Rock/Acid | Mineral extraction |
-| Bounsweet line | Grass/Acid | Citrus fruit |
-| Vanillite line | Ice/Acid | Frozen citrus/brine |
+## Regional families — updated scope
+Retain all previously selected forms and their ordinary evolutionary families, plus Acid/Ground Sandshrew and Sandslash. Include Shellos, Weedle, Kakuna, Arbok, Tentacruel, Muk, Dudunsparce, Farigiraf, Weavile, Houndour, Horsea and Seadra. Exact stage typings TBD except previously specified. Retire the unselected regional brainstorms Gulpin, Slugma, Koffing, Gastly, Goomy, Dwebble, Nosepass, Bounsweet and Vanillite. Do not remove existing selected designs. Whether form-exclusive branches Sneasler and Cursola also receive Patina forms is TBD.
 
 ### Regional Shuckle — Corroded disruption specialist
 User-selected regional form: Bug/Acid Shuckle, intended as the unique Acid-type stall Pokemon in a late-game gym. Ferments berries into corrosive fluids; chemically resistant shell coating is a proposed visual/ecological detail.
@@ -249,6 +234,27 @@ Mega Vaporeon cannot equip Toxic Orb while holding Eeveeite. Huge Power Flareon 
 | Acid | Serene Grace | Secondary effects and corrosion |
 
 Universal Wonder Guard alternative: proposed by user for exploration, not approved. Major balance disparity: Electric and Normal have one weakness, Acid two, Grass and Rock six. Conventional indirect damage and ability bypass remain counters, but normal HP and 625 BST can create hard matchup locks. Distinct abilities are an alternative, not a final decision. Keep normal Family Bond unless changed.
+
+## Original evolutionary families — latest user direction
+Confirmed stage counts and visual progression; names and stats below are draft unless explicitly selected. Stats order HP/Atk/Def/SpA/SpD/Spe.
+| Family | Typing | Stages and concept |
+|---|---|---|
+| Caustloom / Corrostorm | Acid/Flying | 2; single cloud to storm; Acid Rain-setting ability |
+| Sulflet / Sulfurmander | Acid/Fire | 2; volcanic salamander, retain earlier Sulfurmander name |
+| Radion / Isotore | Acid/Rock | 2; larger dim mineral evolves into smaller brighter mineral, half-life motif |
+| Filamite / Incandent | Electric/Fire | 2; Litwick-like individual candle to group of candles; Flame Body / Flash Fire / HA Burning Brightly (user-directed) |
+| Wispy / Wispur / Wispful | Fire/Fairy | 3; mote to orb to differently colored orb surrounded by smaller original motes; names confirmed; HA Burning Brightly confirmed |
+| Voltacid / Plumbolt / Accumulacid | Electric/Acid | 3; leaking single battery to two batteries sharing pool to stack of batteries with rising caustic body |
+| Drumuck / Barrotten / Contamalgam | Steel/Acid | 3; overturned rusty barrel to upright steel barrel with distinct fluid shape to multiple barrels feeding one powerful body; Poison Point / Magnet Pull / HA Levitate retained |
+| Inchid / Acidcoil / Corrosaur | Acid then Acid/Dragon | 3; previous design retained |
+| Solar legendary | Dark/Electric | 1 minimum; previous design retained |
+| New Acid legendary | Acid | 1; 600 BST confirmed, culminating environmental destruction plotline; potential Team Gilt capture/exploitation to induce localized ecological collapse and profit from desperate victims; name/design/stats distribution TBD |
+
+Burning Brightly: immunity to accuracy-reducing effects and 10% improved accuracy (user-directed). Proposed implementation uses 1.1x accuracy multiplier and blocks accuracy-stage reductions; interaction with evasion and other accuracy modifiers TBD.
+
+Draft spreads: Caustloom 55/30/45/65/65/50 (310), Corrostorm 90/45/85/100/115/65 (500); Sulflet 45/45/40/65/50/65 (310), Sulfurmander 75/75/70/115/80/100 (515); Radion 80/50/80/60/45/25 (340), Isotore 80/65/110/130/85/55 (525); Filamite 45/30/45/75/55/50 (300), Incandent 75/45/75/125/95/85 (500); Wispy 35/20/35/65/55/70 (280), Wispur 55/35/50/90/80/95 (405), Wispful 75/45/65/115/105/120 (525); Voltacid 45/35/55/65/55/30 (285), Plumbolt 65/45/75/95/75/40 (395), Accumulacid 95/65/95/125/100/50 (530); Drumuck 50/55/65/30/60/20 (280), Barrotten 75/75/90/45/85/30 (400), Contamalgam 105/95/120/60/110/40 (530). Earlier ability suggestions superseded where user specified new ones. All draft spreads subject to balancing.
+
+Roster count: 1025 official Gen IX species + 22 original species + 14 new evolutions + 34 Patina regional/corrupted forms = 1095 playable species/forms minimum, excluding official alternate forms, Megas, form-exclusive regional branches TBD and unselected original brainstorms. Unique National Dex species count 1061.
 
 ## Production notes
 Retain old species and move definitions. Names, final stats outside Normal Eevee, evolution rules, dex entries, sprites, cries, learnsets, encounters and competitive balance remain work in progress. No implementation or assets yet.
