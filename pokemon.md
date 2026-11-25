@@ -10,7 +10,7 @@ Status: design notes, not implemented. User-specified concepts and stats are dis
 | Lead-acid battery | Electric/Acid | Energy storage and electrochemical organism. Working names Voltacid / Plumbolt; proposed Volt Absorb, Battery, hidden Corrosion. |
 | Will-o'-the-wisp | Fire/Fairy | Folkloric luminous spirit; natural marsh/forest creature. Working names Wisplet / Faeflare; proposed Flash Fire, Illuminate, hidden Prankster. |
 | Light/heat source | Electric/Fire | Incandescent filament organism. Working names Filamite / Incandent; proposed Flash Fire, Volt Absorb, hidden Drought. |
-| Parasitic solar collector / corrupted photosynthesis legendary | Acid/Dark (latest direction; formerly Electric/Dark) | Selfish/corrupted solar technology, monopolizes sunlight and deprives surrounding plants. Working names Solarceny / Heliovore; proposed Solar Power, Opportunist, hidden Lightning Rod. |
+| Parasitic solar collector / corrupted photosynthesis legendary | Dark/Electric | Selfish/corrupted solar technology, monopolizes sunlight and deprives surrounding plants. Working names Solarceny / Heliovore; proposed Solar Power, Opportunist, hidden Lightning Rod. |
 | Radioactive mineral | Acid/Rock | Radioactivity represented by individual Pokemon, not a new type. Working names Radion / Isotore; proposed Static, Power Spot, hidden Aftermath. |
 | Mega Butterfree | Bug/Dragon | Draconic wing tails and horns; counterpart to Mega Beedrill. |
 
@@ -87,7 +87,7 @@ Porygon-C draft: alternate Porygon2 evolution using Chemical Disc; 85/60/80/125/
 | Rock/Acid | Nuclear material Pokemon (revised from Electric/Rock) |
 | Ghost/Acid | TBD |
 | Dragon/Acid | TBD |
-| Dark/Acid | Corrupted, selfishly hostile photosynthesis legendary; ordinary species TBD |
+| Dark/Acid | TBD; corrupted photosynthesis legendary is Dark/Electric, not Acid |
 | Steel/Acid | Chemical waste barrel Pokemon (revised from Poison/Steel) |
 | Fairy/Acid | TBD |
 
