@@ -102,11 +102,31 @@ User-selected names and concept: a three-stage inchworm-like family progressing 
 | Acidcoil | Acid/Dragon | Ordinary trainer teams |
 | Corrosaur | Acid/Dragon | Ace Trainers, gym leaders, Elite Four, bosses and other significant opponents |
 
-Evolution interpretation: Inchid levels up at high friendship to become Acidcoil; Acidcoil levels up holding a particular item to become Corrosaur. Exact item, trigger and availability TBD. No regular wild encounter for evolved stages is currently planned. Do not make Inchid rare simply because of its final evolution.
+Evolution interpretation: Inchid levels up at level 21 or higher with high friendship to become Acidcoil; Acidcoil levels up holding a particular item to become Corrosaur. Exact item, trigger and availability TBD. No regular wild encounter for evolved stages is currently planned. Do not make Inchid rare simply because of its final evolution.
 
 Draft stats (HP/Atk/Def/SpA/SpD/Spe): Inchid 30/15/40/35/35/45 (200; revised draft); Acidcoil 70/65/80/85/70/50 (420); Corrosaur 105/100/120/125/100/50 (600). Pseudo-legendary classification and slow mixed tank role are proposals, not approved. Pedigree Trick Room roster is a possible placement. Abilities, moves, item name and sprites TBD.
 
 Inchid's user-directed power target is Magikarp/cocoon-tier, rather than a typical 270-BST first stage. It must have early access to a weak Acid attack capable of burning opponents so training and friendship are not entirely dependent on switching or Exp. Share. Proposed starter move: Caustic Spit (30 BP, 100 accuracy, 25 PP, 20% burn), learned at level 1. Name, numeric parameters, exact stat allocation and remaining learnset are provisional. See [Acid moves](acid-type.md).
+
+### Inchid learnset and evolution timing
+User-directed: earliest evolution eligibility is level 21, with high friendship. Early utility includes Sticky Web, Sand Attack and Charm, alongside a weak burn-capable Acid attack. Inchid learns Fairy moves at levels 23, 25, 27 and 29, rewarding delayed evolution and compensating for trainers who have not yet reached the friendship threshold. Fairy coverage reflects the cute, child-friendly stage and can be carried into the Acid/Dragon evolutions. To preserve this trade-off, access through evolved-form level-up learnsets, TMs and move reminder rules must be considered; exact restrictions TBD.
+
+| Level | Proposed move |
+|---:|---|
+| 1 | Caustic Spit, String Shot |
+| 4 | Sand Attack |
+| 7 | Harden |
+| 10 | Charm |
+| 13 | Sticky Web |
+| 16 | Erosion |
+| 19 | Acid Armor |
+| 21 | Evolution eligible with high friendship |
+| 23 | Draining Kiss |
+| 25 | Baby-Doll Eyes |
+| 27 | Dazzling Gleam |
+| 29 | Moonblast |
+
+Exact move selection and early levels are provisional; the four late Fairy move levels and minimum evolution level are user-directed. Candidate abilities Run Away and Shield Dust remain provisional.
 
 ## Regional variants (brainstorm)
 These are new regional forms, not replacements for existing forms.
