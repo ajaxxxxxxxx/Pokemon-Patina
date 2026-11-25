@@ -89,7 +89,7 @@ Porygon-C draft: alternate Porygon2 evolution using Chemical Disc; 85/60/80/125/
 | Dragon/Acid | Inchid (mono-Acid) / Acidcoil / Corrosaur |
 | Dark/Acid | TBD; corrupted photosynthesis legendary is Dark/Electric, not Acid |
 | Steel/Acid | Chemical waste barrel Pokemon (revised from Poison/Steel) |
-| Fairy/Acid | TBD |
+| Fairy/Acid | Togecidic / Togechymic (alternate Togepi branch) |
 
 Earlier brainstorms below and above remain candidates, not deleted or automatically selected for TBD slots. Existing abilities for retyped concepts are provisional and should be reviewed for the revised typing. Acid Rain rules are in [acid-type.md](acid-type.md). Legendary name, exact prior/uncorrupted form, origin and story role remain open.
 
@@ -127,6 +127,15 @@ User-directed: earliest evolution eligibility is level 21, with high friendship.
 | 29 | Moonblast |
 
 Exact move selection and early levels are provisional; the four late Fairy move levels and minimum evolution level are user-directed. Candidate abilities Run Away and Shield Dust remain provisional.
+
+## Togepi alternative evolutionary branch — Togecidic / Togechymic
+User-selected names and concept: Togepi gains an alternative Fairy/Acid evolutionary branch, Togecidic followed by Togechymic. Double down on cuteness, not corruption or horror. Retain eggshell motifs, rounded features and approachable appearance as candidate visual directions. The original Togepi, Togetic and Togekiss are unchanged except for evolution branching logic.
+
+Proposed user-originated first evolution requirement: level up at high friendship while Corroded. This should take priority over ordinary friendship evolution into Togetic. Proposed cure of Corroded upon evolution because of new Acid typing; exact status and evolution implementation TBD. Togecidic to Togechymic method TBD.
+
+Satire: NPCs and commercial culture claim the existing Togetic/Togekiss evolutions were ugly mistakes and the acid-induced alternative is aesthetically superior. Parody of nostalgia-driven redesigns: instead of using Eviolite to preserve a beloved mascot's appearance, trainers are encouraged to expose their trusted companion to Acid. Heritage Revival and PokeWonder are proposed promoters. The alternative is genuinely cute; do not make Acid intrinsically evil or present conventional forms as objectively inferior. Candidate NPC dialogue: "The brochure says it only works if your Togepi really trusts you. Isn't that sweet?" / "I've had my Togetic for eighteen years. Apparently it's unfashionable now."
+
+Draft stats (HP/Atk/Def/SpA/SpD/Spe): Togecidic 65/40/85/80/100/35 (405); Togechymic 95/50/100/120/120/60 (545). Candidate abilities Hustle, Serene Grace, HA Liquid Ooze. Special attacker/disruption role: Erosion, Caustic Spit, Moonblast, Corrosive Jet; Serene Grace doubles standard secondary-effect chances. All numerical parameters, abilities, exact moves, final evolution method and marketing implementation provisional.
 
 ## Regional variants (brainstorm)
 These are new regional forms, not replacements for existing forms.
