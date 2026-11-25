@@ -268,11 +268,11 @@ Caustola draft HP/Atk/Def/SpA/SpD/Spe 85/45/135/65/135/45 (510); candidate Regen
 User selections:
 - Sumflarea: new Fire/Grass evolution of ordinary Sunflora, special attack oriented. Draft stats 85/35/75/135/110/60 (500); evolution method and abilities TBD. Earlier Drought/Chlorophyll/Solar Power ideas candidates.
 - Patinian Carnivine: Grass/Acid. Draft 74/110/85/40/110/35 (454); candidate Levitate / Strong Jaw / HA Liquid Ooze.
-- Patinian Finneon and Lumineon: Water/Ice (Finneon typing provisional under full-family rule). Lumineon forced deeper by surface pollution, enhanced bioluminescence including anglerfish-like light organ. Water/Ice/Electric coverage, bulk-oriented redistribution, Storm Drain / Lightning Rod / HA Burning Body (user wording; whether this is existing Burning Brightly or distinct ability TBD). Draft Lumineon 69/31/100/95/110/55 (460).
+- Patinian Finneon and Lumineon: Water/Ice (Finneon typing provisional under full-family rule). Lumineon forced deeper by surface pollution, enhanced bioluminescence including anglerfish-like light organ. Water/Ice/Electric coverage, bulk-oriented redistribution, Storm Drain / Lightning Rod / HA Burning Brightly (confirmed; existing accuracy-enhancing ability). Draft Lumineon 69/31/100/95/110/55 (460).
 - Patinian Heatmor: Fire/Acid, HA Contrary confirmed; draft 85/75/85/115/85/39 (484), candidate Flash Fire / Liquid Ooze.
 - Patinian Purrloin and Liepard: Dark/Fairy (Purrloin typing provisional), Prankster Liepard confirmed; draft Liepard 64/50/65/85/70/112 (446).
 - Original Bug/Fairy butterfly inspired by Beautifly: new species rather than regional Beautifly, provisional interpretation of user suggestion; name, stage count, stats, abilities TBD. Count one minimum.
-- Ordinary Ledian: improved movepool, no new regional form or evolution selected (interpreting user's 'lesson' as Ledian). Exact moves TBD.
+- Ordinary Ledian: improved movepool, no new regional form or evolution selected (confirmed). Exact moves TBD.
 - Reject remaining lower-tier rehabilitation proposals: Delcatty, regional Sunflora, regional Beautifly, Maractus, Tropius, Spinda, Chimecho, Dustox, Watchog, Swanna, Durant, Beheeyem, Luvdisc, Stonjourner and unselected new evolutions. Existing earlier selected concepts unaffected.
 - Broad Acid move compatibility: many Water, Grass, Fire and Poison species should learn suitable Acid attacks without receiving Acid typing. Select based on anatomy, chemistry and competitive role; no blanket type conversion. Ordinary species may receive compatible move additions.
 
