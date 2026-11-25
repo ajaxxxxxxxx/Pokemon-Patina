@@ -62,7 +62,7 @@ These supplement, rather than replace, all previous original and regional concep
 | Bellsprout / Weepinbell / Victreebel | Grass/Acid | Confirmed entire line |
 | Gastrodon | Acid/Ground | Shellos form is a candidate; exact typing TBD |
 | Porygon-C | Normal/Acid | Failed chemical experiment; new evolution, not necessarily a regional form |
-| Beedrill | Bug/Acid | Earlier stages and regional Mega form TBD |
+| Beedrill | Bug/Acid | Ordinary Kakuna evolves into alternate Beedrill during Acid Rain or while Corroded; corresponding Bug/Acid Mega Beedrill. Weedle and Kakuna unchanged. |
 | Ekans | Acid | Arbok continuation proposed |
 | Tentacool | Water/Acid | Tentacruel continuation proposed |
 | Grimer | Acid | Muk continuation proposed |
@@ -155,7 +155,7 @@ User-selected additions; supplement all existing concepts. Named species typings
 Dudunsparce, Farigiraf, Houndour, Horsea and Seadra are included under the full-family rule; their exact typings remain TBD. Patinian Sneasel evolves only into Patinian Sneasler, both Fighting/Acid, replacing the prior Dark/Acid Sneasel/Weavile concept. Patinian Corsola evolves only into Caustola, both Rock/Acid. No Patinian Weavile or Cursola. Corrupted Celebi is a distinct form, not a change to ordinary Celebi. Keep the Dark/Electric solar legendary separate. Acid/Dark is represented by Houndoom; Acid/Fighting by Sneasel and Sneasler. Acid/Poison and Acid/Ghost are intentionally left open until natural concepts arise; do not force coverage.
 
 ## Regional families — updated scope
-Retain all previously selected forms and their ordinary evolutionary families, plus Acid/Ground Sandshrew and Sandslash. Include Shellos, Weedle, Kakuna, Arbok, Tentacruel, Muk, Dudunsparce, Farigiraf, Sneasler, Houndour, Horsea and Seadra. Exact stage typings TBD except previously specified. Retire the unselected regional brainstorms Gulpin, Slugma, Koffing, Gastly, Goomy, Dwebble, Nosepass, Bounsweet and Vanillite. Do not remove existing selected designs. Regional families have one evolutionary path unless otherwise specifically established; Patinian Sneasel evolves into Sneasler and Patinian Corsola into the new species Caustola.
+Retain all previously selected forms and their ordinary evolutionary families, plus Acid/Ground Sandshrew and Sandslash. Include Shellos, Arbok, Tentacruel, Muk, Dudunsparce, Farigiraf, Sneasler, Houndour, Horsea and Seadra. Exact stage typings TBD except previously specified. Retire the unselected regional brainstorms Gulpin, Slugma, Koffing, Gastly, Goomy, Dwebble, Nosepass, Bounsweet and Vanillite. Do not remove existing selected designs. Regional families have one evolutionary path unless otherwise specifically established; ordinary Weedle and Kakuna are unchanged, with an alternate Bug/Acid Beedrill evolution from Kakuna during Acid Rain or while Corroded; Patinian Sneasel evolves into Sneasler and Patinian Corsola into the new species Caustola.
 
 ### Regional Shuckle — Corroded disruption specialist
 User-selected regional form: Bug/Acid Shuckle, intended as the unique Acid-type stall Pokemon in a late-game gym. Ferments berries into corrosive fluids; chemically resistant shell coating is a proposed visual/ecological detail.
@@ -254,7 +254,7 @@ Burning Brightly: immunity to accuracy-reducing effects and 10% improved accurac
 
 Draft spreads: Caustloom 55/30/45/65/65/50 (310), Corrostorm 90/45/85/100/115/65 (500); Sulflet 45/45/40/65/50/65 (310), Sulfurmander 75/75/70/115/80/100 (515); Radion 80/50/80/60/45/25 (340), Isotore 80/65/110/130/85/55 (525); Filamite 45/30/45/75/55/50 (300), Incandent 75/45/75/125/95/85 (500); Wispy 35/20/35/65/55/70 (280), Wispur 55/35/50/90/80/95 (405), Wispful 75/45/65/115/105/120 (525); Voltacid 45/35/55/65/55/30 (285), Plumbolt 65/45/75/95/75/40 (395), Accumulacid 95/65/95/125/100/50 (530); Drumuck 50/55/65/30/60/20 (280), Barrotten 75/75/90/45/85/30 (400), Vatoxic 105/95/120/60/110/40 (530). Earlier ability suggestions superseded where user specified new ones. All draft spreads subject to balancing.
 
-Roster count: 1025 official Gen IX species + 22 original species + 15 new evolutions (including Caustola) + 34 Patina regional/corrupted forms (Sneasler replaces Weavile) = 1096 playable species/forms minimum, excluding official alternate forms, Megas and unselected original brainstorms. Unique National Dex species count 1062.
+Roster count: 1025 official Gen IX species + 22 original species + 15 new evolutions (including Caustola) + 32 Patina regional/corrupted forms (no regional Weedle or Kakuna) = 1094 playable species/forms minimum, excluding official alternate forms, Megas and unselected original brainstorms. Unique National Dex species count 1062.
 
 ## Latest naming and regional evolution notes
 Final waste barrel name Vatoxic (vat + toxic) is user-selected. Existing final-stage design and draft stats retained.
