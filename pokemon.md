@@ -80,10 +80,10 @@ Draft base stats HP/Atk/Def/SpA/SpD/Spe: 65/80/40/70/65/75 (395); proposed Swarm
 |---|---|
 | Acid | Selected regional forms including Dunsparce, Acid Eeveelution, Inchid, and new mono-Acid 600 BST legendary |
 | Normal/Acid | Porygon-C |
-| Fire/Acid | Earlier volcanic sulfur salamander concept carried forward |
+| Fire/Acid | Volcanic sulfur salamander family; Patinian Heatmor |
 | Water/Acid | Tentacool; prior original sea cucumber concept retained |
 | Electric/Acid | Lead-acid battery Pokemon (revised from Electric/Poison) |
-| Grass/Acid | Bellsprout line; corrupted Celebi; prior pitcher plant retained |
+| Grass/Acid | Bellsprout line; corrupted Celebi; Patinian Carnivine; prior pitcher plant brainstorm retained |
 | Ice/Acid | Cloyster; earlier brine concept retained |
 | Fighting/Acid | Patinian Sneasel and Sneasler |
 | Poison/Acid | TBD |
@@ -258,11 +258,28 @@ Burning Brightly: immunity to accuracy-reducing effects and 10% improved accurac
 
 Draft spreads: Caustloom 55/30/45/65/65/50 (310), Corrostorm 90/45/85/100/115/65 (500); Sulflet 45/45/40/65/50/65 (310), Sulfurmander 75/75/70/115/80/100 (515); Radion 80/50/80/60/45/25 (340), Isotore 80/65/110/130/85/55 (525); Filamite 45/30/45/75/55/50 (300), Incandent 75/45/75/125/95/85 (500); Wispy 35/20/35/65/55/70 (280), Wispur 55/35/50/90/80/95 (405), Wispful 75/45/65/115/105/120 (525); Voltacid 45/35/55/65/55/30 (285), Plumbolt 65/45/75/95/75/40 (395), Accumulacid 95/65/95/125/100/50 (530); Drumuck 50/55/65/30/60/20 (280), Barrotten 75/75/90/45/85/30 (400), Vatoxic 105/95/120/60/110/40 (530). Earlier ability suggestions superseded where user specified new ones. All draft spreads subject to balancing.
 
-Roster count: 1025 official Gen IX species + 22 original species + 15 new evolutions (including Caustola) + 32 Patina regional/corrupted forms (no regional Weedle or Kakuna) = 1094 playable species/forms minimum, excluding official alternate forms, Megas and unselected original brainstorms. Unique National Dex species count 1062.
+Roster count: 1025 official Gen IX species + 23 original species minimum + 16 new evolutions + 38 Patina regional/corrupted forms = 1102 playable species/forms minimum, excluding official alternate forms, Megas and unselected original brainstorms. Unique National Dex species count 1064.
 
 ## Latest naming and regional evolution notes
 Final waste barrel name Vatoxic (vat + toxic) is user-selected. Existing final-stage design and draft stats retained.
 Caustola draft HP/Atk/Def/SpA/SpD/Spe 85/45/135/65/135/45 (510); candidate Regenerator, Natural Cure, HA Solid Rock. New species, not regional Cursola. Design candidate: living chemically adapted reef. Existing regional HP/BST preservation rule applies to Sneasel and Sneasler, not new species Caustola.
+
+## Selected lower-tier rehabilitation additions
+User selections:
+- Sumflarea: new Fire/Grass evolution of ordinary Sunflora, special attack oriented. Draft stats 85/35/75/135/110/60 (500); evolution method and abilities TBD. Earlier Drought/Chlorophyll/Solar Power ideas candidates.
+- Patinian Carnivine: Grass/Acid. Draft 74/110/85/40/110/35 (454); candidate Levitate / Strong Jaw / HA Liquid Ooze.
+- Patinian Finneon and Lumineon: Water/Ice (Finneon typing provisional under full-family rule). Lumineon forced deeper by surface pollution, enhanced bioluminescence including anglerfish-like light organ. Water/Ice/Electric coverage, bulk-oriented redistribution, Storm Drain / Lightning Rod / HA Burning Body (user wording; whether this is existing Burning Brightly or distinct ability TBD). Draft Lumineon 69/31/100/95/110/55 (460).
+- Patinian Heatmor: Fire/Acid, HA Contrary confirmed; draft 85/75/85/115/85/39 (484), candidate Flash Fire / Liquid Ooze.
+- Patinian Purrloin and Liepard: Dark/Fairy (Purrloin typing provisional), Prankster Liepard confirmed; draft Liepard 64/50/65/85/70/112 (446).
+- Original Bug/Fairy butterfly inspired by Beautifly: new species rather than regional Beautifly, provisional interpretation of user suggestion; name, stage count, stats, abilities TBD. Count one minimum.
+- Ordinary Ledian: improved movepool, no new regional form or evolution selected (interpreting user's 'lesson' as Ledian). Exact moves TBD.
+- Reject remaining lower-tier rehabilitation proposals: Delcatty, regional Sunflora, regional Beautifly, Maractus, Tropius, Spinda, Chimecho, Dustox, Watchog, Swanna, Durant, Beheeyem, Luvdisc, Stonjourner and unselected new evolutions. Existing earlier selected concepts unaffected.
+- Broad Acid move compatibility: many Water, Grass, Fire and Poison species should learn suitable Acid attacks without receiving Acid typing. Select based on anatomy, chemistry and competitive role; no blanket type conversion. Ordinary species may receive compatible move additions.
+
+## Consolidated selected roster (non-Mega)
+Original families (23 minimum): Caustloom / Corrostorm; Sulflet / Sulfurmander; Radion / Isotore; Filamite / Incandent; Wispy / Wispur / Wispful; Voltacid / Plumbolt / Accumulacid; Drumuck / Barrotten / Vatoxic; Inchid / Acidcoil / Corrosaur; Dark/Electric solar legendary; mono-Acid legendary; unnamed Bug/Fairy butterfly (one minimum).
+New evolutions of existing species (16): Familieon, Championeon, Zephyreon, Toxeon, Duneon, Lithoneon, Lepideon, Spectreon, Ferreon, Drakeon, Vitrioleon (working names); Togecidic, Togechymic, Porygon-C, Caustola, Sumflarea.
+Regional/corrupted forms (38): Sandshrew, Sandslash; Staryu, Starmie; Bellsprout, Weepinbell, Victreebel; Shellos, Gastrodon; Beedrill; Ekans, Arbok; Tentacool, Tentacruel; Grimer, Muk; Shellder, Cloyster; Shuckle; Dunsparce, Dudunsparce; Girafarig, Farigiraf; Sneasel, Sneasler; Corsola; Houndour, Houndoom; Horsea, Seadra, Kingdra; corrupted Celebi; Carnivine; Finneon, Lumineon; Heatmor; Purrloin, Liepard. No Patinian Weedle, Kakuna, Weavile or Cursola.
 
 ## Production notes
 Retain old species and move definitions. Names, final stats outside Normal Eevee, evolution rules, dex entries, sprites, cries, learnsets, encounters and competitive balance remain work in progress. No implementation or assets yet.
