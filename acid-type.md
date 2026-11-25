@@ -37,6 +37,7 @@ User requirements: equivalents of Flamethrower, elemental punches, Rock Blast an
 | Move | Category | BP | Accuracy | PP | Effect |
 |---|---|---:|---:|---:|---|
 | Corrosive Spit | Special | 40 | 100 | 25 | 10% poison |
+| Erosion (working name) | Special | 40 | 100 | 25 | 30% chance to lower one random combat stat by one stage |
 | Caustic Spray | Special | 65 | 100 | 20 | 10% burn |
 | Corrosive Jet | Special | 90 | 100 | 15 | 10% burn; Flamethrower equivalent |
 | Chemical Torrent | Special | 110 | 85 | 5 | 10% burn |
@@ -60,6 +61,9 @@ User requirements: equivalents of Flamethrower, elemental punches, Rock Blast an
 | Reconstitute | Status | — | — | 5 | Recover 50% HP |
 | Chemical Polish | Status | — | — | 20 | Speed +2 |
 | Concentrate | Status | — | — | 20 | SpA +2 |
+
+## Erosion and regional Shuckle
+User-directed concept: a low-power Acid attack (40 BP target) with a 30% chance to lower a random stat, for regional Shuckle's disruption set. Proposed name Erosion, special category, 100 accuracy, 25 PP, noncontact. Candidate stats: Attack, Defense, Sp. Attack, Sp. Defense and Speed; exclude accuracy/evasion and stats already at -6 (selection rules provisional). This is a direct stat change, not an additional major status, so it can coexist with Corroded. Test standard secondary-effect interactions (e.g. Serene Grace raises chance to 60%), stat-drop protection and Acid immunity. See [regional Shuckle](pokemon.md#regional-shuckle--corroded-disruption-specialist).
 
 ## Implementation notes
 Prefer existing pokeemerald-expansion effects, animations and battle logic. New type chart, UI assets, AI awareness, move data and species data required. Physical vs SpD and Corroded require custom work; audit status storage, save compatibility, cures, ability interactions and AI. Avoid universal access to recovery plus Corroded on bulky species. No implementation or playtesting yet.
