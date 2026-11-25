@@ -1,0 +1,135 @@
+# Pokemon roster: new species, regional variants and Mega Evolutions
+
+Status: design notes, not implemented. User-specified concepts and stats are distinguished from brainstorms. Existing species and moves are not retroactively retyped. Acid is the only new type; no Normal dual-type concepts are currently prioritized. See [Acid mechanics](acid-type.md).
+
+## User-originated new Pokemon and Mega concepts
+
+| Concept | Typing | Design notes |
+|---|---|---|
+| Industrial waste barrel | Poison/Steel | Grimer/Muk-like sludge inhabiting industrial drums. Poison Point or Magnet Pull; hidden Levitate. Working names Drumuck / Barrotten. Defensive tank. |
+| Lead-acid battery | Electric/Poison | Energy storage and electrochemical organism. Working names Voltacid / Plumbolt; proposed Volt Absorb, Battery, hidden Corrosion. |
+| Will-o'-the-wisp | Fire/Fairy | Folkloric luminous spirit; natural marsh/forest creature. Working names Wisplet / Faeflare; proposed Flash Fire, Illuminate, hidden Prankster. |
+| Light/heat source | Electric/Fire | Incandescent filament organism. Working names Filamite / Incandent; proposed Flash Fire, Volt Absorb, hidden Drought. |
+| Parasitic solar collector | Electric/Dark | Selfish/corrupted solar technology, monopolizes sunlight and deprives surrounding plants. Working names Solarceny / Heliovore; proposed Solar Power, Opportunist, hidden Lightning Rod. |
+| Radioactive mineral | Electric/Rock | Radioactivity represented by individual Pokemon, not a new type. Working names Radion / Isotore; proposed Static, Power Spot, hidden Aftermath. |
+| Mega Butterfree | Bug/Dragon | Draconic wing tails and horns; counterpart to Mega Beedrill. |
+
+Proposed solar signature move Light Levy: Electric special, 75 BP, 100 accuracy, 10 PP, restores 50% of damage. Radioactive mineral could have a special Rock move that poisons under ordinary immunity rules. All names and abilities other than the user's barrel ability concept are tentative.
+
+### Mega Butterfree draft
+Stat order throughout: HP / Atk / Def / SpA / SpD / Spe.
+Base 60/45/50/90/80/70 (395); Mega 60/45/65/135/95/95 (495). Compound Eyes or Tinted Lens proposed. Typing Bug/Dragon is user-directed; stat spread is provisional.
+
+## Mono-Acid concepts (brainstorm)
+| Working name | Concept | Abilities (draft) | Role |
+|---|---|---|---|
+| Dissol / Solublob | Amber forest slime mold, decomposer rather than pollution | Hydration, Liquid Ooze, HA Regenerator | Defensive utility |
+| Vialit / Flaskor / Retortox | Living alchemical glassware | Clear Body, Liquid Ooze, HA Contrary | Special attacker |
+| Acimicro / Citoblast | Acidophilic microbial colony | Natural Cure, Filter, HA Regenerator | Attrition |
+| Vitriol | Suspended acid droplet with crystallized secretions | Levitate, Corrosion, HA Adaptability | Rare single-stage offense |
+
+## Dual-type Acid concepts (brainstorm)
+| Pair | Concept | Draft abilities |
+|---|---|---|
+| Fire | Sulfurmander, volcanic salamander | Flame Body / Flash Fire |
+| Water | Cucorrosive, sea cucumber | Regenerator / Liquid Ooze |
+| Electric | Electrolyte jellyfish | Static / Volt Absorb |
+| Grass | Carnivorous pitcher plant | Chlorophyll / Liquid Ooze |
+| Ice | Cryogenic brine organism | Ice Body / Snow Cloak |
+| Fighting | Chemical boxer, terrestrial mantis shrimp inspiration | Iron Fist / Tough Claws |
+| Poison | Toxic nudibranch | Poison Point / Corrosion |
+| Ground | Mineral-dissolving burrower | Sand Rush / Sand Force |
+| Flying | Acid rain cloud | Cloud Nine / Drizzle |
+| Psychic | Alchemical familiar | Synchronize / Magic Guard |
+| Bug | Bombardier beetle | Swarm / Skill Link |
+| Rock | Karst golem | Sturdy / Weak Armor |
+| Ghost | Residual chemical spirit | Cursed Body / Infiltrator |
+| Dragon | Corrosive ore-eating wyrm | Shed Skin / Rough Skin |
+| Dark | Corrosive cobra | Intimidate / Merciless |
+| Steel | Refinery automaton | Heatproof / Heavy Metal |
+| Fairy | Color-changing alchemical sprite | Cute Charm / Serene Grace |
+
+## Regional variants (brainstorm)
+These are new regional forms, not replacements for existing forms.
+
+| Family | Typing | Adaptation |
+|---|---|---|
+| Gulpin / Swalot | Acid | Digestive rather than poisonous |
+| Bellsprout line | Grass/Acid | Strong digestive fluids |
+| Sandshrew line | Ground/Acid | Chemical excavation |
+| Shuckle | Bug/Acid | Acidic fermented berries |
+| Slugma line | Fire/Acid | Geothermal acid pools |
+| Koffing line | Poison/Acid | Atmospheric pollutants |
+| Gastly line | Ghost/Acid | Corrosive vapors |
+| Goomy line | Dragon/Acid | Digestive secretions |
+| Dwebble line | Bug/Acid | Chemically shaped shell |
+| Nosepass line | Rock/Acid | Mineral extraction |
+| Bounsweet line | Grass/Acid | Citrus fruit |
+| Vanillite line | Ice/Acid | Frozen citrus/brine |
+
+## Eevee project
+User direction: expand the Eeveelution roster to all 19 types as nostalgia-bait parody. Eight existing evolutions plus eleven new evolved forms (including Normal and Acid). Each uses the traditional 525 BST permutation of 130,110,95,65,65,60. Eevee itself remains the pre-evolution. Collect one of each to acquire Eeveeite. User proposes one stone compatible with all Mega forms. Full 19-Mega roster and universal Wonder Guard are exploratory, not settled. Prefer distinctive specialist abilities if selected; normal Mega remains the generalist.
+
+| New type | Working name (unapproved) | Draft evolution method |
+|---|---|---|
+| Normal | Familieon | Max friendship + Silk Scarf |
+| Fighting | Championeon | Level up knowing Fighting move |
+| Flying | Zephyreon | Level up holding Pretty Feather |
+| Poison | Toxeon | Level up while poisoned |
+| Ground | Duneon | Soft Sand or dedicated item |
+| Rock | Lithoneon | Hard Stone or dedicated item |
+| Bug | Lepideon | Level up in ancient woodland |
+| Ghost | Spectreon | Dusk Stone-based evolution |
+| Steel | Ferreon | Level up holding Metal Coat |
+| Dragon | Drakeon | Level up knowing Dragon move |
+| Acid | Vitrioleon | Caustic Stone |
+
+Evolution methods need conflict/priority rules, names and sprites not final.
+
+### Normal evolution and Mega Eevee — user-specified stats
+| Stat | Normal evolution | Mega |
+|---|---:|---:|
+| HP | 130 | 130 |
+| Attack | 65 | 90 |
+| Defense | 60 | 100 |
+| Sp. Attack | 65 | 90 |
+| Sp. Defense | 95 | 100 |
+| Speed | 110 | 115 |
+| Total | 525 | 625 |
+
+Mega is based on the evolved Normal form, not 325-BST unevolved Eevee. The earlier 130/130 offensive-stat Mega proposal is superseded. Fast, bulky mixed attacker whose ability supplies offense. Normal form's proposed abilities Adaptability / HA Protean are not settled.
+
+Mega sprite: one large Eevee surrounded by chibi Eeveelutions. Type Normal. Unique ability (working name Family Bond): eligible damaging moves strike twice with second hit at 50% damage, universal 1.5x STAB on all damaging move types, immunity to status conditions (major statuses including Corroded; exact handling of existing and volatile status TBD). Nominal combined eligible damage multiplier 2.25x. Retain standard Parental Bond exclusions for spread and multihit moves as proposed; test secondary effects, Power-Up Punch, priority, contact punishment, Focus Sash, recovery and ability suppression. Broad coverage is proposed, exact movepool TBD. Balance the ability and movepool, not excessive offensive base stats.
+
+### Other Mega Eeveelutions — candidate drafts
+All retain monotype and 625 BST. Values below in HP/Atk/Def/SpA/SpD/Spe order; proposals only.
+| Mega | Ability | Stats | Alternate composite concept (not selected) |
+|---|---|---|---|
+| Vaporeon | Poison Heal (or Regenerator) | 130/65/100/125/125/80 | Water Absorb + Regenerator |
+| Jolteon | Transistor | 65/65/85/135/110/165 | Volt Absorb + Transistor |
+| Flareon | Huge Power | 65/130/100/95/130/105 | Flash Fire + Tough Claws |
+| Espeon | Psychic Surge | 65/65/80/175/100/140 | Magic Bounce + Psychic Surge |
+| Umbreon | Fur Coat | 95/65/130/65/180/85 | Fur Coat + Magic Guard |
+| Leafeon | Tinted Lens | 65/150/150/60/80/120 | Chlorophyll + Tinted Lens |
+| Glaceon | Adaptability | 65/60/135/155/125/85 | Snow Warning + Slush Rush |
+| Sylveon | Pixilate | 95/65/90/145/155/75 | Pixilate + Punk Rock |
+
+Mega Vaporeon cannot equip Toxic Orb while holding Eeveeite. Huge Power Flareon and Fur Coat Umbreon are especially strong; balance testing required.
+
+| New Mega type | Candidate ability | Role |
+|---|---|---|
+| Fighting | Tough Claws | Contact offense |
+| Flying | Aerilate | Fast aerial offense |
+| Poison | Merciless | Poison critical specialist |
+| Ground | Sand Force | Sandstorm offense |
+| Rock | Solid Rock | Defensive bruiser |
+| Bug | Skill Link | Multihit attacker |
+| Ghost | Shadow Tag | Trapping/disruption |
+| Steel | Filter | Fortress |
+| Dragon | Contrary | Draco Meteor/Superpower specialist |
+| Acid | Serene Grace | Secondary effects and corrosion |
+
+Universal Wonder Guard alternative: proposed by user for exploration, not approved. Major balance disparity: Electric and Normal have one weakness, Acid two, Grass and Rock six. Conventional indirect damage and ability bypass remain counters, but normal HP and 625 BST can create hard matchup locks. Distinct abilities are an alternative, not a final decision. Keep normal Family Bond unless changed.
+
+## Production notes
+Retain old species and move definitions. Names, final stats outside Normal Eevee, evolution rules, dex entries, sprites, cries, learnsets, encounters and competitive balance remain work in progress. No implementation or assets yet.
