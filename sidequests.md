@@ -10,6 +10,9 @@ NPCs repeat Eden's claim that Plusle and Minun are male/female first-generation 
 ### The rarest fish
 Eden captures Magikarp to control supply. Proposed clues: formerly abundant public waterways become scarce, paid reserves have them, an elder recalls historic abundance, a hidden pond or holding facility reveals the truth. A salesman may charge an absurd price (draft 50,000 versus classic 500). Investigate whether and how the stock is released. Outcome/rewards TBD; this arc may be main story instead.
 
+## Legendary exploration chains — established concept
+Hunting legendary Pokemon and preventing their corruption or recruitment by Mewtwo is gated by puzzles and exploration chains. Mew warns the player of the crisis. Mewtwo engineers corruption of the solar legendary and conditions that break Celebi's spirit. Candidate clues can intersect with corporate investigations, gym access and criminal smuggling routes. Exact legendary roster, puzzles, locations, encounter/capture conditions and impact on post-Elite Four Mewtwo confrontation TBD. See [narrative outline](narrative-outline.md).
+
 ## Other discussed optional hooks (draft)
 - Will-o'-the-wisp: Eden sells nighttime wildlife tours while wetland loss and artificial light threaten the species.
 - Radioactive mineral Pokemon: explore abandoned mines or extraction sites, reveal habitat loss.
