@@ -104,7 +104,9 @@ User-selected names and concept: a three-stage inchworm-like family progressing 
 
 Evolution interpretation: Inchid levels up at high friendship to become Acidcoil; Acidcoil levels up holding a particular item to become Corrosaur. Exact item, trigger and availability TBD. No regular wild encounter for evolved stages is currently planned. Do not make Inchid rare simply because of its final evolution.
 
-Draft stats (HP/Atk/Def/SpA/SpD/Spe): Inchid 45/40/50/50/45/40 (270); Acidcoil 70/65/80/85/70/50 (420); Corrosaur 105/100/120/125/100/50 (600). Pseudo-legendary classification and slow mixed tank role are proposals, not approved. Pedigree Trick Room roster is a possible placement. Abilities, moves, item name and sprites TBD.
+Draft stats (HP/Atk/Def/SpA/SpD/Spe): Inchid 30/15/40/35/35/45 (200; revised draft); Acidcoil 70/65/80/85/70/50 (420); Corrosaur 105/100/120/125/100/50 (600). Pseudo-legendary classification and slow mixed tank role are proposals, not approved. Pedigree Trick Room roster is a possible placement. Abilities, moves, item name and sprites TBD.
+
+Inchid's user-directed power target is Magikarp/cocoon-tier, rather than a typical 270-BST first stage. It must have early access to a weak Acid attack capable of burning opponents so training and friendship are not entirely dependent on switching or Exp. Share. Proposed starter move: Caustic Spit (30 BP, 100 accuracy, 25 PP, 20% burn), learned at level 1. Name, numeric parameters, exact stat allocation and remaining learnset are provisional. See [Acid moves](acid-type.md).
 
 ## Regional variants (brainstorm)
 These are new regional forms, not replacements for existing forms.
