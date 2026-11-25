@@ -71,5 +71,8 @@ User-directed weather: behaves like Sandstorm in inflicting residual damage, exc
 
 Proposed Sandstorm-style baseline: 1/16 maximum HP residual damage at end of turn; five-turn duration for normal ability activation; immunity if either defensive type is listed. No automatic type damage boost, defense bonus, accuracy modification or extra status effect specified. Do not assume Sandstorm's Rock SpD bonus carries over. Ability name, weather-setting move, duration extender, interaction with weather immunity abilities/items and field visuals remain TBD. Acid Rain is a distinct weather, not ordinary rain or a terrain; normal weather replacement rules are proposed. Consider as a candidate for Catalyst's weather gym, not a confirmed encounter.
 
+## Acid-induced evolution
+User-directed: Togepi and Eevee can evolve into their Acid branches by leveling up with high friendship and either Corroded status or exposure to Acid Rain. Provide a known, reliably accessible overworld Acid Rain location, analogous to moss/ice rock evolution locations. No dedicated Acid evolution item is needed. Proposed priority over competing friendship evolutions; exact battle-weather versus overworld-weather detection, Rare Candy behavior and status-clearing timing TBD. See [Pokemon roster](pokemon.md).
+
 ## Implementation notes
 Prefer existing pokeemerald-expansion effects, animations and battle logic. New type chart, UI assets, AI awareness, move data and species data required. Physical vs SpD and Corroded require custom work; audit status storage, save compatibility, cures, ability interactions and AI. Avoid universal access to recovery plus Corroded on bulky species. No implementation or playtesting yet.
