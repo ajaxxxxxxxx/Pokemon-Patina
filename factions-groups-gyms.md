@@ -1,13 +1,13 @@
 # Factions, groups and gyms
 
-## Established structure
-Eight competing mega-industries, each sponsoring the gym leader of one town. They also offer optional player sponsorship with real gameplay advantages. Refusing sponsorship gives no compensating benefit; ordinary progression remains viable but harder. Gyms use thematic mixed-type teams, not type specialties. Corporate names, town names, order, leader identities and exact benefits are working proposals unless explicitly noted.
+## Corporate structure
+Eight competing mega-industries, each sponsoring the gym leader of one town. They also offer optional player sponsorship with real gameplay advantages. Refusing sponsorship gives no compensating benefit; ordinary progression remains viable but harder. Gyms use thematic mixed-type teams, not type specialties. Corporate names, town names, order, leader identities and exact benefits are working proposals unless specified.
 
 | Working faction | Business | Sponsor benefits (draft) | Gym theme |
 |---|---|---|---|
 | Discovery International | Catching, Pokedex, professorial research, Poke Ball control | Ball discounts, capture/research rewards, DexNav | Obscure Pokemon selected for excellent offensive/defensive coverage |
 | Eden Reserve | Safari zones, sanctuaries, controlled access to variants, hidden moves and shinies | Reserve access, rare encounters, hidden abilities/moves | Aesthetic diversity, manufactured desirability |
-| Pedigree Laboratories | Breeding, tutoring, IV/EV optimization, items | Faster egg hatching (user example), training/tutoring | Optimized competitive breeding |
+| Pedigree Laboratories | Breeding, tutoring, IV/EV optimization, items | Faster egg hatching, training/tutoring | Optimized competitive breeding |
 | Bountiful | Berries, food and drinks produced for/by Pokemon | Better berry yields and food | Food and agriculture |
 | Victory League | Battling and money | Prize money | Competitive power |
 | PokeWonder | Minigames, pageants, hypermarketing, GO/gacha/lottery satire | Tokens, minigame and lottery perks | Popular mascots and showmanship |
@@ -15,7 +15,9 @@ Eight competing mega-industries, each sponsoring the gym leader of one town. The
 | Heritage Revival | Heritage restoration, fossils, biotechnology, nostalgia | Fossil restoration, evolution items | Popular starters and fossils |
 
 ## Battle formats and gym mechanics
-User requirements:
+
+Gym levels, badge caps and pre-Gym-6 access requirements are defined in [player progression](progression-and-player-access.md).
+Gym requirements:
 - Every gym includes both singles and doubles subordinate trainer battles.
 - One or two gym leaders are doubles battles.
 - One gym specializes in weather/terrain, with enforced favorable weather or terrain for the NPC in every encounter, including the leader.
@@ -37,7 +39,7 @@ Industrial testing chambers with enforced conditions tailored to each opponent. 
 | Environmental | Grassy Terrain | Arboliva, Gogoat, Florges |
 | Leader (doubles) | Rain + Electric Terrain | Lanturn (Volt Absorb), Archaludon (Stamina), Ludicolo (Swift Swim), Alolan Raichu (Surge Surfer), Toxicroak (Dry Skin), Rotom-Wash (Levitate) |
 
-Terrain-only chambers are proposed variants; whether every battle must also have weather is TBD. Original battery and incandescent Pokemon are candidates for the roster.
+Terrain-only chambers are proposed variants; whether every battle must also have weather is TBD. The battery and incandescent Pokemon families are candidates for gym encounters.
 
 ### Pedigree — Trick Room (draft)
 Subordinates teach Trick Room singles, minimum Speed IVs and hindering natures, slow bulky attackers, then doubles redirection. Proposed conventional Trick Room move activation rather than permanently enforced Trick Room. Counterplay: Taunt, priority, reverse Trick Room, stall turns or use slow Pokemon.
@@ -60,9 +62,9 @@ Illustrative sets (legality and availability TBD):
 - Ferrothorn: Iron Barbs / Rocky Helmet; Leech Seed, Protect, Gyro Ball, Knock Off.
 - Whimsicott: Prankster / Leftovers; Leech Seed, Substitute, Encore, Protect.
 - Trevenant: Harvest / Sitrus Berry; Will-O-Wisp, Leech Seed, Horn Leech, Protect.
-- Regional Shuckle: Bug/Acid; Power Split, Corrode, U-turn, Erosion (40 BP, 30% random stat drop); draft Sturdy / Leftovers. See [Pokemon roster](pokemon.md#regional-shuckle--corroded-disruption-specialist).
+- Regional Shuckle: Bug/Acid; Power Split, Corrode, U-turn, Erosion (see [move catalog](acid-type.md#draft-move-catalog)); draft Sturdy / Leftovers. See [Pokemon roster](pokemon.md#regional-shuckle--corroded-disruption-specialist).
 
-Candidate singles leader: Toxapex (Regenerator/Black Sludge), Rotom-Heat (Levitate/Heavy-Duty Boots), Appletun (Thick Fat/Leftovers), Snorlax (Gluttony/Figy Berry), industrial waste barrel Pokemon (Levitate/Rocky Helmet), regional Shuckle (replaces prior generic mono-Acid stall slot). Leader use of Shuckle versus subordinate-only use is TBD. Avoid giving every Pokemon Protect and reliable recovery; include offensive pressure. Ensure counters are accessible before the gym.
+Candidate singles leader: Toxapex (Regenerator/Black Sludge), Rotom-Heat (Levitate/Heavy-Duty Boots), Appletun (Thick Fat/Leftovers), Snorlax (Gluttony/Figy Berry), Vatoxic (Levitate/Rocky Helmet), regional Shuckle (replaces prior generic mono-Acid stall slot). Leader use of Shuckle versus subordinate-only use is TBD. Avoid giving every Pokemon Protect and reliable recovery; include offensive pressure. Ensure counters are accessible before the gym.
 
 ### Mega Patinian Beedrill — candidate gym leader ace
-Special technical set: Ancient Power / Silver Wind / Ominous Wind / Electroweb, with bulk, Speed and SpA investment. Bug/Acid, Precision Sting (Technician + Serene Grace), confirmed HP/Atk/Def/SpA/SpD/Spe 65/90/65/90/60/125 (495). The first three attacks each have a 20% chance of an omniboost, Electroweb provides Speed control. Exact gym assignment, EVs and nature TBD. Physical alternate set can exploit prior attrition/hazards/weather with Fell Stinger and Caustic Rush; not the proposed special gym set.
+Special technical set: Ancient Power / Silver Wind / Ominous Wind / Electroweb, with bulk, Speed and SpA investment. Bug/Acid, Precision Sting (Technician + Serene Grace), see [roster and ability definitions](pokemon.md#alternate-evolution-paths-and-additional-evolutions). The first three attacks each have a 20% chance of an omniboost, Electroweb provides Speed control. Exact gym assignment, EVs and nature TBD. Physical alternate set can exploit prior attrition/hazards/weather with Fell Stinger and Caustic Rush; not the proposed special gym set.
