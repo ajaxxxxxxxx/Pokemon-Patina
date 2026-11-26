@@ -1,6 +1,6 @@
 # Player progression and competitive access
 
-Status: user-approved design requirements, not implemented. Applies to Pokemon Patina's native GBA campaign.
+Status: design requirements, not implemented. Applies to Pokemon Patina's native GBA campaign.
 
 ## Hard badge-based level caps
 
@@ -33,7 +33,7 @@ Award catch-up XP individually based on the recipient's level gap below the curr
 | 21–30 | 5x |
 | 31+ | 10x |
 
-The 10x multiplier is interpreted as the maximum tier, including gaps greater than 40. The aggressive curve compensates for nonlinear XP requirements and makes late-game captures and team changes viable without excessive grinding. Capped party members must not reduce others' awards. Proposed implementation: determine factor at each XP award, multiply using sufficiently wide arithmetic, clamp at the cap XP threshold for that species' growth curve, and test multi-level gains, level-up moves/evolutions and candy handling. Exact rounding and interaction with existing scaled XP, traded bonuses, Lucky Egg and fainted members TBD.
+The 10x multiplier applies to every gap of 31 levels or more. The aggressive curve compensates for nonlinear XP requirements and makes late-game captures and team changes viable without excessive grinding. Capped party members must not reduce others' awards. Proposed implementation: determine factor at each XP award, multiply using sufficiently wide arithmetic, clamp at the cap XP threshold for that species' growth curve, and test multi-level gains, level-up moves/evolutions and candy handling. Exact rounding and interaction with existing scaled XP, traded bonuses, Lucky Egg and fainted members TBD.
 
 ## Competitive access milestone — before Gym 6
 
