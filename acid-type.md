@@ -1,11 +1,9 @@
-# Acid type
+# Acid type and draft move catalog
 
-## Confirmed design
-Acid is the sole proposed new elemental type (19 total). No retroactive retype classification will happen (as happened with fairy types), although this will leave some confusion with existing moves/abilities like Acid Spray remaining poison type. 
-
-Acid will come with a new status condition, corrosion, which reduces a random stat each turn (excluding accuracy/evasion); and a new weather type: acid rain.
+Acid is the sole new elemental type (19 total). Existing species and move typings are not retroactively changed: Acid and Acid Spray remain Poison-type, for example. New Acid species, regional forms and broader learnset compatibility introduce the type. Acid is a natural element as well as an industrial one.
 
 ## Type chart
+
 | Existing type | Acid attacks | Attacks against Acid |
 |---|---:|---:|
 | Normal | 0.5 | 1 |
@@ -28,57 +26,74 @@ Acid will come with a new status condition, corrosion, which reduces a random st
 | Fairy | 1 | 1 |
 | Acid | 0 | 0 |
 
-Offense: 4 strengths, 6 resistances, 1 immunity. Defense: 2 weaknesses, 5 resistances, 1 immunity.
+Offense: four strengths, six resistances, one immunity. Defense: two weaknesses, five resistances, one immunity. All other matchups are neutral.
 
 ## Corroded
-Random stat reduction every round, to pressure defensive and setup Pokemon off the field. Nonvolatile major status; at end of turn reduce one randomly selected stat (except accuracy/evasion/HP). Switching clears changes (as per normal stat change rules) but retains status.
-Acid, Water, Poison, and Ground types are immune. 
 
-## Move design
-User requirements: equivalents of Flamethrower, elemental punches, Rock Blast and Aqua Jet, including lower-power moves; special attack using target Defense and physical attack using target Sp. Defense. All names and numeric values below are draft proposals.
+A nonvolatile major status condition that pressures defensive and setup Pokemon off the field. At the end of each turn, reduce one randomly selected combat stat by one stage: Attack, Defense, Sp. Attack, Sp. Defense or Speed. No direct HP damage, accuracy or evasion changes. Switching resets stat stages normally but retains the status.
 
-| Move | Category | BP | Accuracy | PP | Effect |
-|---|---|---:|---:|---:|---|
-| Caustic Spit (working name) | Special | 30 | 100 | 25 | 20% burn; proposed level-1 attack for Inchid |
-| Corrosive Spit | Special | 40 | 100 | 25 | 10% poison |
-| Erosion (working name) | Special | 40 | 100 | 25 | 30% chance to lower one random combat stat by one stage |
-| Caustic Spray | Special | 65 | 100 | 20 | 10% burn |
-| Corrosive Jet | Special | 90 | 100 | 15 | 10% burn; Flamethrower equivalent |
-| Chemical Torrent | Special | 110 | 85 | 5 | 10% burn |
-| Caustic Beam | Special | 130 | 90 | 5 | User SpA -2 |
-| Acidic Mist | Special | 80 | 100 | 10 | All adjacent; 10% poison |
-| Etch | Physical | 40 | 100 | 30 | None |
-| Caustic Fang | Physical | 65 | 95 | 15 | 10% burn, 10% flinch |
-| Corrosive Punch | Physical | 75 | 100 | 15 | 10% burn |
-| Caustic Rush | Physical | 40 | 100 | 20 | +1 priority |
-| Chemical Barrage | Physical | 25 | 90 | 10 | 2–5 hits |
-| Corrosive Claw | Physical | 80 | 100 | 15 | High critical ratio |
-| Dissolving Strike | Physical | 120 | 100 | 15 | 1/3 recoil |
-| Penetrating Solution | Special | 80 | 100 | 10 | SpA vs Defense |
-| Osmotic Strike | Physical | 80 | 100 | 10 | Attack vs SpD |
-| Corrode | Status | — | 85 | 15 | Corroded |
-| Caustic Coating | Status | — | 85 | 15 | Burn |
-| Chemical Contamination | Status | — | 90 | 15 | Poison |
-| Armor Dissolution | Status | — | 100 | 15 | Defense -2 |
-| Solvent Mist | Status | — | 100 | 15 | SpD -2 |
-| Neutralize | Status | — | — | 20 | Reset user's stat stages |
-| Reconstitute | Status | — | — | 5 | Recover 50% HP |
-| Chemical Polish | Status | — | — | 20 | Speed +2 |
-| Concentrate | Status | — | — | 20 | SpA +2 |
+Acid, Water, Poison and Ground types are immune. Ordinary burn and poison immunities still apply to attacks of every type, including Acid. The new status does not bypass them.
 
-## Erosion and regional Shuckle
-A low-power Acid attack (40 BP target) with a 30% chance to lower a random stat, for regional Shuckle's disruption set. Proposed name Erosion, special category, 100 accuracy, 25 PP, noncontact. Candidate stats: Attack, Defense, Sp. Attack, Sp. Defense and Speed; exclude accuracy/evasion. See [regional Shuckle](pokemon.md#regional-shuckle--corroded-disruption-specialist).
+Implementation decisions remaining: selection when stats are already at their minimum, interactions with stat-drop prevention and reversal, cures, status-cleansing abilities and ability suppression.
 
-## Acid Rain (new weather)
-Behaves like Sandstorm in inflicting residual damage, except Acid, Poison, Ground and Water types are immune. The Acid/Flying caustic cloud Pokemon has an ability that establishes Acid Rain.
+## Acid Rain
 
-Proposed Sandstorm-style baseline: 1/16 maximum HP residual damage at end of turn; five-turn duration for normal ability activation; immunity if either defensive type is listed. No automatic type damage boost, defense bonus, accuracy modification or extra status effect. Maybe interacts with thunder the way rain does, but without dampening fire, therefore creating new weather team combos?Ability name, weather-setting move, duration extender, interaction with weather immunity abilities/items and field visuals remain TBD.
+Sandstorm-like residual damage except Acid, Poison, Ground and Water types are immune. An Acid/Flying cloud/storm family has an ability that establishes this weather.
+
+Draft baseline: damage equal to 1/16 maximum HP at end of turn; five turns of ordinary ability-set weather; immunity if either defensive type qualifies. No automatic type damage bonus, defensive bonus or additional status effect. Interaction with Thunder (rain-like accuracy without weakening Fire) is exploratory, not established. Ability and weather-extending item names, move parameters, immunity abilities/items, field visuals and exact weather interactions remain TBD.
+
+## Draft move catalog
+
+One row per new move or unresolved move concept. Names and numerical parameters are draft unless specified otherwise. BP is base power; accuracy is a percentage; a dash denotes not applicable; TBD denotes an unresolved parameter. Existing moves used in example sets or learnsets are not new move definitions.
+
+The design includes Flamethrower, elemental punch, Rock Blast and Aqua Jet counterparts, weaker utility attacks, and attacks that target the opposite defensive stat.
+
+| Move | Type | Category | BP | Accuracy | PP | Effect / design |
+|---|---|---|---:|---:|---:|---|
+| Caustic Spit | Acid | Special | 30 | 100 | 25 | 20% burn; noncontact; early Inchid attack |
+| Corrosive Spit | Acid | Special | 40 | 100 | 25 | 10% poison |
+| Erosion | Acid | Special | 40 | 100 | 25 | 30% chance to lower one random combat stat by one stage; noncontact; Shuckle disruption move; BP and effect chance are design targets |
+| Caustic Spray | Acid | Special | 65 | 100 | 20 | 10% burn |
+| Corrosive Jet | Acid | Special | 90 | 100 | 15 | 10% burn; Flamethrower counterpart |
+| Chemical Torrent | Acid | Special | 110 | 85 | 5 | 10% burn |
+| Caustic Beam | Acid | Special | 130 | 90 | 5 | User Sp. Attack -2 |
+| Acidic Mist | Acid | Special | 80 | 100 | 10 | All adjacent; 10% poison |
+| Penetrating Solution | Acid | Special | 80 | 100 | 10 | Uses user's Sp. Attack against target's Defense (special damage) |
+| Etch | Acid | Physical | 40 | 100 | 30 | No additional effect |
+| Caustic Fang | Acid | Physical | 65 | 95 | 15 | 10% burn, 10% flinch |
+| Corrosive Punch | Acid | Physical | 75 | 100 | 15 | 10% burn; elemental punch counterpart |
+| Caustic Rush | Acid | Physical | 40 | 100 | 20 | +1 priority; Aqua Jet counterpart |
+| Chemical Barrage | Acid | Physical | 25 | 90 | 10 | 2–5 hits; Rock Blast counterpart |
+| Corrosive Claw | Acid | Physical | 80 | 100 | 15 | High critical-hit ratio |
+| Dissolving Strike | Acid | Physical | 120 | 100 | 15 | 1/3 recoil |
+| Osmotic Strike | Acid | Physical | 80 | 100 | 10 | Uses user's Attack against target's Sp. Defense; a 60 BP version or weaker counterpart remains an option for Precision Sting, not a settled replacement |
+| Corrode | Acid | Status | — | 85 | 15 | Inflicts Corroded |
+| Caustic Coating | Acid | Status | — | 85 | 15 | Burn |
+| Chemical Contamination | Acid | Status | — | 90 | 15 | Poison |
+| Armor Dissolution | Acid | Status | — | 100 | 15 | Target Defense -2 |
+| Solvent Mist | Acid | Status | — | 100 | 15 | Target Sp. Defense -2 |
+| Neutralize | Acid | Status | — | — | 20 | Reset user's stat stages |
+| Reconstitute | Acid | Status | — | — | 5 | Recover 50% HP |
+| Chemical Polish | Acid | Status | — | — | 20 | User Speed +2 |
+| Concentrate | Acid | Status | — | — | 20 | User Sp. Attack +2 |
+| Acid Rain (working name) | Acid (draft) | Status | — | — | TBD | Establish Acid Rain; duration and other details follow weather rules |
+| Light Levy | Electric | Special | 75 | 100 | 10 | Solar legendary signature candidate; restore 50% of damage dealt |
+| Unnamed radioactive mineral attack | Rock | Special | TBD | TBD | TBD | Candidate move for Radion/Isotore; chance to poison, normal immunities apply |
+
+Move contact flags, targeting, animations, exact distribution and implementation details remain open unless stated. Do not create duplicate versions of Erosion or the cross-defense attacks by treating encounter notes as separate move definitions. Erosion excludes accuracy and evasion; its stat pool is the same five combat stats as Corroded.
+
+## Move compatibility and balance
+
+Many Water, Grass, Fire and Poison Pokemon should have access to suitable Acid moves without acquiring Acid typing. Choose learnsets by anatomy, chemical ecology and battle role. No blanket distribution of recovery plus Corroded to bulky species. Existing species may receive learnset improvements (including Ledian) without changing their type.
+
+Precision Sting, Burning Brightly and Family Bond are defined in the [Pokemon roster](pokemon.md#custom-abilities). Test secondary effects, multihit attacks, conditional power, priority, spread moves and cross-defense damage calculations in combination with these abilities. Individual Pokemon learnsets and encounter movesets belong in the roster and gym documents, not in duplicate move-definition tables.
 
 ## Acid-induced evolution
-Togepi and Eevee can evolve into their Acid branches by leveling up with high friendship and either Corroded status or exposure to Acid Rain. Provide a known, reliably accessible overworld Acid Rain location, analogous to moss/ice rock evolution locations. No dedicated Acid evolution item is needed. Proposed priority over competing friendship evolutions. See [Pokemon roster](pokemon.md).
 
-## Implementation notes
-Prefer existing pokeemerald-expansion effects, animations and battle logic. New type chart, UI assets, AI awareness, move data and species data required. Physical vs SpD and Corroded require custom work; audit status storage, save compatibility, cures, ability interactions and AI. Avoid universal access to recovery plus Corroded on bulky species.
+The canonical evolution paths are in the [Pokemon roster](pokemon.md). Togepi and Eevee use high friendship plus level-up while Corroded or in Acid Rain; ordinary Kakuna can evolve into alternate Bug/Acid Beedrill under either Acid condition without a friendship requirement. Provide a reliable overworld Acid Rain location, accessible by the [Gym 6 milestone](progression-and-player-access.md#competitive-access-milestone--before-gym-6). No dedicated Acid evolution item is needed for these branches.
 
-## Move compatibility across existing types
-Many Water, Grass, Fire and Poison Pokemon should have access to suitable Acid-type moves without acquiring Acid typing. Select learnsets by anatomy, chemical ecology and battle role; do not retroactively retype existing species or moves. Exact move distributions TBD.
+Draft handling: prioritize the Acid branch over the ordinary competing evolution, cure Corroded on evolution into an immune form, and allow the evolution at the level cap when eligibility is met. Exact battle-induced weather, candy and eligibility-check behavior TBD.
+
+## Implementation
+
+Use existing pokeemerald-expansion effects, animations and logic where suitable. New type chart, UI assets, AI awareness, move/species data, cross-defense attacks and Corroded require implementation and testing. Audit status storage, save compatibility, cures, ability interactions and AI. No move or mechanic in this document is implemented yet.
