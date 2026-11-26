@@ -65,24 +65,4 @@ Illustrative sets (legality and availability TBD):
 Candidate singles leader: Toxapex (Regenerator/Black Sludge), Rotom-Heat (Levitate/Heavy-Duty Boots), Appletun (Thick Fat/Leftovers), Snorlax (Gluttony/Figy Berry), industrial waste barrel Pokemon (Levitate/Rocky Helmet), regional Shuckle (replaces prior generic mono-Acid stall slot). Leader use of Shuckle versus subordinate-only use is TBD. Avoid giving every Pokemon Protect and reliable recovery; include offensive pressure. Ensure counters are accessible before the gym.
 
 ### Mega Patinian Beedrill — candidate gym leader ace
-User-proposed special technical set: Ancient Power / Silver Wind / Ominous Wind / Electroweb, with bulk, Speed and SpA investment. Bug/Acid, Precision Sting (Technician + Serene Grace), confirmed HP/Atk/Def/SpA/SpD/Spe 65/90/65/90/60/125 (495). The first three attacks each have a 20% chance of an omniboost, Electroweb provides Speed control. Exact gym assignment, EVs and nature TBD. Physical alternate set can exploit prior attrition/hazards/weather with Fell Stinger and Caustic Rush; not the proposed special gym set.
-
-### Candidate gym rewards (draft)
-Discovery: U-turn; Eden: Substitute; Pedigree: Trick Room; Bountiful: Giga Drain; Victory: Protect; PokeWonder: Metronome; Catalyst: Weather Ball; Heritage: Ancient Power. TM availability and compatibility TBD.
-
-## Illustrative mature gym rosters (earlier drafts, not final)
-The more recent specialized gym proposals above supersede these as current candidates where they differ.
-- Discovery: Cradily, Lanturn, Sigilyph, Drapion, Mismagius, Mienshao.
-- Eden: Plusle, Minun, Vivillon, Oricorio, Furfrou, Magikarp (potential shiny unevolved ace).
-- Pedigree: Azumarill, Gliscor, Breloom, Cloyster, Clefable, Dragonite.
-- Bountiful: Appletun, Tropius, Arboliva, Miltank, Scovillain, Alcremie.
-- Victory: Scizor, Tyranitar, Rotom-Wash, Garchomp, Volcarona, Excadrill.
-- PokeWonder: Pikachu, Eevee, Jigglypuff, Meowth, Wobbuffet, Mimikyu.
-- Catalyst: Machamp, Conkeldurr, Magnezone, Torkoal, Copperajah, Klinklang; new industrial species may replace some.
-- Heritage: Charizard, Blastoise, Venusaur, Aerodactyl, Tyrantrum, Aurorus.
-
-## Eden Reserve: established schemes
-Promotes unpopular Pokemon through deliberate disinformation. Claims Plusle and Minun are male/female variants of first-generation Pikachu and implies they evolve into Pikachu. Uses ownership of daycares to swap eggs to reinforce belief; blames trainers when evolution fails. Actual species/evolution mechanics remain unchanged. Ultimate plan: capture as many Magikarp as possible, manufacture scarcity and sell the formerly common species as rare.
-
-## Rivalries and sponsorship (draft)
-Discovery may challenge Eden's fraudulent claims for self-interested reasons. Pedigree profits from breeding; Bountiful competes for water rights; Victory markets Gyarados; PokeWonder sells merchandise; Catalyst benefits from relocation; Heritage exploits nostalgia. Distinct leaders may be true believers, opportunists, reluctant employees or critics. Nonexclusive cumulative sponsorship, no morality meter, no secret refusal reward, no mandatory corporate gate to gyms/League are proposed implementation principles. A Team Rocket-like criminal organization is established: exploits environmental conditions, sells bootleg merchandise, spreads Pokemon misinformation and smuggles. Current working name Team Gilt (used by user); links to corporations TBD. Candidate major scheme: capture and exploit the new 600 BST mono-Acid legendary to induce localized ecological collapse and profit from desperation. Sponsorship decisions determine three endings; exact conditions TBD. See [narrative outline](narrative-outline.md).
+Special technical set: Ancient Power / Silver Wind / Ominous Wind / Electroweb, with bulk, Speed and SpA investment. Bug/Acid, Precision Sting (Technician + Serene Grace), confirmed HP/Atk/Def/SpA/SpD/Spe 65/90/65/90/60/125 (495). The first three attacks each have a 20% chance of an omniboost, Electroweb provides Speed control. Exact gym assignment, EVs and nature TBD. Physical alternate set can exploit prior attrition/hazards/weather with Fell Stinger and Caustic Rush; not the proposed special gym set.
