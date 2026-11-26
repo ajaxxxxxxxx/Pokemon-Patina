@@ -89,8 +89,6 @@ Precision Sting, Burning Brightly and Family Bond are defined in the [Pokemon ro
 
 The canonical evolution paths are in the [Pokemon roster](pokemon.md). Togepi and Eevee use high friendship plus level-up while Corroded or in Acid Rain; ordinary Kakuna can evolve into alternate Bug/Acid Beedrill under either Acid condition without a friendship requirement. Provide a reliable overworld Acid Rain location, accessible by the [Gym 6 milestone](progression-and-player-access.md#competitive-access-milestone--before-gym-6). No dedicated Acid evolution item is needed for these branches.
 
-Draft handling: prioritize the Acid branch over the ordinary competing evolution, cure Corroded on evolution into an immune form, and allow the evolution at the level cap when eligibility is met. Exact battle-induced weather, candy and eligibility-check behavior TBD.
-
 ## Implementation
 
-Use existing pokeemerald-expansion effects, animations and logic where suitable. New type chart, UI assets, AI awareness, move/species data, cross-defense attacks and Corroded require implementation and testing. Audit status storage, save compatibility, cures, ability interactions and AI. No move or mechanic in this document is implemented yet.
+Use existing pokeemerald-expansion effects, animations and logic where suitable. New type chart, UI assets, AI awareness, move/species data, cross-defense attacks and Corroded require implementation and testing. Audit status storage, save compatibility, cures, ability interactions and AI.
