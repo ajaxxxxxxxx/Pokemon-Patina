@@ -1,27 +1,25 @@
 # Pokemon roster: new species, regional variants and Mega Evolutions
 
-Status: design notes, not implemented. User-specified concepts and stats are distinguished from brainstorms. Existing species and moves are not retroactively retyped. Acid is the only new type; Porygon-C is the explicit Normal/Acid concept. See [Acid mechanics](acid-type.md).
-
 ## Regional variant balancing — established rule
-Preserve each original species' base HP and total BST (modern baseline), redistributing other stats as appropriate. Improve competitive viability of neglected species through coherent stat allocation, better moves and abilities, without blanket BST increases. Original forms remain unchanged. Draft recent spreads (HP/Atk/Def/SpA/SpD/Spe): Dunsparce 100/45/90/75/90/15 (415); Girafarig 70/45/65/110/65/100 (455); Sneasel 55/110/60/15/75/115 (430); Corsola 65/35/115/45/115/35 (410); Houndoom 75/50/60/125/80/110 (500); Kingdra 75/65/100/110/100/90 (540); corrupted Celebi 100/60/120/110/120/90 (600). These are proposed, not finalized. Candidate niches respectively: Serene Grace disruption, Armor Tail special support, Tough Claws physical offense, Regenerator/Solid Rock wall, Competitive special offense, Sniper/Adaptability weather offense, Regenerator defensive pivot. Mewtwo engineers the solar legendary's corruption and places Celebi in conditions that break its spirit; see narrative outline.
+Preserve each original species' base HP and total BST (modern baseline), redistributing other stats as appropriate. Improve competitive viability of neglected species through coherent stat allocation, better moves and abilities, without blanket BST increases. Draft recent spreads (HP/Atk/Def/SpA/SpD/Spe): Dunsparce 100/45/90/75/90/15 (415); Girafarig 70/45/65/110/65/100 (455); Sneasel 55/110/60/15/75/115 (430); Corsola 65/35/115/45/115/35 (410); Houndoom 75/50/60/125/80/110 (500); Kingdra 75/65/100/110/100/90 (540); corrupted Celebi 100/60/120/110/120/90 (600). These are proposed, not finalized. Candidate niches respectively: Serene Grace disruption, Armor Tail special support, Tough Claws physical offense, Regenerator/Solid Rock wall, Competitive special offense, Sniper/Adaptability weather offense, Regenerator defensive pivot. Mewtwo engineers the solar legendary's corruption and places Celebi in conditions that break its spirit; see narrative outline.
 
 ## User-originated new Pokemon and Mega concepts
 
 | Concept | Typing | Design notes |
 |---|---|---|
-| Industrial waste barrel | Acid/Steel | Grimer/Muk-like sludge inhabiting industrial drums. Poison Point or Magnet Pull; hidden Levitate. Working names Drumuck / Barrotten; final evolution Vatoxic (confirmed). Defensive tank. |
+| Industrial waste barrel | Acid/Steel | Grimer/Muk-like sludge inhabiting industrial drums. Poison Point or Magnet Pull; hidden Levitate. Working names Drumuck / Barrotten; final evolution Vatoxic. Defensive tank. |
 | Lead-acid battery | Electric/Acid | Energy storage and electrochemical organism. Working names Voltacid / Plumbolt; proposed Volt Absorb, Battery, hidden Corrosion. |
-| Will-o'-the-wisp | Fire/Fairy | Folkloric luminous spirit; natural marsh/forest creature. Working names Wisplet / Faeflare; proposed Flash Fire, Illuminate; confirmed HA Burning Brightly. |
-| Light/heat source | Electric/Fire | Incandescent filament organism. Working names Filamite / Incandent; confirmed Flame Body / Flash Fire / HA Burning Brightly. |
+| Will-o'-the-wisp | Fire/Fairy | Folkloric luminous spirit; natural marsh/forest creature. Working names Wisplet / Faeflare; proposed Flash Fire, Illuminate; HA Burning Brightly. |
+| Light/heat source | Electric/Fire | Incandescent filament organism. Working names Filamite / Incandent; Flame Body / Flash Fire / HA Burning Brightly. |
 | Parasitic solar collector / corrupted photosynthesis legendary | Dark/Electric | Selfish/corrupted solar technology, monopolizes sunlight and deprives surrounding plants. Working names Solarceny / Heliovore; proposed Solar Power, Opportunist, hidden Lightning Rod. |
 | Radioactive mineral | Acid/Rock | Radioactivity represented by individual Pokemon, not a new type. Working names Radion / Isotore; proposed Static, Power Spot, hidden Aftermath. |
-| Mega Butterfree | Bug/Dragon | Draconic wing tails and horns; counterpart to Mega Beedrill. |
+| Mega Butterfree | Bug/Dragon | Draconic wing tails and horns |
 
-Proposed solar signature move Light Levy: Electric special, 75 BP, 100 accuracy, 10 PP, restores 50% of damage. Radioactive mineral could have a special Rock move that poisons under ordinary immunity rules. All names and abilities other than the user's barrel ability concept are tentative.
+Proposed solar signature move Light Levy: Electric special, 75 BP, 100 accuracy, 10 PP, restores 50% of damage. Radioactive mineral could have a special Rock move that can inflict poison.
 
 ### Mega Butterfree draft
 Stat order throughout: HP / Atk / Def / SpA / SpD / Spe.
-Base 60/45/50/90/80/70 (395); Mega 60/45/65/135/95/95 (495). Compound Eyes or Tinted Lens proposed. Typing Bug/Dragon is user-directed; stat spread is provisional.
+Base 60/45/50/90/80/70 (395); Mega 60/45/65/135/95/95 (495). Compound Eyes or Tinted Lens proposed. Typing Bug/Dragon.
 
 ## Mono-Acid concepts (brainstorm)
 | Working name | Concept | Abilities (draft) | Role |
@@ -31,77 +29,53 @@ Base 60/45/50/90/80/70 (395); Mega 60/45/65/135/95/95 (495). Compound Eyes or Ti
 | Acimicro / Citoblast | Acidophilic microbial colony | Natural Cure, Filter, HA Regenerator | Attrition |
 | Vitriol | Suspended acid droplet with crystallized secretions | Levitate, Corrosion, HA Adaptability | Rare single-stage offense |
 
-## Dual-type Acid concepts (brainstorm)
-| Pair | Concept | Draft abilities |
-|---|---|---|
-| Fire | Sulfurmander, volcanic salamander | Flame Body / Flash Fire |
-| Water | Cucorrosive, sea cucumber | Regenerator / Liquid Ooze |
-| Electric | Electrolyte jellyfish | Static / Volt Absorb |
-| Grass | Carnivorous pitcher plant | Chlorophyll / Liquid Ooze |
-| Ice | Cryogenic brine organism | Ice Body / Snow Cloak |
-| Fighting | Chemical boxer, terrestrial mantis shrimp inspiration | Iron Fist / Tough Claws |
-| Poison | Toxic nudibranch | Poison Point / Corrosion |
-| Ground | Mineral-dissolving burrower | Sand Rush / Sand Force |
-| Flying | Acid rain cloud (selected) | Acid Rain-setting ability; other slots TBD (earlier Cloud Nine / Drizzle concepts provisional) |
-| Psychic | Alchemical familiar | Synchronize / Magic Guard |
-| Bug | Bombardier beetle | Swarm / Skill Link |
-| Rock | Karst golem | Sturdy / Weak Armor |
-| Ghost | Residual chemical spirit | Cursed Body / Infiltrator |
-| Dragon | Corrosive ore-eating wyrm | Shed Skin / Rough Skin |
-| Dark | Corrosive cobra | Intimidate / Merciless |
-| Steel | Refinery automaton | Heatproof / Heavy Metal |
-| Fairy | Color-changing alchemical sprite | Cute Charm / Serene Grace |
-
-## User-selected Acid regional forms and additional evolution
-These supplement, rather than replace, all previous original and regional concepts. Entire selected regional evolutionary families are now included; unspecified stage typings, stats and abilities remain open.
+## Regional Forms
 
 | Species | Typing | Notes |
 |---|---|---|
 | Staryu | Acid | Confirmed mono-type first stage; caustic sludge habitat |
 | Starmie | Psychic/Acid | Lives in caustic sludge instead of ocean |
-| Bellsprout / Weepinbell / Victreebel | Grass/Acid | Confirmed entire line |
-| Gastrodon | Acid/Ground | Shellos form is a candidate; exact typing TBD |
-| Porygon-C | Normal/Acid | Failed chemical experiment; new evolution, not necessarily a regional form |
+| Bellsprout / Weepinbell / Victreebel | Grass/Acid | - |
+| Shellos / Gastrodon | Acid/Ground | - |
+| Porygon-C | Normal/Acid | Failed chemical experiment |
 | Beedrill | Bug/Acid | Ordinary Kakuna evolves into alternate Beedrill during Acid Rain or while Corroded; corresponding Bug/Acid Mega Beedrill. Weedle and Kakuna unchanged. |
-| Ekans | Acid | Arbok continuation proposed |
-| Tentacool | Water/Acid | Tentacruel continuation proposed |
-| Grimer | Acid | Muk continuation proposed |
-| Shellder | Acid | Confirmed mono-type first stage |
-| Cloyster | Acid/Ice | Confirmed evolved typing |
+| Ekans / Arbok | Acid | - |
+| Tentacool / Tentacruel | Water/Acid | - |
+| Grimer / Muk | Acid | - |
+| Shellder | Acid | - |
+| Cloyster | Acid/Ice | - |
 
-Porygon-C draft: alternate Porygon2 evolution using Chemical Disc; 85/60/80/125/100/85 (535 BST); candidate Download, Adaptability, HA Contrary. Chemical experiment origin is user-directed; evolution item and stats provisional. Cloyster candidate Skill Link with Chemical Barrage, Icicle Spear, Rock Blast and Shell Smash. Regional Gastrodon candidate Storm Drain or Water Absorb; its natural Water weakness is 4x, Ice 2x, Grass neutral, Ground 2x. Electric and Acid immunities.
+Porygon-C draft: alternate Porygon2 evolution using Chemical Disc; 85/60/80/125/100/85 (535 BST).
 
 ## Patinian Beedrill and Mega Beedrill — technical attacker
-Both Bug/Acid, ordinary Kakuna branches into Patinian Beedrill in Acid Rain or while Corroded. Preserve original HP 65 and BST 395/495 respectively. User-selected Mega ability **Precision Sting** combines Technician (1.5x power for eligible moves of 60 BP or less) and Serene Grace (double eligible secondary-effect chances). User-directed role: fast technical physical/mixed/special attacker, less immediate physical threat than original Adaptability Mega, less glass-cannon-like, can build momentum through Swords Dance or Fell Stinger. Lower-powered utility moves, status-inflicting attacks, physical Acid move targeting SpD, Fake Out, Pursuit and Knock Off are desired.
-Draft base stats HP/Atk/Def/SpA/SpD/Spe: 65/80/40/70/65/75 (395); proposed Swarm / Technician / HA Poison Touch. Mega stats confirmed by user: 65/90/65/90/60/125 (495). Candidate moves: Erosion, Caustic Spit, Poison Fang, Acid Spray, Pounce, Bug Bite, Twineedle, Caustic Rush, U-turn, Corrode, Swords Dance, Fell Stinger, Fake Out, Pursuit, Knock Off, Osmotic Strike (or weaker 60 BP counterpart; existing 80 BP proposal not superseded). Test guaranteed bad poison from Poison Fang with Precision Sting, multihit effects, priority and conditional damage. No changes to original Beedrill or its Mega. User highlights Fell Stinger finishing weakened opponents followed by Caustic Rush priority or other fast attacks; attrition, weather and hazards provide setup. User proposes a gym leader Mega set of Ancient Power / Silver Wind / Ominous Wind / Electroweb with bulk, Speed and SpA investment; gym assignment and EVs TBD.
+Both Bug/Acid, ordinary Kakuna branches into Patinian Beedrill in Acid Rain or while Corroded. Preserve original HP 65 and BST 395/495 respectively. Mega ability **Precision Sting** combines Technician (1.5x power for eligible moves of 60 BP or less) and Serene Grace (double eligible secondary-effect chances). Role: fast technical physical/mixed/special attacker, less immediate physical threat than original Adaptability Mega, less glass-cannon-like, can build momentum through Swords Dance or Fell Stinger. Lower-powered utility moves, status-inflicting attacks, physical Acid move targeting SpD, Fake Out, Pursuit and Knock Off are desired.
+Draft base stats HP/Atk/Def/SpA/SpD/Spe: 65/80/40/70/65/75 (395); proposed Swarm / Technician / HA Poison Touch. Mega stats: 65/90/65/90/60/125 (495). Candidate moves: Erosion, Caustic Spit, Poison Fang, Acid Spray, Pounce, Bug Bite, Twineedle, Caustic Rush, U-turn, Corrode, Swords Dance, Fell Stinger, Fake Out, Pursuit, Knock Off, Osmotic Strike. No changes to original Beedrill or its Mega. Gym leader Mega set of Ancient Power / Silver Wind / Ominous Wind / Electroweb with bulk, Speed and SpA investment; gym assignment and EVs TBD.
  
-## Acid roster priorities (latest direction)
+## Acid roster priorities
 | Typing | Selected concept or open slot |
 |---|---|
 | Acid | Selected regional forms including Dunsparce, Acid Eeveelution, Inchid, and new mono-Acid 600 BST legendary |
 | Normal/Acid | Porygon-C |
 | Fire/Acid | Volcanic sulfur salamander family; Patinian Heatmor |
 | Water/Acid | Tentacool; prior original sea cucumber concept retained |
-| Electric/Acid | Lead-acid battery Pokemon (revised from Electric/Poison) |
-| Grass/Acid | Bellsprout line; corrupted Celebi; Patinian Carnivine; prior pitcher plant brainstorm retained |
-| Ice/Acid | Cloyster; earlier brine concept retained |
+| Electric/Acid | Lead-acid battery Pokemon |
+| Grass/Acid | Bellsprout line; corrupted Celebi; Patinian Carnivine |
+| Ice/Acid | Cloyster |
 | Fighting/Acid | Patinian Sneasel and Sneasler |
-| Poison/Acid | TBD |
+| Poison/Acid | N/A |
 | Ground/Acid | Gastrodon family; Sandshrew and Sandslash |
 | Flying/Acid | Acid rain / caustic cloud Pokemon; one ability sets Acid Rain |
 | Psychic/Acid | Regional Starmie and Girafarig |
 | Bug/Acid | Shuckle and Beedrill |
-| Rock/Acid | Nuclear material Pokemon (revised from Electric/Rock); Patinian Corsola and Caustola |
-| Ghost/Acid | TBD |
+| Rock/Acid | Nuclear material Pokemon; Patinian Corsola and Caustola |
+| Ghost/Acid | N/A |
 | Dragon/Acid | Inchid (mono-Acid) / Acidcoil / Corrosaur; regional Kingdra |
-| Dark/Acid | Regional Houndoom; corrupted photosynthesis legendary remains Dark/Electric |
-| Steel/Acid | Chemical waste barrel Pokemon (revised from Poison/Steel) |
+| Dark/Acid | Regional Houndoom |
+| Steel/Acid | Chemical waste barrel Pokemon |
 | Fairy/Acid | Togecidic / Togechymic (alternate Togepi branch) |
 
-Earlier original-species brainstorms remain candidates; unselected regional brainstorms are retired except Sandshrew. Existing abilities for retyped concepts are provisional and should be reviewed for the revised typing. Acid Rain rules are in [acid-type.md](acid-type.md). Legendary name, exact prior/uncorrupted form, origin and story role remain open.
-
-## Inchid / Acidcoil / Corrosaur — selected original evolutionary family
-User-selected names and concept: a three-stage inchworm-like family progressing from a small Diglett-like burrower through a Dratini-like elongated creature to an enormous segmented tube worm. Inchid is common in wild grass, considered a cute pet in some regions but despised in industrial and agricultural areas. Acidcoil is temperamental, unsuitable for children and requires trust to handle reliably. Most people do not know Corrosaur is its final evolution. NPCs hint at a particular held evolution item.
+## Inchid / Acidcoil / Corrosaur
+Three-stage inchworm-like family progressing from a small Diglett-like burrower through a Dratini-like elongated creature to an enormous segmented tube worm. Inchid is common in wild grass, considered a cute pet in some regions but despised in industrial and agricultural areas. Acidcoil is temperamental, unsuitable for children and requires trust to handle reliably. Most people do not know Corrosaur is its final evolution. NPCs hint at a particular held evolution item.
 
 | Species | Type | Encounter distribution |
 |---|---|---|
@@ -109,9 +83,9 @@ User-selected names and concept: a three-stage inchworm-like family progressing 
 | Acidcoil | Acid/Dragon | Ordinary trainer teams |
 | Corrosaur | Acid/Dragon | Ace Trainers, gym leaders, Elite Four, bosses and other significant opponents |
 
-Evolution interpretation: Inchid levels up at level 21 or higher with high friendship to become Acidcoil; Acidcoil levels up holding a particular item to become Corrosaur. Exact item, trigger and availability TBD. No regular wild encounter for evolved stages is currently planned. Do not make Inchid rare simply because of its final evolution.
+Evolution interpretation: Inchid levels up at level 21 or higher with high friendship to become Acidcoil; Acidcoil levels up holding a particular item to become Corrosaur. Exact item, trigger and availability TBD.
 
-Draft stats (HP/Atk/Def/SpA/SpD/Spe): Inchid 30/15/40/35/35/45 (200; revised draft); Acidcoil 70/65/80/85/70/50 (420); Corrosaur 105/100/120/125/100/50 (600). Pseudo-legendary classification and slow mixed tank role are proposals, not approved. Pedigree Trick Room roster is a possible placement. Abilities, moves, item name and sprites TBD.
+Draft stats (HP/Atk/Def/SpA/SpD/Spe): Inchid 30/15/40/35/35/45 (200; revised draft); Acidcoil 70/65/80/85/70/50 (420); Corrosaur 105/100/120/125/100/50 (600).
 
 Inchid's user-directed power target is Magikarp/cocoon-tier, rather than a typical 270-BST first stage. It must have early access to a weak Acid attack capable of burning opponents so training and friendship are not entirely dependent on switching or Exp. Share. Proposed starter move: Caustic Spit (30 BP, 100 accuracy, 25 PP, 20% burn), learned at level 1. Name, numeric parameters, exact stat allocation and remaining learnset are provisional. See [Acid moves](acid-type.md).
 
