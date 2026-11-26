@@ -28,10 +28,11 @@ Acid will come with a new status condition, corrosion, which reduces a random st
 | Fairy | 1 | 1 |
 | Acid | 0 | 0 |
 
-Offense: 4 strengths, 6 resistances, 1 immunity. Defense: 2 weaknesses, 5 resistances, 1 immunity. Fighting and Fairy are neutral both ways, superseding earlier drafts.
+Offense: 4 strengths, 6 resistances, 1 immunity. Defense: 2 weaknesses, 5 resistances, 1 immunity.
 
 ## Corroded
-Agreed concept: random stat reduction every round, to pressure defensive and setup Pokemon off the field without bypassing poison immunity. Proposed details: nonvolatile major status; at end of turn reduce one randomly selected Attack, Defense, Sp. Attack, Sp. Defense or Speed by one stage; no HP damage; no accuracy/evasion changes; skip stats already at -6. Switching clears stages but retains status. Acid types immune; mutually exclusive with other major statuses; Full Heal, Full Restore, Lum Berry and normal status cures work. No bypass of conventional burn/poison immunities. Clear Body, White Smoke, Contrary, Simple, Natural Cure, Guts, Synchronize, Shed Skin and Defiant/Competitive interactions need explicit testing/decisions. Keep Corroded distribution limited; most Acid attacks that cause status should burn or poison instead.
+Random stat reduction every round, to pressure defensive and setup Pokemon off the field. Nonvolatile major status; at end of turn reduce one randomly selected stat (except accuracy/evasion/HP). Switching clears changes (as per normal stat change rules) but retains status.
+Acid, Water, Poison, and Ground types are immune. 
 
 ## Move design
 User requirements: equivalents of Flamethrower, elemental punches, Rock Blast and Aqua Jet, including lower-power moves; special attack using target Defense and physical attack using target Sp. Defense. All names and numeric values below are draft proposals.
@@ -66,18 +67,18 @@ User requirements: equivalents of Flamethrower, elemental punches, Rock Blast an
 | Concentrate | Status | — | — | 20 | SpA +2 |
 
 ## Erosion and regional Shuckle
-User-directed concept: a low-power Acid attack (40 BP target) with a 30% chance to lower a random stat, for regional Shuckle's disruption set. Proposed name Erosion, special category, 100 accuracy, 25 PP, noncontact. Candidate stats: Attack, Defense, Sp. Attack, Sp. Defense and Speed; exclude accuracy/evasion and stats already at -6 (selection rules provisional). This is a direct stat change, not an additional major status, so it can coexist with Corroded. Test standard secondary-effect interactions (e.g. Serene Grace raises chance to 60%), stat-drop protection and Acid immunity. See [regional Shuckle](pokemon.md#regional-shuckle--corroded-disruption-specialist).
+A low-power Acid attack (40 BP target) with a 30% chance to lower a random stat, for regional Shuckle's disruption set. Proposed name Erosion, special category, 100 accuracy, 25 PP, noncontact. Candidate stats: Attack, Defense, Sp. Attack, Sp. Defense and Speed; exclude accuracy/evasion. See [regional Shuckle](pokemon.md#regional-shuckle--corroded-disruption-specialist).
 
 ## Acid Rain (new weather)
-User-directed weather: behaves like Sandstorm in inflicting residual damage, except Acid, Poison, Ground and Water types are immune. The Acid/Flying caustic cloud Pokemon has an ability that establishes Acid Rain.
+Behaves like Sandstorm in inflicting residual damage, except Acid, Poison, Ground and Water types are immune. The Acid/Flying caustic cloud Pokemon has an ability that establishes Acid Rain.
 
-Proposed Sandstorm-style baseline: 1/16 maximum HP residual damage at end of turn; five-turn duration for normal ability activation; immunity if either defensive type is listed. No automatic type damage boost, defense bonus, accuracy modification or extra status effect specified. Do not assume Sandstorm's Rock SpD bonus carries over. Ability name, weather-setting move, duration extender, interaction with weather immunity abilities/items and field visuals remain TBD. Acid Rain is a distinct weather, not ordinary rain or a terrain; normal weather replacement rules are proposed. Consider as a candidate for Catalyst's weather gym, not a confirmed encounter.
+Proposed Sandstorm-style baseline: 1/16 maximum HP residual damage at end of turn; five-turn duration for normal ability activation; immunity if either defensive type is listed. No automatic type damage boost, defense bonus, accuracy modification or extra status effect. Maybe interacts with thunder the way rain does, but without dampening fire, therefore creating new weather team combos?Ability name, weather-setting move, duration extender, interaction with weather immunity abilities/items and field visuals remain TBD.
 
 ## Acid-induced evolution
-User-directed: Togepi and Eevee can evolve into their Acid branches by leveling up with high friendship and either Corroded status or exposure to Acid Rain. Provide a known, reliably accessible overworld Acid Rain location, analogous to moss/ice rock evolution locations. No dedicated Acid evolution item is needed. Proposed priority over competing friendship evolutions; exact battle-weather versus overworld-weather detection, Rare Candy behavior and status-clearing timing TBD. See [Pokemon roster](pokemon.md).
+Togepi and Eevee can evolve into their Acid branches by leveling up with high friendship and either Corroded status or exposure to Acid Rain. Provide a known, reliably accessible overworld Acid Rain location, analogous to moss/ice rock evolution locations. No dedicated Acid evolution item is needed. Proposed priority over competing friendship evolutions. See [Pokemon roster](pokemon.md).
 
 ## Implementation notes
-Prefer existing pokeemerald-expansion effects, animations and battle logic. New type chart, UI assets, AI awareness, move data and species data required. Physical vs SpD and Corroded require custom work; audit status storage, save compatibility, cures, ability interactions and AI. Avoid universal access to recovery plus Corroded on bulky species. No implementation or playtesting yet.
+Prefer existing pokeemerald-expansion effects, animations and battle logic. New type chart, UI assets, AI awareness, move data and species data required. Physical vs SpD and Corroded require custom work; audit status storage, save compatibility, cures, ability interactions and AI. Avoid universal access to recovery plus Corroded on bulky species.
 
 ## Move compatibility across existing types
-User direction: many Water, Grass, Fire and Poison Pokemon should have access to suitable Acid-type moves without acquiring Acid typing. Select learnsets by anatomy, chemical ecology and battle role; do not retroactively retype existing species or moves. Exact move distributions TBD.
+Many Water, Grass, Fire and Poison Pokemon should have access to suitable Acid-type moves without acquiring Acid typing. Select learnsets by anatomy, chemical ecology and battle role; do not retroactively retype existing species or moves. Exact move distributions TBD.
