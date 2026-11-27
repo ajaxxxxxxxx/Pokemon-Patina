@@ -74,7 +74,7 @@ The design includes Flamethrower, elemental punch, Rock Blast and Aqua Jet count
 | Solvent Mist | Acid | Status | — | 100 | 15 | Target Sp. Defense -2 |
 | Concentrate | Acid | Status | — | — | 20 | User Sp. Attack +2 |
 | Acid Rain (working name) | Acid (draft) | Status | — | — | TBD | Establish Acid Rain; duration and other details follow weather rules |
-| Light Levy | Electric | Special | 75 | 100 | 10 | Solar legendary signature candidate; restore 50% of damage dealt |
+| Light Levy | Electric | Special | 75 | 100 | 10 | Solarceny signature candidate; restore 50% of damage dealt |
 | Radical Blast | Rock | Special | 25 | 90 | 10 | 2–5 hits, Rock Blast counterpart; chance to burn or poison; normal status immunities apply. Exact status odds and per-hit versus per-use checks TBD; BP, accuracy and PP draft |
 
 Move contact flags, targeting, animations, exact distribution and implementation details remain open unless stated. Do not create duplicate versions of Erosion or the cross-defense attacks by treating encounter notes as separate move definitions. Erosion excludes accuracy and evasion; its stat pool is the same five combat stats as Corroded.
