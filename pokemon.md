@@ -98,16 +98,16 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Leafeon | Grass | Existing | Unchanged |
 | Glaceon | Ice | Existing | Unchanged |
 | Sylveon | Fairy | Existing | Unchanged |
-| Familieon | Normal | Draft max friendship + Silk Scarf | **130/65/60/65/95/110 (525)**; Adaptability / HA Protean; name and abilities established |
+| Familieon | Normal | High friendship + level up holding Expert Belt | **130/65/60/65/95/110 (525)**; Adaptability / HA Protean; name and abilities established |
 | Champeon | Fighting | Draft level up knowing Fighting move | **65/130/95/60/65/110 (525)**; Guts / HA Inner Focus; name and abilities established |
-| Zephyreon | Flying | Draft level up holding Pretty Feather | **65/65/60/95/110/130 (525)**; Keen Eye / HA Gale Wings; name and abilities established |
+| Zephyreon | Flying | High friendship + level up holding Sharp Beak | **65/65/60/95/110/130 (525)**; Keen Eye / HA Gale Wings; name and abilities established |
 | Noxeon | Poison | High friendship + level up while poisoned or badly poisoned | **95/65/110/65/130/60 (525)**; Corrosion / HA Sticky Hold; name and abilities established |
-| Loameon | Ground | Draft Soft Sand or dedicated item | **110/95/130/60/65/65 (525)**; Sand Stream / HA Stamina; name and abilities established |
-| Litheon | Rock | Draft Hard Stone or dedicated item | **65/110/130/65/95/60 (525)**; Weak Armor / HA Skill Link; name and abilities established |
-| Papileon | Bug | Draft level up in ancient woodland | **60/65/95/110/65/130 (525)**; Effect Spore / HA Shield Dust; name and abilities established |
-| Spectreon | Ghost | Draft Dusk Stone | **65/60/65/130/110/95 (525)**; Cursed Body / HA Infiltrator; name and abilities established |
+| Loameon | Ground | High friendship + level up holding Soft Sand or in a permanent sandstorm area | **110/95/130/60/65/65 (525)**; Sand Stream / HA Stamina; name and abilities established |
+| Litheon | Rock | High friendship + level up holding Hard Stone | **65/110/130/65/95/60 (525)**; Weak Armor / HA Skill Link; name and abilities established |
+| Papileon | Bug | High friendship + level up holding Silver Powder | **60/65/95/110/65/130 (525)**; Effect Spore / HA Shield Dust; name and abilities established |
+| Spectreon | Ghost | Dusk Stone | **65/60/65/130/110/95 (525)**; Cursed Body / HA Infiltrator; name and abilities established |
 | Ferreon | Steel | Draft level up holding Metal Coat | **65/95/130/60/110/65 (525)**; Clear Body / HA Heatproof; name and abilities established |
-| Drakeon | Dragon | Draft level up knowing Dragon move | **95/110/65/130/60/65 (525)**; Shed Skin / HA Marvel Scale; name and abilities established |
+| Drakeon | Dragon | High friendship + level up holding Dragon Scale | **95/110/65/130/60/65 (525)**; Shed Skin / HA Marvel Scale; name and abilities established |
 | Erodeon | Acid | High friendship + level up while Corroded or in Acid Rain | **110/60/65/95/130/65 (525)**; Caustic Body / HA Acidify; abilities established; species working name Erodeon |
 | Mega Familieon (Mega Eevee) | Normal | Eeveeite; established | **130/90/100/90/100/115 (625)**; Familial Bond |
 | Mega Vaporeon | Water | Established | 130/65/105/130/135/60 (625); Lightning Rod |
