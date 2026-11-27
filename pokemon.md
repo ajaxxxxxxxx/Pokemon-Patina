@@ -107,8 +107,8 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Papileon | Bug | Draft level up in ancient woodland | **60/65/95/110/65/130 (525)**; candidate Swarm / HA Shield Dust; name established |
 | Spectreon | Ghost | Draft Dusk Stone | **65/60/65/130/110/95 (525)**; candidate Cursed Body / HA Infiltrator; name established |
 | Ferreon | Steel | Draft level up holding Metal Coat | **65/95/130/60/110/65 (525)**; candidate Battle Armor / HA Heavy Metal; name established |
-| Drakeon | Dragon | Draft level up knowing Dragon move | **95/110/65/130/60/65 (525)**; candidate Shed Skin / HA Rivalry; name established |
-| Vitrioleon | Acid | High friendship + level up while Corroded or in Acid Rain | **110/60/65/95/130/65 (525)**; candidate Caustic Body; HA Acidilate (working name, Acid counterpart to Pixilate); species name TBD |
+| Drakeon | Dragon | Draft level up knowing Dragon move | **95/110/65/130/60/65 (525)**; Shed Skin / HA Marvel Scale; name and abilities established |
+| Erodeon | Acid | High friendship + level up while Corroded or in Acid Rain | **110/60/65/95/130/65 (525)**; candidate Caustic Body; HA Acidilate (working name, Acid counterpart to Pixilate); species working name Erodeon |
 | Mega Familieon (Mega Eevee) | Normal | Eeveeite; established | **130/90/100/90/100/115 (625)**; Familial Bond |
 | Mega Vaporeon | Water | Exploratory | 130/65/100/125/125/80; Poison Heal or Regenerator (alternate Water Absorb + Regenerator) |
 | Mega Jolteon | Electric | Exploratory | 65/65/85/135/110/165; Transistor (alternate Volt Absorb + Transistor) |
@@ -127,9 +127,9 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Mega Spectreon | Ghost | Exploratory | Shadow Tag |
 | Mega Ferreon | Steel | Exploratory | Filter |
 | Mega Drakeon | Dragon | Exploratory | Contrary |
-| Mega Vitrioleon | Acid | Exploratory | Serene Grace |
+| Mega Erodeon | Acid | Exploratory | Serene Grace |
 
-Names established: Familieon, Champeon, Zephyreon, Noxeon, Loameon, Litheon, Papileon, Spectreon, Ferreon and Drakeon. Only the Acid name remains a working name. All eleven base stat spreads are established; unselected ability candidates remain draft. Evolution triggers require priority/conflict checks. Mega Familieon uses one large Eevee surrounded by chibi Eeveelutions. A single shared Mega Stone for every Eeveelution is a candidate approach. Universal Wonder Guard is exploratory, not selected; its effectiveness varies sharply with type weaknesses. Mega Vaporeon cannot hold Toxic Orb with Eeveeite; Huge Power Flareon and Fur Coat Umbreon require balance testing.
+Names established: Familieon, Champeon, Zephyreon, Noxeon, Loameon, Litheon, Papileon, Spectreon, Ferreon and Drakeon. Erodeon is the provisional Acid name. All eleven base stat spreads are established; unselected ability candidates remain draft. Evolution triggers require priority/conflict checks. Mega Familieon uses one large Eevee surrounded by chibi Eeveelutions. A single shared Mega Stone for every Eeveelution is a candidate approach. Universal Wonder Guard is exploratory, not selected; its effectiveness varies sharply with type weaknesses. Mega Vaporeon cannot hold Toxic Orb with Eeveeite; Huge Power Flareon and Fur Coat Umbreon require balance testing.
 
 ## Custom abilities
 
