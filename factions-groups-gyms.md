@@ -6,7 +6,7 @@ Eight competing mega-industries, each sponsoring the gym leader of one town. The
 | Working faction | Business | Sponsor benefits (draft) | Gym theme |
 |---|---|---|---|
 | Discovery International | Catching, Pokedex, professorial research, Poke Ball control | Ball discounts, capture/research rewards, DexNav | Obscure Pokemon selected for excellent offensive/defensive coverage |
-| Eden Reserve | Safari zones, sanctuaries, controlled access to variants, hidden moves and shinies | Reserve access, rare encounters, hidden abilities/moves | Aesthetic diversity, manufactured desirability |
+| Eden Reserve | Safari zones, sanctuaries, controlled access to variants, hidden moves and shinies | Free specialized Safari admission with no step/battle limits; other reserve access, rare encounters, hidden abilities/moves (draft) | Aesthetic diversity, manufactured desirability |
 | Pedigree Laboratories | Breeding, tutoring, IV/EV optimization, items | Faster egg hatching, training/tutoring | Optimized competitive breeding |
 | Bountiful | Berries, food and drinks produced for/by Pokemon | Better berry yields and food | Food and agriculture |
 | Victory League | Battling and money | Prize money | Competitive power |
