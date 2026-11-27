@@ -115,7 +115,7 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Mega Flareon | Fire | Draft | 65/140/60/140/110/110 (625); Sheer Force; mixed attacker with improved Speed |
 | Mega Espeon | Psychic | Draft | 65/65/70/175/140/110 (625); Psychic Surge |
 | Mega Umbreon | Dark | Draft | 95/115/110/60/185/60 (625); Fur Coat; no Mega points added to Defense |
-| Mega Leafeon | Grass | Draft | 65/140/150/60/95/115 (625); Thick Fat effect; candidate thematic clone Thick Bark or Thick Sap |
+| Mega Leafeon | Grass | Draft | 65/140/150/60/95/115 (625); Thick Bark |
 | Mega Glaceon | Ice | Draft | 65/60/135/160/110/95 (625); Snow Warning |
 | Mega Sylveon | Fairy | Draft | 95/65/100/150/155/60 (625); Dazzling; anti-priority doubles support, alternative to base Pixilate |
 | Mega Champeon | Fighting | Draft | 65/160/130/60/100/110 (625); Technician |
@@ -126,7 +126,7 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Mega Papileon | Bug | Draft | 60/65/140/120/110/130 (625); Tinted Lens; defensive setup attacker with improved resisted-move damage |
 | Mega Spectreon | Ghost | Draft | 65/60/105/160/130/105 (625); Mummy |
 | Mega Ferreon | Steel | Draft | 65/120/170/60/145/65 (625); Prism Armor |
-| Mega Drakeon | Dragon | Draft | 95/150/75/170/70/65 (625); Technician; mixed attacker with low-power utility and coverage options |
+| Mega Drakeon | Dragon | Draft | 95/150/75/170/70/65 (625); Technician; mixed attacker with low-power utility, coverage and priority options to compensate for low Speed and modest defenses; priority learnset TBD |
 | Mega Erodeon | Acid | Draft | 110/60/120/95/175/65 (625); Acidic Atmosphere (working ability name) |
 
 Names established: Familieon, Champeon, Zephyreon, Noxeon, Loameon, Litheon, Papileon, Spectreon, Ferreon and Drakeon. Erodeon is the provisional Acid name. All eleven base stat spreads are established; unselected ability candidates remain draft. Evolution triggers require priority/conflict checks. Mega Familieon uses one large Eevee surrounded by chibi Eeveelutions. A single shared Mega Stone for every Eeveelution is a candidate approach. Universal Wonder Guard is exploratory, not selected; its effectiveness varies sharply with type weaknesses. Mega Vaporeon cannot hold a separate held item with Eeveeite. Fur Coat Umbreon, terrain setters and weather setters require balance testing. Mega Sylveon's loss of Pixilate is an intentional tradeoff for Dazzling's team-wide protection against opposing priority moves.
@@ -134,7 +134,7 @@ Names established: Familieon, Champeon, Zephyreon, Noxeon, Loameon, Litheon, Pap
 ## Custom abilities
 
 - **Prevailing Wind:** establishes ordinary Tailwind for the user's side upon Mega Evolution or entry into battle, equivalent to using the Tailwind move (four turns, doubles Speed). Tailwind persists for its remaining duration after the user leaves or faints; use ordinary Tailwind behavior when already active.
-- **Thick Bark / Thick Sap (candidate names):** thematic Thick Fat clone, halves incoming Fire and Ice damage; Mega Leafeon candidate ability name, not finalized.
+- **Thick Bark:** halves incoming Ice-, Bug-, Acid- and Poison-type attack damage, following Thick Fat-style mechanics; Fire is unaffected. Mega Leafeon's ability.
 - **Acidilate (working name):** Acid counterpart to Pixilate; converts eligible Normal-type damaging moves to Acid and applies the same power multiplier as the configured Pixilate generation (1.2x under modern rules). Hidden ability of the Acid Eeveelution; final ability name TBD.
 - **Corrosive Body:** chance to inflict Corroded on an attacker making contact; draft 30% activation rate, following comparable contact-status abilities and ordinary Corroded immunity rules.
 - **Caustic Body:** mechanically identical to Poison Point; 30% chance to inflict ordinary poison on an attacker making contact, with normal poison immunity rules.
