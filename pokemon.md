@@ -117,19 +117,19 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Mega Umbreon | Dark | Draft | 95/115/110/60/185/60 (625); Fur Coat; no Mega points added to Defense |
 | Mega Leafeon | Grass | Draft | 65/140/150/60/95/115 (625); Thick Fat effect; candidate thematic clone Thick Bark or Thick Sap |
 | Mega Glaceon | Ice | Draft | 65/60/135/160/110/95 (625); Snow Warning |
-| Mega Sylveon | Fairy | Draft | 95/65/100/150/155/60 (625); candidate Misty Surge; alternative to base Pixilate, not necessarily a direct offensive upgrade |
+| Mega Sylveon | Fairy | Draft | 95/65/100/150/155/60 (625); Dazzling; anti-priority doubles support, alternative to base Pixilate |
 | Mega Champeon | Fighting | Draft | 65/160/130/60/100/110 (625); Technician |
 | Mega Zephyreon | Flying | Draft | 65/65/85/120/150/140 (625); custom automatic Tailwind ability; duration and name TBD |
 | Mega Noxeon | Poison | Draft | 95/65/145/100/160/60 (625); Toxic Debris; base Corrosion can poison normally type-immune opponents before Mega Evolution; existing poison persists |
 | Mega Loameon | Ground | Draft | 110/95/130/60/115/115 (625); Sand Stream |
 | Mega Litheon | Rock | Draft | 65/140/165/65/130/60 (625); Rock Head; fossil-inspired ability |
-| Mega Papileon | Bug | Draft | 60/65/140/120/110/130 (625); ability TBD (Wonder Skin rejected); defensive Mega |
+| Mega Papileon | Bug | Draft | 60/65/140/120/110/130 (625); Tinted Lens; defensive setup attacker with improved resisted-move damage |
 | Mega Spectreon | Ghost | Draft | 65/60/105/160/130/105 (625); Mummy |
 | Mega Ferreon | Steel | Draft | 65/120/170/60/145/65 (625); Prism Armor |
 | Mega Drakeon | Dragon | Draft | 95/150/75/170/70/65 (625); candidate Neuroforce; mixed attacker, coverage-rewarding ability desired |
 | Mega Erodeon | Acid | Draft | 110/60/120/95/175/65 (625); Acidic Atmosphere (working ability name) |
 
-Names established: Familieon, Champeon, Zephyreon, Noxeon, Loameon, Litheon, Papileon, Spectreon, Ferreon and Drakeon. Erodeon is the provisional Acid name. All eleven base stat spreads are established; unselected ability candidates remain draft. Evolution triggers require priority/conflict checks. Mega Familieon uses one large Eevee surrounded by chibi Eeveelutions. A single shared Mega Stone for every Eeveelution is a candidate approach. Universal Wonder Guard is exploratory, not selected; its effectiveness varies sharply with type weaknesses. Mega Vaporeon cannot hold a separate held item with Eeveeite. Fur Coat Umbreon, terrain setters and weather setters require balance testing. Mega Sylveon's loss of Pixilate is an intentional tradeoff under the Misty Surge proposal. Mega Zephyreon's automatic Tailwind duration and Mega Drakeon's coverage ability remain to be finalized.
+Names established: Familieon, Champeon, Zephyreon, Noxeon, Loameon, Litheon, Papileon, Spectreon, Ferreon and Drakeon. Erodeon is the provisional Acid name. All eleven base stat spreads are established; unselected ability candidates remain draft. Evolution triggers require priority/conflict checks. Mega Familieon uses one large Eevee surrounded by chibi Eeveelutions. A single shared Mega Stone for every Eeveelution is a candidate approach. Universal Wonder Guard is exploratory, not selected; its effectiveness varies sharply with type weaknesses. Mega Vaporeon cannot hold a separate held item with Eeveeite. Fur Coat Umbreon, terrain setters and weather setters require balance testing. Mega Sylveon's loss of Pixilate is an intentional tradeoff for Dazzling's team-wide protection against opposing priority moves. Mega Zephyreon's automatic Tailwind duration and Mega Drakeon's coverage ability remain to be finalized.
 
 ## Custom abilities
 
