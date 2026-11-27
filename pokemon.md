@@ -100,14 +100,14 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Sylveon | Fairy | Existing | Unchanged |
 | Familieon | Normal | Draft max friendship + Silk Scarf | **130/65/60/65/95/110 (525)**; Adaptability / HA Protean; name and abilities established |
 | Champeon | Fighting | Draft level up knowing Fighting move | **65/130/95/60/65/110 (525)**; candidate Guts / HA Inner Focus; name established |
-| Zephyreon | Flying | Draft level up holding Pretty Feather | **65/65/60/110/95/130 (525)**; candidate Keen Eye / HA Wind Rider; name TBD |
+| Zephyreon | Flying | Draft level up holding Pretty Feather | **65/65/60/110/95/130 (525)**; candidate Keen Eye; HA Gale Wings established; name established |
 | Noxeon | Poison | Draft level up while poisoned | **95/65/110/65/130/60 (525)**; candidate Poison Point; HA TBD (Merciless not selected); name established |
-| Duneon | Ground | Draft Soft Sand or dedicated item | **110/95/130/60/65/65 (525)**; candidate Sand Veil / HA Sand Force; name TBD |
+| Loameon | Ground | Draft Soft Sand or dedicated item | **110/95/130/60/65/65 (525)**; candidate Sand Veil / HA Sand Force; name established |
 | Litheon | Rock | Draft Hard Stone or dedicated item | **65/110/130/65/95/60 (525)**; Weak Armor / HA Skill Link; name and abilities established |
 | Papileon | Bug | Draft level up in ancient woodland | **60/65/95/110/65/130 (525)**; candidate Swarm / HA Shield Dust; name established |
 | Spectreon | Ghost | Draft Dusk Stone | **65/60/65/130/110/95 (525)**; candidate Cursed Body / HA Infiltrator; name established |
 | Ferreon | Steel | Draft level up holding Metal Coat | **65/95/130/60/110/65 (525)**; candidate Battle Armor / HA Heavy Metal; name established |
-| Drakeon | Dragon | Draft level up knowing Dragon move | **95/110/65/130/60/65 (525)**; candidate Shed Skin / HA Rivalry; name TBD |
+| Drakeon | Dragon | Draft level up knowing Dragon move | **95/110/65/130/60/65 (525)**; candidate Shed Skin / HA Rivalry; name established |
 | Vitrioleon | Acid | High friendship + level up while Corroded or in Acid Rain | **110/60/65/95/130/65 (525)**; candidate Caustic Body; HA Acidilate (working name, Acid counterpart to Pixilate); species name TBD |
 | Mega Familieon (Mega Eevee) | Normal | Eeveeite; established | **130/90/100/90/100/115 (625)**; Familial Bond |
 | Mega Vaporeon | Water | Exploratory | 130/65/100/125/125/80; Poison Heal or Regenerator (alternate Water Absorb + Regenerator) |
@@ -121,7 +121,7 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Mega Champeon | Fighting | Exploratory | Tough Claws |
 | Mega Zephyreon | Flying | Exploratory | Aerilate |
 | Mega Noxeon | Poison | Exploratory | Merciless |
-| Mega Duneon | Ground | Exploratory | Sand Force |
+| Mega Loameon | Ground | Exploratory | Sand Force |
 | Mega Litheon | Rock | Exploratory | Solid Rock |
 | Mega Papileon | Bug | Exploratory | Skill Link |
 | Mega Spectreon | Ghost | Exploratory | Shadow Tag |
@@ -129,7 +129,7 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Mega Drakeon | Dragon | Exploratory | Contrary |
 | Mega Vitrioleon | Acid | Exploratory | Serene Grace |
 
-Names established: Familieon, Champeon, Noxeon, Litheon, Papileon, Spectreon and Ferreon. Flying, Ground, Dragon and Acid names remain working names. All eleven base stat spreads are established; unselected ability candidates remain draft. Evolution triggers require priority/conflict checks. Mega Familieon uses one large Eevee surrounded by chibi Eeveelutions. A single shared Mega Stone for every Eeveelution is a candidate approach. Universal Wonder Guard is exploratory, not selected; its effectiveness varies sharply with type weaknesses. Mega Vaporeon cannot hold Toxic Orb with Eeveeite; Huge Power Flareon and Fur Coat Umbreon require balance testing.
+Names established: Familieon, Champeon, Zephyreon, Noxeon, Loameon, Litheon, Papileon, Spectreon, Ferreon and Drakeon. Only the Acid name remains a working name. All eleven base stat spreads are established; unselected ability candidates remain draft. Evolution triggers require priority/conflict checks. Mega Familieon uses one large Eevee surrounded by chibi Eeveelutions. A single shared Mega Stone for every Eeveelution is a candidate approach. Universal Wonder Guard is exploratory, not selected; its effectiveness varies sharply with type weaknesses. Mega Vaporeon cannot hold Toxic Orb with Eeveeite; Huge Power Flareon and Fur Coat Umbreon require balance testing.
 
 ## Custom abilities
 
