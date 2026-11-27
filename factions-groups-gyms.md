@@ -14,6 +14,23 @@ Eight competing mega-industries, each sponsoring the gym leader of one town. The
 | Catalyst Industries | Non-food heavy industry: electricity, manufacturing, extraction, construction | Transport, excavation, industrial items | Industrial utility |
 | Heritage Revival | Heritage restoration, fossils, biotechnology, nostalgia | Fossil restoration, evolution items | Popular starters and fossils |
 
+## Historical and corporate badges
+
+The eight original badges were named after tarnishable or corrodible metals and alloys. Corporate sponsorship replaced their names with commercial virtues. The two name sets are established; the following pairings are proposed and do not establish gym order.
+
+| Corporation | Original badge (proposed pairing) | Corporate badge |
+|---|---|---|
+| Discovery International | Tin Badge | Discovery Badge |
+| Eden Reserve | Brass Badge | Beauty Badge |
+| Pedigree Laboratories | Steel Badge | Perfection Badge |
+| Bountiful | Copper Badge | Prosperity Badge |
+| Victory League | Silver Badge | Triumph Badge |
+| PokeWonder | Pewter Badge | Wonder Badge |
+| Catalyst Industries | Iron Badge | Progress Badge |
+| Heritage Revival | Bronze Badge | Legacy Badge |
+
+Historical badges are eight collectible quest items distinct from ordinary League progression flags. They can be retained for legendary prerequisites, returned to displaced leaders to support reinstatement petitions, or surrendered to the corresponding corporation for a monetary reward (suggested 10,000), after which the corporation disposes of the artifact. See [sidequests](sidequests.md#historical-badge-collection).
+
 ## Battle formats and gym mechanics
 
 Gym levels, badge caps and pre-Gym-6 access requirements are defined in [player progression](progression-and-player-access.md).
@@ -68,3 +85,7 @@ Candidate singles leader: Toxapex (Regenerator/Black Sludge), Rotom-Heat (Levita
 
 ### Mega Patinian Beedrill — candidate gym leader ace
 Special technical set: Ancient Power / Silver Wind / Ominous Wind / Electroweb, with bulk, Speed and SpA investment. Bug/Acid, Precision Sting (Technician + Serene Grace), see [roster and ability definitions](pokemon.md#alternate-evolution-paths-and-additional-evolutions). The first three attacks each have a 20% chance of an omniboost, Electroweb provides Speed control. Exact gym assignment, EVs and nature TBD. Physical alternate set can exploit prior attrition/hazards/weather with Fell Stinger and Caustic Rush; not the proposed special gym set.
+
+## Postgame gym challenges
+
+All eight gyms reopen after the League with revamped subordinate trainers and leader teams, regardless of sponsorship or reinstatement outcomes. The Elite Four reinstates former leaders whose petitions the player supported successfully; otherwise the incumbent remains. Defeating a restored leader awards their historical badge again, recovering the corresponding quest item. Exact team levels, rematch repetition, rewards and reopening timing relative to Mewtwo TBD.
