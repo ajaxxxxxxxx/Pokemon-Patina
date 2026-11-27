@@ -101,7 +101,7 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Familieon | Normal | Draft max friendship + Silk Scarf | **130/65/60/65/95/110 (525)**; Adaptability / HA Protean; name and abilities established |
 | Champeon | Fighting | Draft level up knowing Fighting move | **65/130/95/60/65/110 (525)**; candidate Guts / HA Inner Focus; name established |
 | Zephyreon | Flying | Draft level up holding Pretty Feather | **65/65/60/95/110/130 (525)**; candidate Keen Eye; HA Gale Wings established; name established |
-| Noxeon | Poison | Draft level up while poisoned | **95/65/110/65/130/60 (525)**; candidate Poison Point; HA TBD (Merciless not selected); name established |
+| Noxeon | Poison | Draft level up while poisoned | **95/65/110/65/130/60 (525)**; candidate Poison Point; HA Corrosion established; name established |
 | Loameon | Ground | Draft Soft Sand or dedicated item | **110/95/130/60/65/65 (525)**; candidate Sand Veil / HA Sand Force; name established |
 | Litheon | Rock | Draft Hard Stone or dedicated item | **65/110/130/65/95/60 (525)**; Weak Armor / HA Skill Link; name and abilities established |
 | Papileon | Bug | Draft level up in ancient woodland | **60/65/95/110/65/130 (525)**; candidate Swarm / HA Shield Dust; name established |
@@ -120,10 +120,10 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Mega Sylveon | Fairy | Draft | 95/65/100/150/155/60 (625); candidate Misty Surge; alternative to base Pixilate, not necessarily a direct offensive upgrade |
 | Mega Champeon | Fighting | Draft | 65/160/130/60/100/110 (625); Technician |
 | Mega Zephyreon | Flying | Draft | 65/65/85/120/150/140 (625); custom automatic Tailwind ability; duration and name TBD |
-| Mega Noxeon | Poison | Draft | 95/65/145/100/160/60 (625); candidate Corrosion; design direction remains open |
+| Mega Noxeon | Poison | Draft | 95/65/145/100/160/60 (625); Toxic Debris; base Corrosion can poison normally type-immune opponents before Mega Evolution; existing poison persists |
 | Mega Loameon | Ground | Draft | 110/95/130/60/115/115 (625); Sand Stream |
 | Mega Litheon | Rock | Draft | 65/140/165/65/130/60 (625); Rock Head; fossil-inspired ability |
-| Mega Papileon | Bug | Draft | 60/65/140/120/110/130 (625); ability TBD; defensive Mega |
+| Mega Papileon | Bug | Draft | 60/65/140/120/110/130 (625); ability TBD (Wonder Skin rejected); defensive Mega |
 | Mega Spectreon | Ghost | Draft | 65/60/105/160/130/105 (625); Mummy |
 | Mega Ferreon | Steel | Draft | 65/120/170/60/145/65 (625); Prism Armor |
 | Mega Drakeon | Dragon | Draft | 95/150/75/170/70/65 (625); candidate Neuroforce; mixed attacker, coverage-rewarding ability desired |
