@@ -101,14 +101,14 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Familieon | Normal | Draft max friendship + Silk Scarf | **130/65/60/65/95/110 (525)**; Adaptability / HA Protean; name and abilities established |
 | Champeon | Fighting | Draft level up knowing Fighting move | **65/130/95/60/65/110 (525)**; Guts / HA Inner Focus; name and abilities established |
 | Zephyreon | Flying | Draft level up holding Pretty Feather | **65/65/60/95/110/130 (525)**; Keen Eye / HA Gale Wings; name and abilities established |
-| Noxeon | Poison | Draft level up while poisoned | **95/65/110/65/130/60 (525)**; candidate Poison Point; HA Corrosion established; name established |
-| Loameon | Ground | Draft Soft Sand or dedicated item | **110/95/130/60/65/65 (525)**; candidate Sand Veil / HA Sand Force; name established |
+| Noxeon | Poison | Draft level up while poisoned | **95/65/110/65/130/60 (525)**; Poison Point / HA Poison Heal; Poison Heal does not bypass ordinary Poison-type immunity, so activation is situational; name and abilities established |
+| Loameon | Ground | Draft Soft Sand or dedicated item | **110/95/130/60/65/65 (525)**; Sand Stream / HA TBD; name established |
 | Litheon | Rock | Draft Hard Stone or dedicated item | **65/110/130/65/95/60 (525)**; Weak Armor / HA Skill Link; name and abilities established |
-| Papileon | Bug | Draft level up in ancient woodland | **60/65/95/110/65/130 (525)**; standard ability TBD; HA Shield Dust established; name established |
-| Spectreon | Ghost | Draft Dusk Stone | **65/60/65/130/110/95 (525)**; candidate Cursed Body; HA Infiltrator established; name established |
-| Ferreon | Steel | Draft level up holding Metal Coat | **65/95/130/60/110/65 (525)**; standard ability TBD; candidate HA Heavy Metal; name established |
+| Papileon | Bug | Draft level up in ancient woodland | **60/65/95/110/65/130 (525)**; Effect Spore / HA Shield Dust; name and abilities established |
+| Spectreon | Ghost | Draft Dusk Stone | **65/60/65/130/110/95 (525)**; Cursed Body / HA Infiltrator; name and abilities established |
+| Ferreon | Steel | Draft level up holding Metal Coat | **65/95/130/60/110/65 (525)**; Clear Body / HA Heatproof; name and abilities established |
 | Drakeon | Dragon | Draft level up knowing Dragon move | **95/110/65/130/60/65 (525)**; Shed Skin / HA Marvel Scale; name and abilities established |
-| Erodeon | Acid | High friendship + level up while Corroded or in Acid Rain | **110/60/65/95/130/65 (525)**; candidate Caustic Body; HA Acidify (Acid counterpart to Pixilate); species working name Erodeon |
+| Erodeon | Acid | High friendship + level up while Corroded or in Acid Rain | **110/60/65/95/130/65 (525)**; Caustic Body / HA Acidify; abilities established; species working name Erodeon |
 | Mega Familieon (Mega Eevee) | Normal | Eeveeite; established | **130/90/100/90/100/115 (625)**; Familial Bond |
 | Mega Vaporeon | Water | Established | 130/65/105/130/135/60 (625); Lightning Rod |
 | Mega Jolteon | Electric | Established | 65/75/75/140/110/160 (625); Levitate |
@@ -120,8 +120,8 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Mega Sylveon | Fairy | Established | 95/65/100/150/155/60 (625); Dazzling; anti-priority doubles support, alternative to base Pixilate |
 | Mega Champeon | Fighting | Established | 65/160/130/60/100/110 (625); Technician |
 | Mega Zephyreon | Flying | Established | 65/65/85/120/150/140 (625); Prevailing Wind |
-| Mega Noxeon | Poison | Established | 95/65/145/100/160/60 (625); Toxic Debris; base Corrosion can poison normally type-immune opponents before Mega Evolution; existing poison persists |
-| Mega Loameon | Ground | Established | 110/95/130/60/115/115 (625); Sand Stream |
+| Mega Noxeon | Poison | Established | 95/65/145/100/160/60 (625); Toxic Debris |
+| Mega Loameon | Ground | Established | 110/95/130/60/115/115 (625); Sand Force; base Sand Stream establishes sandstorm before Mega Evolution, which benefits from remaining weather duration |
 | Mega Litheon | Rock | Established | 65/140/165/65/130/60 (625); Rock Head; fossil-inspired ability |
 | Mega Papileon | Bug | Established | 60/65/140/120/110/130 (625); Tinted Lens; defensive setup attacker with improved resisted-move damage |
 | Mega Spectreon | Ghost | Established | 65/60/105/160/130/105 (625); Mummy |
