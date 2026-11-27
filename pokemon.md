@@ -101,7 +101,7 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Familieon | Normal | Draft max friendship + Silk Scarf | **130/65/60/65/95/110 (525)**; Adaptability / HA Protean; name and abilities established |
 | Champeon | Fighting | Draft level up knowing Fighting move | **65/130/95/60/65/110 (525)**; Guts / HA Inner Focus; name and abilities established |
 | Zephyreon | Flying | Draft level up holding Pretty Feather | **65/65/60/95/110/130 (525)**; Keen Eye / HA Gale Wings; name and abilities established |
-| Noxeon | Poison | Draft level up while poisoned | **95/65/110/65/130/60 (525)**; Corrosion / HA Sticky Hold; name and abilities established |
+| Noxeon | Poison | High friendship + level up while poisoned or badly poisoned | **95/65/110/65/130/60 (525)**; Corrosion / HA Sticky Hold; name and abilities established |
 | Loameon | Ground | Draft Soft Sand or dedicated item | **110/95/130/60/65/65 (525)**; Sand Stream / HA Stamina; name and abilities established |
 | Litheon | Rock | Draft Hard Stone or dedicated item | **65/110/130/65/95/60 (525)**; Weak Armor / HA Skill Link; name and abilities established |
 | Papileon | Bug | Draft level up in ancient woodland | **60/65/95/110/65/130 (525)**; Effect Spore / HA Shield Dust; name and abilities established |
