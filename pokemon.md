@@ -101,8 +101,8 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Familieon | Normal | Draft max friendship + Silk Scarf | **130/65/60/65/95/110 (525)**; Adaptability / HA Protean; name and abilities established |
 | Champeon | Fighting | Draft level up knowing Fighting move | **65/130/95/60/65/110 (525)**; Guts / HA Inner Focus; name and abilities established |
 | Zephyreon | Flying | Draft level up holding Pretty Feather | **65/65/60/95/110/130 (525)**; Keen Eye / HA Gale Wings; name and abilities established |
-| Noxeon | Poison | Draft level up while poisoned | **95/65/110/65/130/60 (525)**; Poison Point / HA Poison Heal; Poison Heal does not bypass ordinary Poison-type immunity, so activation is situational; name and abilities established |
-| Loameon | Ground | Draft Soft Sand or dedicated item | **110/95/130/60/65/65 (525)**; Sand Stream / HA TBD; name established |
+| Noxeon | Poison | Draft level up while poisoned | **95/65/110/65/130/60 (525)**; Poison Point; HA TBD (Black Sludge synergy under consideration); name and standard ability established |
+| Loameon | Ground | Draft Soft Sand or dedicated item | **110/95/130/60/65/65 (525)**; Sand Stream / HA Stamina; name and abilities established |
 | Litheon | Rock | Draft Hard Stone or dedicated item | **65/110/130/65/95/60 (525)**; Weak Armor / HA Skill Link; name and abilities established |
 | Papileon | Bug | Draft level up in ancient woodland | **60/65/95/110/65/130 (525)**; Effect Spore / HA Shield Dust; name and abilities established |
 | Spectreon | Ghost | Draft Dusk Stone | **65/60/65/130/110/95 (525)**; Cursed Body / HA Infiltrator; name and abilities established |
