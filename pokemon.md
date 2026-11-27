@@ -86,7 +86,7 @@ Precision Sting supports low-power utility and status attacks. Preserve original
 
 ## Eeveelutions
 
-All 19 types represented, including Normal; every evolution has 525 BST using the traditional permutation of 130,110,95,65,65,60. Eevee itself is unchanged. Collect one of each evolution for Eeveeite; see [sidequests](sidequests.md). Full Mega roster is under development; only the Normal Mega has a finalized stat spread. Draft Mega rows incorporate established design directions; exact spreads and candidate abilities remain provisional. All Mega forms are intended to retain monotype and 625 BST if developed.
+All 19 types represented, including Normal; every evolution has 525 BST using the traditional permutation of 130,110,95,65,65,60. Eevee itself is unchanged. Collect one of each evolution for Eeveeite; see [sidequests](sidequests.md). All nineteen Mega Eeveelutions have established stat spreads and ability effects, retain monotype and have 625 BST. Custom ability naming and implementation details may remain provisional.
 
 | Pokemon | Type | Evolution method / status | Stats / ability notes |
 |---|---|---|---|
@@ -108,26 +108,26 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Spectreon | Ghost | Draft Dusk Stone | **65/60/65/130/110/95 (525)**; candidate Cursed Body / HA Infiltrator; name established |
 | Ferreon | Steel | Draft level up holding Metal Coat | **65/95/130/60/110/65 (525)**; candidate Battle Armor / HA Heavy Metal; name established |
 | Drakeon | Dragon | Draft level up knowing Dragon move | **95/110/65/130/60/65 (525)**; Shed Skin / HA Marvel Scale; name and abilities established |
-| Erodeon | Acid | High friendship + level up while Corroded or in Acid Rain | **110/60/65/95/130/65 (525)**; candidate Caustic Body; HA Acidilate (working name, Acid counterpart to Pixilate); species working name Erodeon |
+| Erodeon | Acid | High friendship + level up while Corroded or in Acid Rain | **110/60/65/95/130/65 (525)**; candidate Caustic Body; HA Acidify (Acid counterpart to Pixilate); species working name Erodeon |
 | Mega Familieon (Mega Eevee) | Normal | Eeveeite; established | **130/90/100/90/100/115 (625)**; Familial Bond |
-| Mega Vaporeon | Water | Draft | 130/65/105/130/135/60 (625); Lightning Rod |
-| Mega Jolteon | Electric | Draft | 65/75/75/140/110/160 (625); Levitate |
-| Mega Flareon | Fire | Draft | 65/140/60/140/110/110 (625); Sheer Force; mixed attacker with improved Speed |
-| Mega Espeon | Psychic | Draft | 65/65/70/175/140/110 (625); Psychic Surge |
-| Mega Umbreon | Dark | Draft | 95/115/110/60/185/60 (625); Fur Coat; no Mega points added to Defense |
-| Mega Leafeon | Grass | Draft | 65/140/150/60/95/115 (625); Thick Bark |
-| Mega Glaceon | Ice | Draft | 65/60/135/160/110/95 (625); Snow Warning |
-| Mega Sylveon | Fairy | Draft | 95/65/100/150/155/60 (625); Dazzling; anti-priority doubles support, alternative to base Pixilate |
-| Mega Champeon | Fighting | Draft | 65/160/130/60/100/110 (625); Technician |
-| Mega Zephyreon | Flying | Draft | 65/65/85/120/150/140 (625); Prevailing Wind |
-| Mega Noxeon | Poison | Draft | 95/65/145/100/160/60 (625); Toxic Debris; base Corrosion can poison normally type-immune opponents before Mega Evolution; existing poison persists |
-| Mega Loameon | Ground | Draft | 110/95/130/60/115/115 (625); Sand Stream |
-| Mega Litheon | Rock | Draft | 65/140/165/65/130/60 (625); Rock Head; fossil-inspired ability |
-| Mega Papileon | Bug | Draft | 60/65/140/120/110/130 (625); Tinted Lens; defensive setup attacker with improved resisted-move damage |
-| Mega Spectreon | Ghost | Draft | 65/60/105/160/130/105 (625); Mummy |
-| Mega Ferreon | Steel | Draft | 65/120/170/60/145/65 (625); Prism Armor |
-| Mega Drakeon | Dragon | Draft | 95/150/75/170/70/65 (625); Technician; mixed attacker with low-power utility, coverage and priority options to compensate for low Speed and modest defenses; priority learnset TBD |
-| Mega Erodeon | Acid | Draft | 110/60/120/95/175/65 (625); Acidic Atmosphere (working ability name) |
+| Mega Vaporeon | Water | Established | 130/65/105/130/135/60 (625); Lightning Rod |
+| Mega Jolteon | Electric | Established | 65/75/75/140/110/160 (625); Levitate |
+| Mega Flareon | Fire | Established | 65/140/60/140/110/110 (625); Sheer Force; mixed attacker with improved Speed |
+| Mega Espeon | Psychic | Established | 65/65/70/175/140/110 (625); Psychic Surge |
+| Mega Umbreon | Dark | Established | 95/115/110/60/185/60 (625); Fur Coat; no Mega points added to Defense |
+| Mega Leafeon | Grass | Established | 65/140/150/60/95/115 (625); Thick Bark |
+| Mega Glaceon | Ice | Established | 65/60/135/160/110/95 (625); Snow Warning |
+| Mega Sylveon | Fairy | Established | 95/65/100/150/155/60 (625); Dazzling; anti-priority doubles support, alternative to base Pixilate |
+| Mega Champeon | Fighting | Established | 65/160/130/60/100/110 (625); Technician |
+| Mega Zephyreon | Flying | Established | 65/65/85/120/150/140 (625); Prevailing Wind |
+| Mega Noxeon | Poison | Established | 95/65/145/100/160/60 (625); Toxic Debris; base Corrosion can poison normally type-immune opponents before Mega Evolution; existing poison persists |
+| Mega Loameon | Ground | Established | 110/95/130/60/115/115 (625); Sand Stream |
+| Mega Litheon | Rock | Established | 65/140/165/65/130/60 (625); Rock Head; fossil-inspired ability |
+| Mega Papileon | Bug | Established | 60/65/140/120/110/130 (625); Tinted Lens; defensive setup attacker with improved resisted-move damage |
+| Mega Spectreon | Ghost | Established | 65/60/105/160/130/105 (625); Mummy |
+| Mega Ferreon | Steel | Established | 65/120/170/60/145/65 (625); Prism Armor |
+| Mega Drakeon | Dragon | Established | 95/150/75/170/70/65 (625); Technician; mixed attacker with low-power utility, coverage and priority options to compensate for low Speed and modest defenses; priority learnset TBD |
+| Mega Erodeon | Acid | Established | 110/60/120/95/175/65 (625); Acidic Atmosphere (working ability name) |
 
 Names established: Familieon, Champeon, Zephyreon, Noxeon, Loameon, Litheon, Papileon, Spectreon, Ferreon and Drakeon. Erodeon is the provisional Acid name. All eleven base stat spreads are established; unselected ability candidates remain draft. Evolution triggers require priority/conflict checks. Mega Familieon uses one large Eevee surrounded by chibi Eeveelutions. A single shared Mega Stone for every Eeveelution is a candidate approach. Universal Wonder Guard is exploratory, not selected; its effectiveness varies sharply with type weaknesses. Mega Vaporeon cannot hold a separate held item with Eeveeite. Fur Coat Umbreon, terrain setters and weather setters require balance testing. Mega Sylveon's loss of Pixilate is an intentional tradeoff for Dazzling's team-wide protection against opposing priority moves.
 
@@ -135,7 +135,7 @@ Names established: Familieon, Champeon, Zephyreon, Noxeon, Loameon, Litheon, Pap
 
 - **Prevailing Wind:** establishes ordinary Tailwind for the user's side upon Mega Evolution or entry into battle, equivalent to using the Tailwind move (four turns, doubles Speed). Tailwind persists for its remaining duration after the user leaves or faints; use ordinary Tailwind behavior when already active.
 - **Thick Bark:** halves incoming Ice-, Bug-, Acid- and Poison-type attack damage, following Thick Fat-style mechanics; Fire is unaffected. Mega Leafeon's ability.
-- **Acidilate (working name):** Acid counterpart to Pixilate; converts eligible Normal-type damaging moves to Acid and applies the same power multiplier as the configured Pixilate generation (1.2x under modern rules). Hidden ability of the Acid Eeveelution; final ability name TBD.
+- **Acidify:** Acid counterpart to Pixilate; converts eligible Normal-type damaging moves to Acid and applies the same power multiplier as the configured Pixilate generation (1.2x under modern rules). Hidden ability of the Acid Eeveelution.
 - **Corrosive Body:** chance to inflict Corroded on an attacker making contact; draft 30% activation rate, following comparable contact-status abilities and ordinary Corroded immunity rules.
 - **Caustic Body:** mechanically identical to Poison Point; 30% chance to inflict ordinary poison on an attacker making contact, with normal poison immunity rules.
 - **Burning Brightly:** prevents accuracy-reducing effects and improves move accuracy by 10%. Draft implementation: 1.1x multiplier, blocks accuracy-stage reductions; evasion and other accuracy interactions TBD.
