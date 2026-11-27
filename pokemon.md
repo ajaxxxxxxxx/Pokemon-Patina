@@ -112,7 +112,7 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Mega Familieon (Mega Eevee) | Normal | Eeveeite; established | **130/90/100/90/100/115 (625)**; Familial Bond |
 | Mega Vaporeon | Water | Draft | 130/65/105/130/135/60 (625); Lightning Rod |
 | Mega Jolteon | Electric | Draft | 65/75/75/140/110/160 (625); Levitate |
-| Mega Flareon | Fire | Draft | 65/140/60/140/110/110 (625); ability TBD; mixed attacker with improved Speed |
+| Mega Flareon | Fire | Draft | 65/140/60/140/110/110 (625); Sheer Force; mixed attacker with improved Speed |
 | Mega Espeon | Psychic | Draft | 65/65/70/175/140/110 (625); Psychic Surge |
 | Mega Umbreon | Dark | Draft | 95/115/110/60/185/60 (625); Fur Coat; no Mega points added to Defense |
 | Mega Leafeon | Grass | Draft | 65/140/150/60/95/115 (625); Thick Fat effect; candidate thematic clone Thick Bark or Thick Sap |
@@ -122,7 +122,7 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Mega Zephyreon | Flying | Draft | 65/65/85/120/150/140 (625); custom automatic Tailwind ability; duration and name TBD |
 | Mega Noxeon | Poison | Draft | 95/65/145/100/160/60 (625); candidate Corrosion; design direction remains open |
 | Mega Loameon | Ground | Draft | 110/95/130/60/115/115 (625); Sand Stream |
-| Mega Litheon | Rock | Draft | 65/140/165/65/130/60 (625); candidate Rock Head; fossil-inspired ability direction |
+| Mega Litheon | Rock | Draft | 65/140/165/65/130/60 (625); Rock Head; fossil-inspired ability |
 | Mega Papileon | Bug | Draft | 60/65/140/120/110/130 (625); ability TBD; defensive Mega |
 | Mega Spectreon | Ghost | Draft | 65/60/105/160/130/105 (625); Mummy |
 | Mega Ferreon | Steel | Draft | 65/120/170/60/145/65 (625); Prism Armor |
