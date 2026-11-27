@@ -86,7 +86,7 @@ Move contact flags, targeting, animations, exact distribution and implementation
 
 Many Water, Grass, Fire and Poison Pokemon should have access to suitable Acid moves without acquiring Acid typing. Choose learnsets by anatomy, chemical ecology and battle role. No blanket distribution of recovery plus Corroded to bulky species. Existing species may receive learnset improvements (including Ledian) without changing their type.
 
-Precision Sting, Burning Brightly and Family Bond are defined in the [Pokemon roster](pokemon.md#custom-abilities). Test secondary effects, multihit attacks, conditional power, priority, spread moves and cross-defense damage calculations in combination with these abilities. Individual Pokemon learnsets and encounter movesets belong in the roster and gym documents, not in duplicate move-definition tables.
+Precision Sting, Burning Brightly and Familial Bond are defined in the [Pokemon roster](pokemon.md#custom-abilities). Test secondary effects, multihit attacks, conditional power, priority, spread moves and cross-defense damage calculations in combination with these abilities. Individual Pokemon learnsets and encounter movesets belong in the roster and gym documents, not in duplicate move-definition tables.
 
 ## Acid-induced evolution
 
