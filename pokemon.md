@@ -86,7 +86,7 @@ Precision Sting supports low-power utility and status attacks. Preserve original
 
 ## Eeveelutions
 
-All 19 types represented, including Normal; every evolution has 525 BST using the traditional permutation of 130,110,95,65,65,60. Eevee itself is unchanged. Collect one of each evolution for Eeveeite; see [sidequests](sidequests.md). Full Mega roster is exploratory; only the Normal Mega is established. All Mega forms are intended to retain monotype and 625 BST if developed.
+All 19 types represented, including Normal; every evolution has 525 BST using the traditional permutation of 130,110,95,65,65,60. Eevee itself is unchanged. Collect one of each evolution for Eeveeite; see [sidequests](sidequests.md). Full Mega roster is under development; only the Normal Mega has a finalized stat spread. Draft Mega rows incorporate established design directions; exact spreads and candidate abilities remain provisional. All Mega forms are intended to retain monotype and 625 BST if developed.
 
 | Pokemon | Type | Evolution method / status | Stats / ability notes |
 |---|---|---|---|
@@ -110,26 +110,26 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Drakeon | Dragon | Draft level up knowing Dragon move | **95/110/65/130/60/65 (525)**; Shed Skin / HA Marvel Scale; name and abilities established |
 | Erodeon | Acid | High friendship + level up while Corroded or in Acid Rain | **110/60/65/95/130/65 (525)**; candidate Caustic Body; HA Acidilate (working name, Acid counterpart to Pixilate); species working name Erodeon |
 | Mega Familieon (Mega Eevee) | Normal | Eeveeite; established | **130/90/100/90/100/115 (625)**; Familial Bond |
-| Mega Vaporeon | Water | Exploratory | 130/65/100/125/125/80; Poison Heal or Regenerator (alternate Water Absorb + Regenerator) |
-| Mega Jolteon | Electric | Exploratory | 65/65/85/135/110/165; Transistor (alternate Volt Absorb + Transistor) |
-| Mega Flareon | Fire | Exploratory | 65/130/100/95/130/105; Huge Power (alternate Flash Fire + Tough Claws) |
-| Mega Espeon | Psychic | Exploratory | 65/65/80/175/100/140; Psychic Surge (alternate Magic Bounce + Psychic Surge) |
-| Mega Umbreon | Dark | Exploratory | 95/65/130/65/180/85; Fur Coat (alternate Fur Coat + Magic Guard) |
-| Mega Leafeon | Grass | Exploratory | 65/150/150/60/80/120; Tinted Lens (alternate Chlorophyll + Tinted Lens) |
-| Mega Glaceon | Ice | Exploratory | 65/60/135/155/125/85; Adaptability (alternate Snow Warning + Slush Rush) |
-| Mega Sylveon | Fairy | Exploratory | 95/65/90/145/155/75; Pixilate (alternate Pixilate + Punk Rock) |
-| Mega Champeon | Fighting | Exploratory | Tough Claws |
+| Mega Vaporeon | Water | Draft | 130/65/105/130/135/60 (625); candidate Sap Sipper; immunity to one ordinary Water weakness desired |
+| Mega Jolteon | Electric | Draft | 65/75/75/140/110/160 (625); Levitate |
+| Mega Flareon | Fire | Draft | 65/140/60/140/110/110 (625); ability TBD; mixed attacker with improved Speed |
+| Mega Espeon | Psychic | Draft | 65/65/70/175/140/110 (625); Psychic Surge |
+| Mega Umbreon | Dark | Draft | 95/90/150/60/170/60 (625); candidate Fur Coat; enhanced physical defense desired |
+| Mega Leafeon | Grass | Draft | 65/140/150/60/95/115 (625); candidate Thick Fat; strong ability intended to rehabilitate neglected form |
+| Mega Glaceon | Ice | Draft | 65/60/135/160/110/95 (625); Snow Warning |
+| Mega Sylveon | Fairy | Draft | 95/65/100/150/155/60 (625); candidate Misty Surge; alternative to base Pixilate, not necessarily a direct offensive upgrade |
+| Mega Champeon | Fighting | Draft | 65/160/130/60/100/110 (625); Technician |
 | Mega Zephyreon | Flying | Exploratory | Aerilate |
-| Mega Noxeon | Poison | Exploratory | Merciless |
-| Mega Loameon | Ground | Exploratory | Sand Force |
-| Mega Litheon | Rock | Exploratory | Solid Rock |
-| Mega Papileon | Bug | Exploratory | Skill Link |
-| Mega Spectreon | Ghost | Exploratory | Shadow Tag |
-| Mega Ferreon | Steel | Exploratory | Filter |
+| Mega Noxeon | Poison | Draft | 95/65/145/100/160/60 (625); candidate Corrosion; design direction remains open |
+| Mega Loameon | Ground | Draft | 110/95/130/60/115/115 (625); Sand Stream |
+| Mega Litheon | Rock | Draft | 65/140/165/65/130/60 (625); candidate Rock Head; fossil-inspired ability direction |
+| Mega Papileon | Bug | Draft | 60/65/140/120/110/130 (625); ability TBD; defensive Mega |
+| Mega Spectreon | Ghost | Draft | 65/60/105/160/130/105 (625); candidate Fluffy; explore uncommon Ghost-associated abilities |
+| Mega Ferreon | Steel | Draft | 65/120/170/60/145/65 (625); Filter (candidate for requested super-effective damage reduction) |
 | Mega Drakeon | Dragon | Exploratory | Contrary |
-| Mega Erodeon | Acid | Exploratory | Serene Grace |
+| Mega Erodeon | Acid | Draft | 110/60/120/95/175/65 (625); Acidic Atmosphere (working ability name) |
 
-Names established: Familieon, Champeon, Zephyreon, Noxeon, Loameon, Litheon, Papileon, Spectreon, Ferreon and Drakeon. Erodeon is the provisional Acid name. All eleven base stat spreads are established; unselected ability candidates remain draft. Evolution triggers require priority/conflict checks. Mega Familieon uses one large Eevee surrounded by chibi Eeveelutions. A single shared Mega Stone for every Eeveelution is a candidate approach. Universal Wonder Guard is exploratory, not selected; its effectiveness varies sharply with type weaknesses. Mega Vaporeon cannot hold Toxic Orb with Eeveeite; Huge Power Flareon and Fur Coat Umbreon require balance testing.
+Names established: Familieon, Champeon, Zephyreon, Noxeon, Loameon, Litheon, Papileon, Spectreon, Ferreon and Drakeon. Erodeon is the provisional Acid name. All eleven base stat spreads are established; unselected ability candidates remain draft. Evolution triggers require priority/conflict checks. Mega Familieon uses one large Eevee surrounded by chibi Eeveelutions. A single shared Mega Stone for every Eeveelution is a candidate approach. Universal Wonder Guard is exploratory, not selected; its effectiveness varies sharply with type weaknesses. Mega Vaporeon cannot hold a separate held item with Eeveeite. Fur Coat Umbreon, terrain setters and weather setters require balance testing. Mega Sylveon's loss of Pixilate is an intentional tradeoff under the Misty Surge proposal. Mega Zephyreon and Mega Drakeon remain exploratory; their earlier ability candidates are not established.
 
 ## Custom abilities
 
