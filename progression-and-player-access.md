@@ -41,8 +41,31 @@ Mandatory availability deadline: when the player first becomes eligible to chall
 2. All Mega Stones: an obtainable path to every planned stone by this milestone, including difficult or lengthy quests; possession is not guaranteed. Existing special requirements such as Eeveeite collection quest remain relevant. Mega activation access must be consistent with this goal.
 3. Move tutor and move relearner: both services accessible.
 4. EV management: means to reset and deliberately influence/train EVs.
-5. Substantial Safari, Friend Safari and other limited-access encounter areas available, potentially with sponsorship-dependent access. Preserve the optional sponsorship model; exact access tiers TBD. Proposed privileged type-focused habitats have increased hidden ability encounter rates and serve as alternative environmental evolution locations; see [abandoned Eeveelutions](sidequests.md#abandoned-eeveelutions). Existing evolution routes must remain available without relying on post-Eeveeite encounters.
+5. Substantial Safari, Friend Safari and other limited-access encounter areas available, potentially with sponsorship-dependent access. Preserve the optional sponsorship model; exact access tiers TBD. Specialized type-focused Safari habitats have increased hidden ability encounter rates and serve as alternative environmental evolution locations; see the Safari habitat section below and [abandoned Eeveelutions](sidequests.md#abandoned-eeveelutions). Existing evolution routes must remain available without relying on post-Eeveeite encounters.
 6. All environment types, weather conditions and locations necessary for special-condition evolutions accessible, including Acid Rain and other relevant location-based evolutions. Do not require a later badge just to reach a required environment.
 7. TMs accessible by this milestone; exact distribution, acquisition cost and whether every individual TM must be obtainable at this point remain to be specified.
 
 Before finalizing maps and quests, verify availability routes against the five-badge milestone, including sponsorship restrictions and dependencies. Early access is permitted. No requirement to give everything away for free.
+
+## Specialized Safari habitats
+
+Eden Reserve operates compact, approximately single-screen, type-focused Safari habitats. Each has a square central encounter area (grass or equivalent), a surrounding encounter-free walking ring, and optionally a central 3x3-tile body of water where appropriate. Wild encounter pools emphasize the habitat's type and have increased hidden ability rates; exact rates and species pools TBD.
+
+| Planned habitat | Type | Environmental Eevee evolution |
+|---|---|---|
+| Toxic Marsh | Poison | Noxeon |
+| Dust Basin | Ground | Loameon |
+| Crystal Cavern | Rock | Litheon |
+| Butterfly Sanctuary | Bug | Papileon |
+| Twilight Grove | Ghost | Spectreon |
+| Caustic Wetlands | Acid | Erodeon |
+
+Each habitat provides an alternative high-friendship level-up evolution trigger, comparable to Moss Rock or Ice Rock. Names may be refined during map development.
+
+| Visit rule | Unsponsored | Eden-sponsored |
+|---|---|---|
+| Entry fee | 500 | Free |
+| Step limit | 100 | Unlimited |
+| Wild battle limit | 10 | Unlimited |
+
+Unsponsored visits end at whichever limit is reached first; both counters reset on entry. Proposed implementation: count movement steps throughout the habitat, including the safe perimeter, and completed wild battles including captures, fleeing and defeats; if a limit is reached during a battle, eject after battle resolution. Sponsored visits disable both limits. Normal battle/capture mechanics are intended rather than traditional Safari Ball-only encounters, consistent with training and evolution in these habitats. Exact counter integration, exit behavior, encounter rates and special encounter retry handling require implementation/testing. The abandoned Eeveelution quest is separate from the access rules; see [sidequests](sidequests.md#abandoned-eeveelutions).
