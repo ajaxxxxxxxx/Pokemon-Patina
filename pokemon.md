@@ -100,7 +100,7 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Sylveon | Fairy | Existing | Unchanged |
 | Familieon | Normal | Draft max friendship + Silk Scarf | **130/65/60/65/95/110 (525)**; Adaptability / HA Protean; name and abilities established |
 | Champeon | Fighting | Draft level up knowing Fighting move | **65/130/95/60/65/110 (525)**; candidate Guts / HA Inner Focus; name established |
-| Zephyreon | Flying | Draft level up holding Pretty Feather | **65/65/60/110/95/130 (525)**; candidate Keen Eye; HA Gale Wings established; name established |
+| Zephyreon | Flying | Draft level up holding Pretty Feather | **65/65/60/95/110/130 (525)**; candidate Keen Eye; HA Gale Wings established; name established |
 | Noxeon | Poison | Draft level up while poisoned | **95/65/110/65/130/60 (525)**; candidate Poison Point; HA TBD (Merciless not selected); name established |
 | Loameon | Ground | Draft Soft Sand or dedicated item | **110/95/130/60/65/65 (525)**; candidate Sand Veil / HA Sand Force; name established |
 | Litheon | Rock | Draft Hard Stone or dedicated item | **65/110/130/65/95/60 (525)**; Weak Armor / HA Skill Link; name and abilities established |
