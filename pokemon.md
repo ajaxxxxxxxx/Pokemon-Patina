@@ -18,7 +18,7 @@ Stat order: HP / Atk / Def / SpA / SpD / Spe. All stat spreads, names, abilities
 | Inchid → Acidcoil → Corrosaur | Acid → Acid/Dragon → Acid/Dragon | 30/15/40/35/35/45 (200); 70/65/80/85/70/50 (420); 105/100/120/125/100/50 (600) | Fixed names; Inchid candidate Run Away / Shield Dust; evolution at level 21+ with high friendship, then held item (item and trigger TBD); see family notes below |
 | Heliovore (solar legendary; alternate name Solarceny) | Dark/Electric | TBD | Parasitic solar collector, monopolizes sunlight; corruption engineered by Mewtwo; candidate Solar Power / Opportunist / HA Lightning Rod; signature Light Levy draft in [move catalog](acid-type.md#draft-move-catalog) |
 | Acid legendary (Vitriol candidate) | Acid | 600 BST fixed; distribution TBD | Environmental climax; criminal exploitation plot in [narrative](narrative-outline.md); design and ability TBD |
-| Unnamed butterfly | Bug/Fairy | TBD | Original species inspired by Beautifly; stage count TBD, one minimum |
+| Charmite → Charmoth | Bug/Fairy | 60/30/45/55/65/45 (300, draft); **85/40/85/100/100/90 (500)** | Cute termite-like first stage evolves into elegant moth with intricate butterfly-like wings. Candidate Compound Eyes / Shield Dust; Charmoth HA Magic Bounce. Flexible setup attacker, Baton Pass support or doubles partner. Learnset includes Sweet Scent, Baton Pass, Minimize, Protect, Substitute and Ominous Wind; additional candidates Quiver Dance, Pollen Puff, Moonblast, Draining Kiss, Silver Wind, Bug Buzz, Sleep Powder, Stun Spore, Tailwind, Rage Powder and Aromatherapy. Evolution trigger and exact learnset distribution TBD. |
 | Dissol / Solublob (exploratory) | Acid | TBD | Forest slime mold/decomposer; candidate Hydration / Liquid Ooze / HA Regenerator |
 | Vialit / Flaskor / Retortox (exploratory) | Acid | TBD | Alchemical glassware; candidate Clear Body / Liquid Ooze / HA Contrary |
 | Acimicro / Citoblast (exploratory) | Acid | TBD | Acidophile microbial colony; candidate Natural Cure / Filter / HA Regenerator |
@@ -138,7 +138,7 @@ Ledian receives a better movepool without a new form or evolution; exact additio
 
 ## Roster totals
 
-Minimum planned roster: 1,025 official Gen IX species + 23 original species + 16 new evolutions (11 Eeveelutions and 5 other species) + 38 regional/alternate/corrupted forms (37 in regional table and Beedrill in alternate paths table) = **1,102** species/forms, with **1,064** unique National Dex species. Of these, 55 are Acid type under provisional family-stage typings. Three established new Megas and 18 exploratory Mega Eeveelutions are excluded, as are official alternate forms and exploratory species. The unnamed butterfly counts as one minimum.
+Minimum planned roster: 1,025 official Gen IX species + 24 original species + 16 new evolutions (11 Eeveelutions and 5 other species) + 38 regional/alternate/corrupted forms (37 in regional table and Beedrill in alternate paths table) = **1,103** species/forms, with **1,065** unique National Dex species. Of these, 55 are Acid type under provisional family-stage typings. Three established new Megas and 18 exploratory Mega Eeveelutions are excluded, as are official alternate forms and exploratory species.
 
 Acid/Poison and Acid/Ghost are intentionally unrepresented; do not force type-pair coverage. No regional Weedle, Kakuna, Weavile or Cursola. Rejected lower-tier and earlier regional brainstorms are not part of the roster.
 
