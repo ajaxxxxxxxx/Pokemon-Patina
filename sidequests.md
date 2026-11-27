@@ -9,6 +9,14 @@ Proposed mini-sidequest linked to privileged, type-focused Safari habitats with 
 
 An NPC in each relevant habitat complains that their beautiful Eevee evolved into something disgusting while training against local wild Pokemon, indirectly revealing the environmental evolution trigger. After the player obtains Eeveeite, returning to the habitat may reveal a unique wild encounter with the corresponding Eeveelution, abandoned by its former owner. Guaranteed shiny encounters are proposed: the former owner's praise of Eevee's beauty refers to its shiny coloration, highlighting conditional affection and manufactured desirability. Exact encounter levels, abilities, retry rules and dialogue remain TBD. These encounters are not required for the Eeveeite collection quest, and ordinary evolution routes must remain accessible beforehand.
 
+## Historical badge collection
+
+Eight original metal/alloy gym badges survive as scarce historical collectibles; see [badge names](factions-groups-gyms.md#historical-and-corporate-badges). An incidental NPC comment mentions that history buffs and collectors remember the old badges, but many have been lost or deteriorated through exposure to the elements.
+
+Each badge is a unique quest item. Returning it to the corresponding displaced leader while rejecting the relevant corporate sponsorship is part of persuading that leader to petition the Elite Four for reinstatement. A successful petition removes the badge from inventory. Alternatively, surrender it to the corporation that displaced the leader for a suggested 10,000 money reward; the corporation promptly disposes of the symbol of the old League. Retaining badges can satisfy prerequisites for certain legendary encounters, such as the Regis; specific badge-to-legendary assignments TBD.
+
+After the League, supported former leaders are reinstated and their historical badge can be earned again by defeating their revamped gym challenge. All eight gyms reopen with revised trainers and leaders whether restored or incumbent. Legendary access may therefore be delayed by a petition until the badge is re-earned. Exact petition eligibility, sold-badge recovery policy, legendary check timing, and interaction with the sixth badge used as fugitive evidence TBD.
+
 ## Eden investigations
 ### The Pikachu that never evolves
 NPCs repeat Eden's claim that Plusle and Minun are male/female first-generation Pikachu variants. Trainers are blamed for failed evolution. Investigate daycare egg swapping, inconsistent records, staged demonstrations or misleading advertisements. Actual evolution mechanics do not change. Outcome and rewards TBD.
