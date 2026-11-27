@@ -38,9 +38,12 @@ Implementation decisions remaining: selection when stats are already at their mi
 
 ## Acid Rain
 
-Sandstorm-like residual damage except Acid, Poison, Ground and Water types are immune. An Acid/Flying cloud/storm family has an ability that establishes this weather.
+Sandstorm-like residual damage except Acid, Poison, Ground and Water types are immune. The Acid/Flying cloud/storm family and Vitriol have an ability that establishes this weather (working name Acidic Atmosphere); it is Vitriol's sole ability.
 
 Draft baseline: damage equal to 1/16 maximum HP at end of turn; five turns of ordinary ability-set weather; immunity if either defensive type qualifies. No automatic type damage bonus, defensive bonus or additional status effect. Interaction with Thunder (rain-like accuracy without weakening Fire) is exploratory, not established. Ability and weather-extending item names, move parameters, immunity abilities/items, field visuals and exact weather interactions remain TBD.
+
+### Primal Acid Rain
+Primal Vitriol's sole ability (working name Primordial Corrosion) establishes persistent Acid Rain while it remains active and prevents switching, with Groudon, Kyogre and Rayquaza exempt. Proposed interpretation: opposing voluntary switches are blocked; whether allied switches, Ghost-type immunity, Shed Shell, pivot moves, forced switches and Primal/Mega species IDs are affected remains TBD. Weather retains normal Acid Rain residual damage and type immunities unless separately revised. Ordinary weather should not replace Primal Acid Rain; interaction with Desolate Land, Primordial Sea, Delta Stream, weather suppression and simultaneous Primal abilities TBD. Candidate additional effect: dissolve entry hazards on both sides (Stealth Rock, Spikes, Toxic Spikes, Sticky Web); initial activation versus continuous removal TBD. Test hazard timing on entry and whether trapping ends immediately on departure or ability suppression. Weather Ball should become Acid-type in Acid Rain with ordinary weather power behavior (draft).
 
 ## Draft move catalog
 
