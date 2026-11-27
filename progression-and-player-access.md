@@ -41,7 +41,7 @@ Mandatory availability deadline: when the player first becomes eligible to chall
 2. All Mega Stones: an obtainable path to every planned stone by this milestone, including difficult or lengthy quests; possession is not guaranteed. Existing special requirements such as Eeveeite collection quest remain relevant. Mega activation access must be consistent with this goal.
 3. Move tutor and move relearner: both services accessible.
 4. EV management: means to reset and deliberately influence/train EVs.
-5. Substantial Safari, Friend Safari and other limited-access encounter areas available, potentially with sponsorship-dependent access. Preserve the optional sponsorship model; exact access tiers TBD.
+5. Substantial Safari, Friend Safari and other limited-access encounter areas available, potentially with sponsorship-dependent access. Preserve the optional sponsorship model; exact access tiers TBD. Proposed privileged type-focused habitats have increased hidden ability encounter rates and serve as alternative environmental evolution locations; see [abandoned Eeveelutions](sidequests.md#abandoned-eeveelutions). Existing evolution routes must remain available without relying on post-Eeveeite encounters.
 6. All environment types, weather conditions and locations necessary for special-condition evolutions accessible, including Acid Rain and other relevant location-based evolutions. Do not require a later badge just to reach a required environment.
 7. TMs accessible by this milestone; exact distribution, acquisition cost and whether every individual TM must be obtainable at this point remain to be specified.
 
