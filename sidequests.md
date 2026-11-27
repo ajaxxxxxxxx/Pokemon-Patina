@@ -1,7 +1,13 @@
 # Sidequests
 
 ## Eevee collection
-Acquire one of every Eeveelution to unlock Eeveeite. The roster is intended to cover all 19 types including Acid and a dedicated Normal evolution. The same stone is proposed to Mega Evolve every Eeveelution; the full Mega roster remains under exploration. Heritage Revival is the proposed quest sponsor. Simultaneous ownership rather than Pokedex registration is a proposed requirement, not finalized. No mandatory sponsorship; sponsors can make breeding and item acquisition easier. See [Pokemon](pokemon.md).
+Acquire one of every Eeveelution to unlock Eeveeite. The roster is intended to cover all 19 types including Acid and a dedicated Normal evolution. The same stone is proposed to Mega Evolve every Eeveelution; all nineteen Mega forms have established stats and abilities. Heritage Revival is the proposed quest sponsor. Simultaneous ownership rather than Pokedex registration is a proposed requirement, not finalized. No mandatory sponsorship; sponsors can make breeding and item acquisition easier. See [Pokemon](pokemon.md).
+
+## Abandoned Eeveelutions
+
+Proposed mini-sidequest linked to privileged, type-focused Safari habitats with increased hidden ability encounter rates. These areas also serve as environmental evolution catalysts comparable to Moss Rock and Ice Rock: high-friendship Eevee can evolve on leveling up in the corresponding habitat. Candidate species are Noxeon, Loameon, Litheon, Papileon, Spectreon and Erodeon. Existing evolution routes remain available.
+
+An NPC in each relevant habitat complains that their beautiful Eevee evolved into something disgusting while training against local wild Pokemon, indirectly revealing the environmental evolution trigger. After the player obtains Eeveeite, returning to the habitat may reveal a unique wild encounter with the corresponding Eeveelution, abandoned by its former owner. Guaranteed shiny encounters are proposed: the former owner's praise of Eevee's beauty refers to its shiny coloration, highlighting conditional affection and manufactured desirability. Exact encounter levels, abilities, retry rules, access tiers and dialogue remain TBD. These encounters are not required for the Eeveeite collection quest, and ordinary evolution routes must remain accessible beforehand.
 
 ## Eden investigations
 ### The Pikachu that never evolves
