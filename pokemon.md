@@ -109,7 +109,7 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Ferreon | Steel | Draft level up holding Metal Coat | TBD |
 | Drakeon | Dragon | Draft level up knowing Dragon move | TBD |
 | Vitrioleon | Acid | High friendship + level up while Corroded or in Acid Rain | TBD |
-| Mega Familieon (Mega Eevee) | Normal | Eeveeite; established | **130/90/100/90/100/115 (625)**; Family Bond |
+| Mega Familieon (Mega Eevee) | Normal | Eeveeite; established | **130/90/100/90/100/115 (625)**; Familial Bond |
 | Mega Vaporeon | Water | Exploratory | 130/65/100/125/125/80; Poison Heal or Regenerator (alternate Water Absorb + Regenerator) |
 | Mega Jolteon | Electric | Exploratory | 65/65/85/135/110/165; Transistor (alternate Volt Absorb + Transistor) |
 | Mega Flareon | Fire | Exploratory | 65/130/100/95/130/105; Huge Power (alternate Flash Fire + Tough Claws) |
@@ -137,7 +137,7 @@ All new Eeveelution names are working names. Evolution triggers require priority
 - **Caustic Body:** mechanically identical to Poison Point; 30% chance to inflict ordinary poison on an attacker making contact, with normal poison immunity rules.
 - **Burning Brightly:** prevents accuracy-reducing effects and improves move accuracy by 10%. Draft implementation: 1.1x multiplier, blocks accuracy-stage reductions; evasion and other accuracy interactions TBD.
 - **Precision Sting:** Technician (1.5x power for eligible moves of 60 BP or less) plus Serene Grace (double eligible secondary-effect chances).
-- **Family Bond:** eligible damaging moves strike twice, second hit at 50% damage; universal 1.5x STAB; immunity to major statuses including Corroded. Nominal eligible damage multiplier 2.25x. Draft standard Parental Bond exclusions for spread and multihit moves; test secondary effects, Power-Up Punch, priority, contact punishment, Focus Sash, recovery, ability suppression and existing/volatile statuses.
+- **Familial Bond:** eligible damaging moves strike twice, second hit at 50% damage; universal 1.5x STAB; immunity to major statuses including Corroded. Nominal eligible damage multiplier 2.25x. Draft standard Parental Bond exclusions for spread and multihit moves; test secondary effects, Power-Up Punch, priority, contact punishment, Focus Sash, recovery, ability suppression and existing/volatile statuses.
 - **Acidic Atmosphere (working name):** establishes ordinary Acid Rain on entry; Vitriol's sole ability, also available to the Acid/Flying cloud family.
 - **Primordial Corrosion (working name):** Primal Vitriol's sole ability; persistent Acid Rain while active; ordinary weather cannot replace it, but other primordial weather abilities can. Clears existing entry hazards on both sides on activation; neither switching nor subsequent hazard placement is restricted. See [weather rules](acid-type.md#acid-rain) for unresolved interactions.
 
