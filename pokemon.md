@@ -99,14 +99,14 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Glaceon | Ice | Existing | Unchanged |
 | Sylveon | Fairy | Existing | Unchanged |
 | Familieon | Normal | High friendship + level up holding Expert Belt | **130/65/60/65/95/110 (525)**; Adaptability / HA Protean; name and abilities established |
-| Champeon | Fighting | Draft level up knowing Fighting move | **65/130/95/60/65/110 (525)**; Guts / HA Inner Focus; name and abilities established |
+| Champeon | Fighting | High friendship + level up holding Black Belt | **65/130/95/60/65/110 (525)**; Guts / HA Inner Focus; name and abilities established |
 | Zephyreon | Flying | High friendship + level up holding Sharp Beak | **65/65/60/95/110/130 (525)**; Keen Eye / HA Gale Wings; name and abilities established |
 | Noxeon | Poison | High friendship + level up while poisoned or badly poisoned | **95/65/110/65/130/60 (525)**; Corrosion / HA Sticky Hold; name and abilities established |
 | Loameon | Ground | High friendship + level up holding Soft Sand or in a permanent sandstorm area | **110/95/130/60/65/65 (525)**; Sand Stream / HA Stamina; name and abilities established |
 | Litheon | Rock | High friendship + level up holding Hard Stone | **65/110/130/65/95/60 (525)**; Weak Armor / HA Skill Link; name and abilities established |
 | Papileon | Bug | High friendship + level up holding Silver Powder | **60/65/95/110/65/130 (525)**; Effect Spore / HA Shield Dust; name and abilities established |
 | Spectreon | Ghost | Dusk Stone | **65/60/65/130/110/95 (525)**; Cursed Body / HA Infiltrator; name and abilities established |
-| Ferreon | Steel | Draft level up holding Metal Coat | **65/95/130/60/110/65 (525)**; Clear Body / HA Heatproof; name and abilities established |
+| Ferreon | Steel | High friendship + level up holding Metal Coat | **65/95/130/60/110/65 (525)**; Clear Body / HA Heatproof; name and abilities established |
 | Drakeon | Dragon | High friendship + level up holding Dragon Scale | **95/110/65/130/60/65 (525)**; Shed Skin / HA Marvel Scale; name and abilities established |
 | Erodeon | Acid | High friendship + level up while Corroded or in Acid Rain | **110/60/65/95/130/65 (525)**; Caustic Body / HA Acidify; abilities established; species working name Erodeon |
 | Mega Familieon (Mega Eevee) | Normal | Eeveeite; established | **130/90/100/90/100/115 (625)**; Familial Bond |
@@ -129,7 +129,7 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Mega Drakeon | Dragon | Established | 95/150/75/170/70/65 (625); Technician; mixed attacker with low-power utility, coverage and priority options to compensate for low Speed and modest defenses; priority learnset TBD |
 | Mega Erodeon | Acid | Established | 110/60/120/95/175/65 (625); Acidic Atmosphere (working ability name) |
 
-Names established: Familieon, Champeon, Zephyreon, Noxeon, Loameon, Litheon, Papileon, Spectreon, Ferreon and Drakeon. Erodeon is the provisional Acid name. All eleven base stat spreads are established; unselected ability candidates remain draft. Evolution triggers require priority/conflict checks. Mega Familieon uses one large Eevee surrounded by chibi Eeveelutions. A single shared Mega Stone for every Eeveelution is a candidate approach. Universal Wonder Guard is exploratory, not selected; its effectiveness varies sharply with type weaknesses. Mega Vaporeon cannot hold a separate held item with Eeveeite. Fur Coat Umbreon, terrain setters and weather setters require balance testing. Mega Sylveon's loss of Pixilate is an intentional tradeoff for Dazzling's team-wide protection against opposing priority moves.
+Names established: Familieon, Champeon, Zephyreon, Noxeon, Loameon, Litheon, Papileon, Spectreon, Ferreon and Drakeon. Erodeon is the provisional Acid name. All eleven new base stat spreads and ability assignments are established. Evolution triggers require priority/conflict checks. Proposed additional high-friendship level-up evolution routes in specialized Safari habitats for Noxeon, Loameon, Litheon, Papileon, Spectreon and Erodeon; existing item/status routes remain available. See [sidequests](sidequests.md#abandoned-eeveelutions). Mega Familieon uses one large Eevee surrounded by chibi Eeveelutions. A single shared Mega Stone for every Eeveelution is a candidate approach. Universal Wonder Guard is exploratory, not selected; its effectiveness varies sharply with type weaknesses. Mega Vaporeon cannot hold a separate held item with Eeveeite. Fur Coat Umbreon, terrain setters and weather setters require balance testing. Mega Sylveon's loss of Pixilate is an intentional tradeoff for Dazzling's team-wide protection against opposing priority moves.
 
 ## Custom abilities
 
