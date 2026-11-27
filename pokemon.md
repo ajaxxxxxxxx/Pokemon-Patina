@@ -98,17 +98,17 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Leafeon | Grass | Existing | Unchanged |
 | Glaceon | Ice | Existing | Unchanged |
 | Sylveon | Fairy | Existing | Unchanged |
-| Familieon | Normal | Draft max friendship + Silk Scarf | **130/65/60/65/95/110 (525)**; candidate Adaptability / HA Protean |
-| Championeon | Fighting | Draft level up knowing Fighting move | TBD |
-| Zephyreon | Flying | Draft level up holding Pretty Feather | TBD |
-| Toxeon | Poison | Draft level up while poisoned | TBD |
-| Duneon | Ground | Draft Soft Sand or dedicated item | TBD |
-| Lithoneon | Rock | Draft Hard Stone or dedicated item | TBD |
-| Lepideon | Bug | Draft level up in ancient woodland | TBD |
-| Spectreon | Ghost | Draft Dusk Stone | TBD |
-| Ferreon | Steel | Draft level up holding Metal Coat | TBD |
-| Drakeon | Dragon | Draft level up knowing Dragon move | TBD |
-| Vitrioleon | Acid | High friendship + level up while Corroded or in Acid Rain | TBD |
+| Familieon | Normal | Draft max friendship + Silk Scarf | **130/65/60/65/95/110 (525)**; Adaptability / HA Protean; name and abilities established |
+| Champeon | Fighting | Draft level up knowing Fighting move | **65/130/95/60/65/110 (525)**; candidate Guts / HA Inner Focus; name established |
+| Zephyreon | Flying | Draft level up holding Pretty Feather | **65/65/60/110/95/130 (525)**; candidate Keen Eye / HA Wind Rider; name TBD |
+| Noxeon | Poison | Draft level up while poisoned | **95/65/110/65/130/60 (525)**; candidate Poison Point; HA TBD (Merciless not selected); name established |
+| Duneon | Ground | Draft Soft Sand or dedicated item | **110/95/130/60/65/65 (525)**; candidate Sand Veil / HA Sand Force; name TBD |
+| Litheon | Rock | Draft Hard Stone or dedicated item | **65/110/130/65/95/60 (525)**; Weak Armor / HA Skill Link; name and abilities established |
+| Papileon | Bug | Draft level up in ancient woodland | **60/65/95/110/65/130 (525)**; candidate Swarm / HA Shield Dust; name established |
+| Spectreon | Ghost | Draft Dusk Stone | **65/60/65/130/110/95 (525)**; candidate Cursed Body / HA Infiltrator; name established |
+| Ferreon | Steel | Draft level up holding Metal Coat | **65/95/130/60/110/65 (525)**; candidate Battle Armor / HA Heavy Metal; name established |
+| Drakeon | Dragon | Draft level up knowing Dragon move | **95/110/65/130/60/65 (525)**; candidate Shed Skin / HA Rivalry; name TBD |
+| Vitrioleon | Acid | High friendship + level up while Corroded or in Acid Rain | **110/60/65/95/130/65 (525)**; candidate Caustic Body; HA Acidilate (working name, Acid counterpart to Pixilate); species name TBD |
 | Mega Familieon (Mega Eevee) | Normal | Eeveeite; established | **130/90/100/90/100/115 (625)**; Familial Bond |
 | Mega Vaporeon | Water | Exploratory | 130/65/100/125/125/80; Poison Heal or Regenerator (alternate Water Absorb + Regenerator) |
 | Mega Jolteon | Electric | Exploratory | 65/65/85/135/110/165; Transistor (alternate Volt Absorb + Transistor) |
@@ -118,21 +118,22 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Mega Leafeon | Grass | Exploratory | 65/150/150/60/80/120; Tinted Lens (alternate Chlorophyll + Tinted Lens) |
 | Mega Glaceon | Ice | Exploratory | 65/60/135/155/125/85; Adaptability (alternate Snow Warning + Slush Rush) |
 | Mega Sylveon | Fairy | Exploratory | 95/65/90/145/155/75; Pixilate (alternate Pixilate + Punk Rock) |
-| Mega Championeon | Fighting | Exploratory | Tough Claws |
+| Mega Champeon | Fighting | Exploratory | Tough Claws |
 | Mega Zephyreon | Flying | Exploratory | Aerilate |
-| Mega Toxeon | Poison | Exploratory | Merciless |
+| Mega Noxeon | Poison | Exploratory | Merciless |
 | Mega Duneon | Ground | Exploratory | Sand Force |
-| Mega Lithoneon | Rock | Exploratory | Solid Rock |
-| Mega Lepideon | Bug | Exploratory | Skill Link |
+| Mega Litheon | Rock | Exploratory | Solid Rock |
+| Mega Papileon | Bug | Exploratory | Skill Link |
 | Mega Spectreon | Ghost | Exploratory | Shadow Tag |
 | Mega Ferreon | Steel | Exploratory | Filter |
 | Mega Drakeon | Dragon | Exploratory | Contrary |
 | Mega Vitrioleon | Acid | Exploratory | Serene Grace |
 
-All new Eeveelution names are working names. Evolution triggers require priority/conflict checks. Mega Familieon uses one large Eevee surrounded by chibi Eeveelutions. A single shared Mega Stone for every Eeveelution is a candidate approach. Universal Wonder Guard is exploratory, not selected; its effectiveness varies sharply with type weaknesses. Mega Vaporeon cannot hold Toxic Orb with Eeveeite; Huge Power Flareon and Fur Coat Umbreon require balance testing.
+Names established: Familieon, Champeon, Noxeon, Litheon, Papileon, Spectreon and Ferreon. Flying, Ground, Dragon and Acid names remain working names. All eleven base stat spreads are established; unselected ability candidates remain draft. Evolution triggers require priority/conflict checks. Mega Familieon uses one large Eevee surrounded by chibi Eeveelutions. A single shared Mega Stone for every Eeveelution is a candidate approach. Universal Wonder Guard is exploratory, not selected; its effectiveness varies sharply with type weaknesses. Mega Vaporeon cannot hold Toxic Orb with Eeveeite; Huge Power Flareon and Fur Coat Umbreon require balance testing.
 
 ## Custom abilities
 
+- **Acidilate (working name):** Acid counterpart to Pixilate; converts eligible Normal-type damaging moves to Acid and applies the same power multiplier as the configured Pixilate generation (1.2x under modern rules). Hidden ability of the Acid Eeveelution; final ability name TBD.
 - **Corrosive Body:** chance to inflict Corroded on an attacker making contact; draft 30% activation rate, following comparable contact-status abilities and ordinary Corroded immunity rules.
 - **Caustic Body:** mechanically identical to Poison Point; 30% chance to inflict ordinary poison on an attacker making contact, with normal poison immunity rules.
 - **Burning Brightly:** prevents accuracy-reducing effects and improves move accuracy by 10%. Draft implementation: 1.1x multiplier, blocks accuracy-stage reductions; evasion and other accuracy interactions TBD.
