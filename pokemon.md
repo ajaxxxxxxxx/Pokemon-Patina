@@ -101,7 +101,7 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Familieon | Normal | Draft max friendship + Silk Scarf | **130/65/60/65/95/110 (525)**; Adaptability / HA Protean; name and abilities established |
 | Champeon | Fighting | Draft level up knowing Fighting move | **65/130/95/60/65/110 (525)**; Guts / HA Inner Focus; name and abilities established |
 | Zephyreon | Flying | Draft level up holding Pretty Feather | **65/65/60/95/110/130 (525)**; Keen Eye / HA Gale Wings; name and abilities established |
-| Noxeon | Poison | Draft level up while poisoned | **95/65/110/65/130/60 (525)**; Poison Point; HA TBD (Black Sludge synergy under consideration); name and standard ability established |
+| Noxeon | Poison | Draft level up while poisoned | **95/65/110/65/130/60 (525)**; Corrosion / HA Sticky Hold; name and abilities established |
 | Loameon | Ground | Draft Soft Sand or dedicated item | **110/95/130/60/65/65 (525)**; Sand Stream / HA Stamina; name and abilities established |
 | Litheon | Rock | Draft Hard Stone or dedicated item | **65/110/130/65/95/60 (525)**; Weak Armor / HA Skill Link; name and abilities established |
 | Papileon | Bug | Draft level up in ancient woodland | **60/65/95/110/65/130 (525)**; Effect Spore / HA Shield Dust; name and abilities established |
@@ -120,7 +120,7 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Mega Sylveon | Fairy | Established | 95/65/100/150/155/60 (625); Dazzling; anti-priority doubles support, alternative to base Pixilate |
 | Mega Champeon | Fighting | Established | 65/160/130/60/100/110 (625); Technician |
 | Mega Zephyreon | Flying | Established | 65/65/85/120/150/140 (625); Prevailing Wind |
-| Mega Noxeon | Poison | Established | 95/65/145/100/160/60 (625); Toxic Debris |
+| Mega Noxeon | Poison | Established | 95/65/145/100/160/60 (625); Toxic Debris; base Corrosion allows poisoning normally type-immune opponents before Mega Evolution; base Sticky Hold protects removable held items such as Black Sludge |
 | Mega Loameon | Ground | Established | 110/95/130/60/115/115 (625); Sand Force; base Sand Stream establishes sandstorm before Mega Evolution, which benefits from remaining weather duration |
 | Mega Litheon | Rock | Established | 65/140/165/65/130/60 (625); Rock Head; fossil-inspired ability |
 | Mega Papileon | Bug | Established | 60/65/140/120/110/130 (625); Tinted Lens; defensive setup attacker with improved resisted-move damage |
