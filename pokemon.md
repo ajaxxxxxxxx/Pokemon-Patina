@@ -99,14 +99,14 @@ All 19 types represented, including Normal; every evolution has 525 BST using th
 | Glaceon | Ice | Existing | Unchanged |
 | Sylveon | Fairy | Existing | Unchanged |
 | Familieon | Normal | Draft max friendship + Silk Scarf | **130/65/60/65/95/110 (525)**; Adaptability / HA Protean; name and abilities established |
-| Champeon | Fighting | Draft level up knowing Fighting move | **65/130/95/60/65/110 (525)**; candidate Guts / HA Inner Focus; name established |
-| Zephyreon | Flying | Draft level up holding Pretty Feather | **65/65/60/95/110/130 (525)**; candidate Keen Eye; HA Gale Wings established; name established |
+| Champeon | Fighting | Draft level up knowing Fighting move | **65/130/95/60/65/110 (525)**; Guts / HA Inner Focus; name and abilities established |
+| Zephyreon | Flying | Draft level up holding Pretty Feather | **65/65/60/95/110/130 (525)**; Keen Eye / HA Gale Wings; name and abilities established |
 | Noxeon | Poison | Draft level up while poisoned | **95/65/110/65/130/60 (525)**; candidate Poison Point; HA Corrosion established; name established |
 | Loameon | Ground | Draft Soft Sand or dedicated item | **110/95/130/60/65/65 (525)**; candidate Sand Veil / HA Sand Force; name established |
 | Litheon | Rock | Draft Hard Stone or dedicated item | **65/110/130/65/95/60 (525)**; Weak Armor / HA Skill Link; name and abilities established |
-| Papileon | Bug | Draft level up in ancient woodland | **60/65/95/110/65/130 (525)**; candidate Swarm / HA Shield Dust; name established |
-| Spectreon | Ghost | Draft Dusk Stone | **65/60/65/130/110/95 (525)**; candidate Cursed Body / HA Infiltrator; name established |
-| Ferreon | Steel | Draft level up holding Metal Coat | **65/95/130/60/110/65 (525)**; candidate Battle Armor / HA Heavy Metal; name established |
+| Papileon | Bug | Draft level up in ancient woodland | **60/65/95/110/65/130 (525)**; standard ability TBD; HA Shield Dust established; name established |
+| Spectreon | Ghost | Draft Dusk Stone | **65/60/65/130/110/95 (525)**; candidate Cursed Body; HA Infiltrator established; name established |
+| Ferreon | Steel | Draft level up holding Metal Coat | **65/95/130/60/110/65 (525)**; standard ability TBD; candidate HA Heavy Metal; name established |
 | Drakeon | Dragon | Draft level up knowing Dragon move | **95/110/65/130/60/65 (525)**; Shed Skin / HA Marvel Scale; name and abilities established |
 | Erodeon | Acid | High friendship + level up while Corroded or in Acid Rain | **110/60/65/95/130/65 (525)**; candidate Caustic Body; HA Acidify (Acid counterpart to Pixilate); species working name Erodeon |
 | Mega Familieon (Mega Eevee) | Normal | Eeveeite; established | **130/90/100/90/100/115 (625)**; Familial Bond |
