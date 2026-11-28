@@ -79,3 +79,7 @@ The mandatory pre-Gym-6 road-closure investigation requires entering Second Chan
 ## Postgame gym progression
 
 After the League, all eight gyms reopen with revamped subordinate and leader battles; the incumbent or reinstated former leader depends on the historical badge petition quest. Historical badges are separate quest inventory items from the eight original progression badge flags, so surrendering or returning a historical badge does not reduce the player's level cap. Defeating a reinstated leader awards the historical badge again, allowing delayed legendary prerequisites to be satisfied. Timing relative to the Mewtwo gauntlet, repeatability and precise difficulty TBD. See [historical badge collection](sidequests.md#historical-badge-collection).
+
+## Sponsored traversal and fishing equipment
+
+The highest-quality fishing rod and fastest bicycle are exclusive sponsorship benefits. Lower-quality fishing rods and a standard bicycle remain available without sponsorship. Proposed assignments: Eden Reserve provides the Super Rod; Catalyst Industries provides the High-speed Bike. Exact item names, speeds, fishing encounter differences, acquisition timing and handling on loss of sponsorship remain TBD. Unsponsored equipment must permit all mandatory story traversal.
